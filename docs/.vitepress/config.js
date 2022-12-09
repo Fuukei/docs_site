@@ -13,25 +13,13 @@ export default defineConfig({
         {text: '设置',
           items: [
             { text: '主题设置', link: '/Settings/' }
-        ]},
-        {text: '关于',
-          items: [
-            { text: '关于主题', link: '/about/' },
-            { text: '使用博客', link: '/demo/' }
-        ]},
-        {text: '反馈',
-          items: [
-            { text: '反馈', link: '/Feedback/' }
         ]}
-
       ],
       nav: [
           { text: '主页', link: '/'},
           { text: '安装向导', link: '/Guide/'},
           { text: '配置', link: '/Settings/'},
           { text: '使用博客', link: '/demo/'},
-          { text: '反馈', link: '/Feedback/'},
-          { text: '关于', link: '/about/'},
           { text: '又拍云', link: 'https://www.upyun.com/'}
           /*{
             text: '下拉选择框',

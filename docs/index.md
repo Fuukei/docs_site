@@ -4,7 +4,6 @@ title: 主页
 titleTemplate: Sakurairo主题周边网站
 
 hero:
-  
   text: Sakurairo
   tagline: 主题 2.5 版本更新 现已发布
   image:
@@ -27,6 +26,4 @@ features:
   - icon: 🛠️
     title: 追加功能
     details: 新增 BiliBili 收藏模板 MyAnimeList 追番模板
-footer:
-  text: a
 ---
