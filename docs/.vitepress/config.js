@@ -6,6 +6,14 @@ export default defineConfig({
     themeConfig: {
       logo: 'https://s.nmxc.ltd/sakurairo_wiki/icon.png',
       siteTitle: 'Sakurairo',
+      algolia: {
+        appId: '6T4BKN737M',
+        apiKey: '19cccccfe35e443cd756a202837b1819',
+        indexName: 'Sakurairo_Wiki',
+        searchParameters: {
+          faeFilters: ['']
+        }
+      },
       sidebar: [
         {text: '开始',
           items: [
@@ -25,7 +33,7 @@ export default defineConfig({
           { text: '又拍云', link: 'https://www.upyun.com/'}
         ],
       footer: {
-          copyright: 'MIT Licensed | Copyright © 2020-2022 Fuukei™',
+          copyright: 'MIT Licensed | Copyright © 2020-2023 Fuukei™',
         }
       }
 });

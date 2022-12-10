@@ -1,5 +1,5 @@
 ---
-pageClass: demo-site
+layout: docs
 ---
 
 # 使用本主题的博客
