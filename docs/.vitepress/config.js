@@ -20,9 +20,18 @@ export default defineConfig({
             { text: '安装 WordPress', link: '/Guide/' },
             { text: '安装主题', link: '/Guide-Install/'}
         ]},
-        {text: '设置',
+        {text: '主题设置',
           items: [
-            { text: '主题设置', link: '/Settings/' }
+            { text: '前言', link: '/Settings/' },
+            { text: '初步设置', link: '/Settings/First-Step/' },
+            { text: '全局设置', link: '/Settings/Global/' },
+            { text: '主页设置', link: '/Settings/Front-Page/' },
+            { text: '页面设置', link: '/Settings/Pages/' },
+            { text: '其他设置', link: '/Settings/Others/' },
+            { text: '备份恢复', link: '/Settings/Backup/' },
+            { text: '关于主题', link: '/Settings/About/' },
+            { text: '模版', link: '/Settings/Templates/' },
+            { text: '短代码', link: '/Settings/Short-Code/' }
         ]}
       ],
       nav: [
