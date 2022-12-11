@@ -1,11 +1,10 @@
 ---
 layout: home
 title: 主页
-titleTemplate: Sakurairo主题周边网站
 
 hero:
-  text: Sakurairo
-  tagline: 主题 2.5 版本更新 现已发布
+  text: Theme-Sakurairo
+  tagline: Seaside Vacation 版本更新 现已发布
   image:
     src: https://s.nmxc.ltd/sakurairo_wiki/icon.png
     alt: Sakurairo
