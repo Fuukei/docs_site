@@ -2,38 +2,28 @@ name: Deploy
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      # 获取源码
-      - name: Checkout
-        uses: actions/checkout@v2
-      # 查找yarn缓存
-      - name: Get yarn cache path
-        id: yarn-cache
-        run: echo "::set-output name=dir::$(yarn cache dir)"
-      # 更新缓存
-      - name: Cache dependencies
-        uses: actions/cache@v1
+      - uses: actions/checkout@v3
         with:
-          path: ${{ steps.yarn-cache.outputs.dir }}
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
-      # 安装依赖并打包
-      - name: install and build
-        run: |
-          yarn install
-          yarn build
-          
-      # 自动部署到 gh-pages 分支
-      - name: deploy to gh-pages
-        uses: crazy-max/ghaction-github-pages@v2
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
         with:
-          target_branch: gh-pages
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.DOCS_ACTION }}
+          node-version: 16
+          cache: yarn
+      - run: yarn install --frozen-lockfile
+
+      - name: Build
+        run: yarn docs:build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs/.vitepress/dist
+          cname: docs.fuukei.org # if wanna deploy to custom domain
