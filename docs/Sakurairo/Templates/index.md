@@ -12,7 +12,7 @@ title: 模版
 
 新建页面并使用友情链接模板后，在 WordPress 后台菜单的 “链接” 选项中新增链接，就可以展示你的友情链接。
 
-![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-friendlink.png)
+![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-friendlinks.png)
 
 图示装饰色（非凡洋红） 可以在 主题设置-页面设置-模板页面设置-友情链接模板单元搭配色 调整。  
 图示友情链接卡片边框阴影 可以在 主题设置-页面设置-模板页面设置-友情链接模板单元边框阴影颜色 调整。  
@@ -37,4 +37,28 @@ title: 模版
 新建页面并使用哔哩哔哩追剧模板后，填写主题后台设置的 主题设置-页面设置-模板页面设置-哔哩哔哩 UID 选项（哔哩哔哩帐号 Cookies 选项为非必填，填写显示进度），就可以展示你的追剧列表。
 
 ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-movielist.png)
+
+## 说说模板
+
+新建页面并使用说说模板后，在 WordPress 后台菜单的 “说说” 选项中新增说说，就可以展示你的说说。
+
+![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-shuoshuo.png)
+
+## 哔哩哔哩收藏模板
+
+新建页面并使用哔哩哔哩收藏模板后，填写主题后台设置的 主题设置-页面设置-模板页面设置-哔哩哔哩 UID 选项（哔哩哔哩帐号 Cookies 选项为非必填），就可以展示你的收藏列表。
+
+## 时光轴模板
+
+新建页面并使用时光轴模板后，就可以展示你的时光轴列表。
+
+## 注册页面模板
+
+新建页面并使用注册页面模板后，就可以在模板页面进行注册。
+
+## 登录页面模板
+
+新建页面并使用登录页面模板后，就可以在模板页面进行登录。
+
+
 
