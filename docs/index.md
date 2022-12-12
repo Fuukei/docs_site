@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /Guide/
+      link: /Sakurairo/Preliminary/
     - theme: alt
       text: 在 Github 上查看
       link: https://github.com/mirai-mamori/Sakurairo
