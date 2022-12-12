@@ -42,6 +42,9 @@ export default defineConfig({
           { text: 'Github', link: 'https://github.com/mirai-mamori/Sakurairo/'},
           { text: '又拍云', link: 'https://www.upyun.com/'}
         ],
+      socialLinks: [
+          { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
+        ],
       footer: {
           copyright: 'MIT Licensed | Copyright © 2020-2023 Fuukei™',
         }
