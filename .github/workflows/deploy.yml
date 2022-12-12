@@ -24,10 +24,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
       # 安装依赖并打包
-      - name: install and build
+      - name: install
         run: |
           yarn install
-          yarn build
       # 自动部署到 gh-pages 分支
       - name: deploy to gh-pages
         uses: crazy-max/ghaction-github-pages@v2
