@@ -109,9 +109,8 @@ title: 主页设置
     - [搏天 api](https://api.btstu.cn/doc/sjbz.php)
     - [墨天逸](https://api.mtyqx.cn/)
     - [黑子 API](https://api.kuroko.cn/rand/ecy-img/pc.php)
-    - 北熙 API（桐乃 API）因遭受恶意 DDoS 破产停运
 
-- Webp 优化随机图：选择后在下方填写 Manifest 路径，更多信息请参考[webp 优化随机图说明](/webp/)。
+- Webp 优化随机图：选择后在下方填写 Manifest 路径，更多信息请参考[webp 优化随机图说明](/Sakurairo/Webp/)。
 
 - 封面随机图片多终端分离：开启后桌面端和移动端会分别使用不同的随机图 API 地址
 

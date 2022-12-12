@@ -30,7 +30,6 @@ export default defineConfig({
             { text: '其他设置', link: '/Sakurairo/Others/' },
             { text: '备份恢复', link: '/Sakurairo/Bac-Rec/' },
             { text: '关于主题', link: '/Sakurairo/About-Theme/' },
-            { text: 'WEBP 随机图', link: '/Sakurairo/Webp/' },
             { text: '模版', link: '/Sakurairo/Templates/' },
             { text: '短代码', link: '/Sakurairo/Short-Code/' }
         ]}
