@@ -122,7 +122,6 @@ title: 主页设置
     - [搏天 api](https://api.btstu.cn/doc/sjbz.php)
     - [墨天逸](https://api.mtyqx.cn/)
     - [黑子 API](https://api.kuroko.cn/rand/ecy-img/pe.php)
-    - 北熙 API（桐乃 API）因遭受恶意 DDoS 破产停运
 
 ### 封面随机背景图片缓存
 
