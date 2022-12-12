@@ -1,13 +1,8 @@
 ---
 title: 安装 WordPress
 ---
+
 # 安装 WordPress
-
-::: tip 主题交流群
-欢迎加入主题交流群讨论：[784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik)
-:::
-
-## 部署WordPress
 
 ![服务器-上传文件](https://s.nmxc.ltd/sakurairo_wiki/help/wp-install-1.png)
 
