@@ -7,14 +7,14 @@ title: 安装主题
 ## 配置要求 <Badge type="tip" text="2022年12月" />
 
 ::: warning 最低要求：  
-   Nginx/Apache：2020年之后发行的版本。  
-   PHP：7.3及以上版本  
-   MySQL：5.6及以上版本
+   Nginx/Apache：2020 年之后发行的版本。  
+   PHP：7.3 及以上版本  
+   MySQL：5.6 及以上版本
 :::
 ::: tip 推荐：  
-   Nginx：1.23  
-   PHP：8.1  
-   MySQL：8.0
+   Nginx：1.23.X 版本  
+   PHP：8.1.X 版本  
+   MySQL：8.0.X 版本
 :::
 
 ## 上传并启用主题
