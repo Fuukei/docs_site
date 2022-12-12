@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Fuukei 周边文档',
     themeConfig: {
-      logo: 'https://s.nmxc.ltd/sakurairo_wiki/icon.png',
+      logo: 'https://s.nmxc.ltd/fuukei_docs/sakurairo/icon.png',
       siteTitle: 'Theme-Sakurairo',
       algolia: {
         appId: '6T4BKN737M',
