@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as p,a}from"./app.8eeae30d.js";const k=JSON.parse('{"title":"\u5B89\u88C5 WordPress","description":"","frontmatter":{"title":"\u5B89\u88C5 WordPress"},"headers":[],"relativePath":"Guide/index.md"}'),e={name:"Guide/index.md"},r=a("",13),i=[r];function n(l,o,d,c,_,h){return p(),t("div",null,i)}const u=s(e,[["render",n]]);export{k as __pageData,u as default};
