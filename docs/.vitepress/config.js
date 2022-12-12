@@ -45,7 +45,7 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
         ],
       footer: {
-          copyright: 'MIT Licensed | Copyright © 2020-2023 Fuukei™',
+          copyright: 'This Page Use MIT Licensed | Copyright © 2020-2023 Fuukei™',
         }
       }
 });
