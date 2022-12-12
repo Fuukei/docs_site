@@ -29,7 +29,7 @@ title: 短代码
 [warning]这是警告提示块[/warning]
 ```
 
-同时预置了 1 种伸缩信息块
+同时预置了 1 种收缩信息块
 
 ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/sc-infobar.png)
 ```
