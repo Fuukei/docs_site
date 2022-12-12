@@ -31,3 +31,10 @@ title: 模版
 需要填写你的 My Anime List 用户名，可以调整番剧的排列顺序。
 
 ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-animelist.png)
+
+## 哔哩哔哩追剧模板
+
+新建页面并使用哔哩哔哩追剧模板后，填写主题后台设置的 主题设置-页面设置-模板页面设置-哔哩哔哩 UID 选项（哔哩哔哩帐号 Cookies 选项为非必填，填写显示进度），就可以展示你的追剧列表。
+
+![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-movielist.png)
+
