@@ -14,7 +14,9 @@
     "yarn": "^1.22.19"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.30",
+    "vitepress": "^1.0.0-alpha.31",
+    "unplugin-vue-components": "^0.22.8",
+    "@vueuse/core": "^9.3.0",
     "vue": "^3.2.45"
   }
 }
