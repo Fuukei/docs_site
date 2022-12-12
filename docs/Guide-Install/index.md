@@ -1,8 +1,9 @@
 ---
 title: 安装主题
+lastUpdated: true
 ---
 
-## 安装主题
+# 安装主题
 
 ## 配置要求
 

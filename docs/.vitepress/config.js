@@ -39,7 +39,6 @@ export default defineConfig({
           { text: '准备工作', link: '/Guide/'},
           { text: '主题设置', link: '/Sakurairo/Preliminary/'},
           { text: '使用博客', link: '/demo/'},
-          { text: 'Github', link: 'https://github.com/mirai-mamori/Sakurairo/'},
           { text: '又拍云', link: 'https://www.upyun.com/'}
         ],
       socialLinks: [
