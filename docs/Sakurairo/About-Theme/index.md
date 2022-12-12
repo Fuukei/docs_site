@@ -1,9 +1,11 @@
 ---
 title: 关于主题
 ---
-# 关于主题 <Badge type="warning" text="内容尚未更新" />
+# 关于主题 <Badge type="tip" text="v2.5.6" />
 
 ## 版本信息
+
+![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/at-version.png)
 
 这里可以查看版本代号 LOGO 和版本号
 
@@ -15,7 +17,7 @@ title: 关于主题
 
 使用国内服务器用户如无法访问 GitHub 则可以更换更新源
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz69.png)
+![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/at-source.png)
 
 ## 资源控制
 
@@ -33,16 +35,15 @@ title: 关于主题
 
 ### 公共 CDN 路径
 
-又拍云 / JSD
+你可以选择 又拍云 或者 jsDeliver 作为你主题的公共 CDN 路径
 
 ### 视觉资源路径
 
 此链接目录结构需要与 Fuukei 官方提供的 （[Sakurairo Vision](https://github.com/Fuukei/Sakurairo_Vision)） 公共仓库保持一致，否则可能会出现一些资源 404。默认采用 又拍云 提供的镜像源。
 
-- 大家提供的公开视觉地址：（提供方-地址）
-
-  - 筱烷：[https://cdn.kusu.icu/Sakurairo_Vision-2.5/](https://cdn.kusu.icu/Sakurairo_Vision-2.5/)
-  - 小七：[https://iro.yateam.cc](https://iro.yateam.cc) 默认 2.4，可以后面/2.4 或/2.5 改版本
-  - 小智：[https://api.kuroko.cn/Sakurairo_Vision/main/](https://api.kuroko.cn/Sakurairo_Vision/main/)
-  - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
-
+::: tip 第三方提供的公开视觉地址：（提供方-地址）：    
+  - 筱烷：[https://cdn.kusu.icu/Sakurairo_Vision-2.5/](https://cdn.kusu.icu/Sakurairo_Vision-2.5/)  
+  - 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)   
+  - 小智：[https://api.kuroko.cn/Sakurairo_Vision/main/](https://api.kuroko.cn/Sakurairo_Vision/main/)  
+  - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)  
+:::
