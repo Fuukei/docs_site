@@ -7,7 +7,7 @@ title: 关于主题
 
 ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/at-version.png)
 
-这里可以查看版本代号 LOGO 和版本号
+这里可以查看版本 LOGO 和版本号
 
 ## 更新相关
 

@@ -4,21 +4,24 @@ title: 安装主题
 
 # 安装主题
 
-## 配置要求
+## 配置要求 <Badge type="tip" text="2022年12月" />
 
-::: warning 注意  
-运行本主题，推荐使用Nginx+PHP+MySQL组合，具体要求如下：  
+::: warning 最低要求：  
    Nginx/Apache：2020年之后发行的版本。  
    PHP：7.3及以上版本  
    MySQL：5.6及以上版本
 :::
-::: tip 目前（2022年12月）推荐：  
+::: tip 推荐：  
    Nginx：1.23  
    PHP：8.1  
    MySQL：8.0
 :::
 
 ## 上传并启用主题
+
+::: warning 注意！  
+下载主题后，请解压并将解压后的主题文件夹重命名为 “Sakurairo” ，然后重新压缩成 ZIP 格式文件。
+:::
 
 ![仪表盘-外观](https://s.nmxc.ltd/sakurairo_wiki/help/1.png)
 
