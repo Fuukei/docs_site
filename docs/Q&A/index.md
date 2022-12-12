@@ -1,6 +1,5 @@
 ---
 title: 常见问题
-lastUpdated: true
 ---
 
 # 常见问题

@@ -1,6 +1,5 @@
 ---
 title: 安装主题
-lastUpdated: true
 ---
 
 # 安装主题

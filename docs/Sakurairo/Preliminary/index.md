@@ -1,10 +1,10 @@
 ---
 title: 初步设置
-lastUpdated: true
 ---
 ::: tip 参与交流
 [QQ 群：784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik) & [Telegram群:fksakurairo](https://t.me/fksakurairo)
 :::
+
 
 # 初步设置
 

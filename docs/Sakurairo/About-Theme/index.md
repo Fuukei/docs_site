@@ -45,4 +45,4 @@ title: 关于主题
   - 小七：[https://iro.yateam.cc](https://iro.yateam.cc) 默认 2.4，可以后面/2.4 或/2.5 改版本
   - 小智：[https://api.kuroko.cn/Sakurairo_Vision/main/](https://api.kuroko.cn/Sakurairo_Vision/main/)
   - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
-  - 熙宝：因遭受恶意 DDoS 攻击，破产停运。
+

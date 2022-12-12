@@ -1,6 +1,5 @@
 ---
 title: 安装 WordPress
-lastUpdated: true
 ---
 
 # 安装 WordPress
