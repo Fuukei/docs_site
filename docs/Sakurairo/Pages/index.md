@@ -1,7 +1,7 @@
 ---
 title: 页面设置
 ---
-# 页面设置
+# 页面设置 <Badge type="warning" text="内容尚未更新" />
 
 ## 综合设置
 

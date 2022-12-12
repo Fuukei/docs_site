@@ -1,7 +1,7 @@
 ---
 title: 关于主题
 ---
-# 关于主题
+# 关于主题 <Badge type="warning" text="内容尚未更新" />
 
 ## 版本信息
 

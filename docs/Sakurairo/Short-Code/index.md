@@ -1,7 +1,7 @@
 ---
 title: 短代码
 ---
-# 短代码
+# 短代码 <Badge type="warning" text="内容尚未更新" />
 
 ## 文章内嵌块
 

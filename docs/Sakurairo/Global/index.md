@@ -1,7 +1,7 @@
 ---
 title: 全局设置
 ---
-# 全局设置
+# 全局设置 <Badge type="warning" text="内容尚未更新" />
 
 ## 外观设置
 
