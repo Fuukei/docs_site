@@ -28,7 +28,7 @@ jobs:
         run: |
           yarn install
           yarn build
-      # 自动部署到gh-pages分支
+      # 自动部署到 gh-pages 分支
       - name: deploy to gh-pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
