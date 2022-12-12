@@ -27,7 +27,7 @@ jobs:
       - name: install and build
         run: |
           yarn install
-          yarn run build
+          yarn build
           
       # 自动部署到 gh-pages 分支
       - name: deploy to gh-pages
