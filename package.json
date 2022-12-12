@@ -9,7 +9,8 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "build": "npm run page && npm run rss && npm run json"
+    "build": "npm run page"
+    "page": "cross-env NODE_ENV=production vite-ssg build",
   },
   "dependencies": {
     "yarn": "^1.22.19"
