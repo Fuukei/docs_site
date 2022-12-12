@@ -33,5 +33,5 @@ title: 短代码
 
 ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/sc-infobar.png)
 ```
-[collapse title="已知Feature（事实是BUG"]我说没有你信码？（迫真[/collapse]
+[collapse title="这是收缩信息块，这里是标题"]这里是信息[/collapse]
 ```
