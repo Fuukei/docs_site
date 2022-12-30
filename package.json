@@ -16,6 +16,7 @@
   "devDependencies": {
     "jsdom": "^20.0.3",
     "vitepress": "^1.0.0-alpha.33",
-    "vue": "^3.2.45"
+    "vue": "^3.2.45",
+    "vue-cli": "^2.9.6"
   }
 }
