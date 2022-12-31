@@ -16,8 +16,8 @@ ol, ul {
     box-sizing: border-box;
 }
 .links ul li{
-    min-width: 20%;
-    width: 29%;
+    min-width: 15%;
+    width: 18%;
     float: left;
     border-style: solid !important;
     border-width: 2px;
@@ -109,16 +109,16 @@ body.dark .linkdes {
 <style>
 @media (min-width: 960px){
 .Demo {
-    padding: 32px 32px 0;
+    padding: 32px 32px 0 32px;
 }
 }
 @media (min-width: 768px){
 .Demo {
-    padding: 48px 32px 128px;
+    padding: 48px 32px 128px 32px;
 }
 }
 .Demo {
-    padding: 32px 24px 96px;
+    padding: 32px 32px 96px 32px;
     width: 100%;
 }
 .container-2 {
