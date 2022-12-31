@@ -11,6 +11,7 @@
     "docs:serve": "vitepress serve docs"
   },
   "dependencies": {
+    "rollup": "^3.9.0",
     "yarn": "^1.22.19"
   },
   "devDependencies": {
