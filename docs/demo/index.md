@@ -1,23 +1,13 @@
 ---
 layout: page
 ---
-<!--<div class="VPDoc has-sidebar vp-doc">
-<div class="container" data-v-10119189="">
-<div class="content" data-v-10119189="">
-<div class="content-container" data-v-10119189="">
-<h1>使用本主题的博客</h1>
-
-<p>如果你已经使用了本主题，欢迎前往 [讨论区](https://github.com/Fuukei/Sakurairo_Wiki/discussions/) 找到当前月份的讨论并留下你的站点，Fuukei 团队成员将会进行审核，达标将会加入展示队伍中。</p>
-</div>
-</div>
-</div>
-</div>
+<!--
 # 使用本主题的博客
 如果你已经使用了本主题，欢迎前往 [讨论区](https://github.com/Fuukei/Sakurairo_Wiki/discussions/) 找到当前月份的讨论并留下你的站点，Fuukei 团队成员将会进行审核，达标将会加入展示队伍中。-->
-<div class="VPDoc has-sidebar" data-v-10119189="" data-v-98ddab3d="">
-<div class="container" data-v-10119189="">
-<div class="content" data-v-10119189="">
-<div class="vp-doc content-container" data-v-10119189="">
+<div class="Demo has-sidebar">
+<div class="container-2">
+<div class="content-2">
+<div class="vp-doc content-container-2">
 <h1>使用本主题的博客</h1>
 <p>如果你已经使用了本主题，欢迎前往 <a href="https://github.com/Fuukei/Sakurairo_Wiki/discussions/" target="_blank">讨论区</a> 找到当前月份的讨论并留下你的站点，Fuukei 团队成员将会进行审核，达标将会加入展示队伍中。</p>
 <div class="links">
@@ -129,14 +119,6 @@ layout: page
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://fudaoyuan.icu" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/sakurairo_wiki/links/fudaoyuan.icu.webp"><br>
-<span class="sitename">fudaoyuan.icu</span>
-<div class="linkdes">代码萌新，热爱折腾，喜欢花草和养鱼</div>
-</a>
-</li>
-
-<li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://www.wapriaily.com/" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/sakurairo_wiki/links/www.wapriaily.com.webp"><br>
 <span class="sitename">Wapriaily</span>
@@ -157,14 +139,6 @@ layout: page
 <img src="https://s.nmxc.ltd/sakurairo_wiki/links/blog.utopiaxc.cn.webp"><br>
 <span class="sitename">UtopiaXC's Blog</span>
 <div class="linkdes">尽管如此，世界依旧美丽</div>
-</a>
-</li>
-
-<li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://junsheng.life/" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/sakurairo_wiki/links/junsheng.life.webp"><br>
-<span class="sitename">Junsheng 's blog</span>
-<div class="linkdes">一个喜欢warma的白帽子</div>
 </a>
 </li>
 

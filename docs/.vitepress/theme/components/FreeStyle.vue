@@ -41,8 +41,6 @@ ul {
     margin-inline-end: 0px;
     padding-inline-start: 40px;
 }
-</style>
-<style>
 a {
     background-color: transparent;
     text-decoration: none;
@@ -107,5 +105,38 @@ span.sitename {
 body.dark .linkdes {
     color: #CCCCCC;
 }
-
+</style>
+<style>
+@media (min-width: 960px){
+.Demo {
+    padding: 32px 32px 0;
+}
+}
+@media (min-width: 768px){
+.Demo {
+    padding: 48px 32px 128px;
+}
+}
+.Demo {
+    padding: 32px 24px 96px;
+    width: 100%;
+}
+.container-2 {
+    margin: 0 auto;
+    width: 100%;
+}
+@media (min-width: 960px)
+{
+    .content-2 {
+    padding: 0 32px 128px;
+}
+}
+.content-2 {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+}
+.content-container-2 {
+    margin: 0 auto;
+}
 </style>
