@@ -88,7 +88,7 @@ layout: page
 
 <li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://blog.vincent1230.top/" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/blog.vincent1230.top@20221011.webp"><br>
+<img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/blog.vincent1230.top.webp"><br>
 <span class="sitename">Vincent文朔</span>
 <div class="linkdes">太阳出来了 雾就会散的.</div>
 </a>
