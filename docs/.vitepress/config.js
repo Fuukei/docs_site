@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress';
 
 export default defineConfig({
   title: 'Fuukei 周边文档',
+  head:[
+    ['link', { rel: 'icon', href: 'https://s.nmxc.ltd/sakurairo_wiki/icon.png' }]
+    ],
     themeConfig: {
       logo: 'https://s.nmxc.ltd/fuukei_docs/sakurairo/icon.png',
       siteTitle: 'Theme-Sakurairo',
