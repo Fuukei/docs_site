@@ -16,7 +16,7 @@ ol, ul {
     box-sizing: border-box;
 }
 .links ul li{
-    min-width: 15%;
+    min-width: 140px;
     width: 18%;
     float: left;
     border-style: solid !important;
