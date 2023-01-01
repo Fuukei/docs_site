@@ -1,0 +1,1 @@
+var demo = document.getElementsByClassName("Demo")
