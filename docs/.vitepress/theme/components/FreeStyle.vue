@@ -17,7 +17,7 @@ ol, ul {
 }
 .links ul li{
     min-width: 140px;
-    width: 18%;
+    width: 20%;
     float: left;
     border-style: solid !important;
     border-width: 2px;
@@ -31,7 +31,21 @@ ol, ul {
     -webkit-transition: all .8s;
     transition: all .8s;
     border-radius: 10px;
+    
 }
+@media (max-width: 860px){
+    .links ul li {
+    width: 40%;
+}
+}
+@media (max-width: 630px){
+    .links ul li {
+    width: 100% !important;
+    margin: 0px;
+    margin-bottom: 8px;
+}
+}
+
 ul {
     display: block;
     list-style-type: disc;
@@ -76,7 +90,7 @@ img {
     max-width: 100%;
 }
 span.sitename {
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 84px;
     margin-left: 8px;
     margin-right: 8px;
@@ -91,7 +105,7 @@ span.sitename {
     font-weight: 300;
 }
 .linkdes {
-    font-size: 14px;
+    font-size: 12px;
     margin-left: 8px;
     margin-right: 8px;
     text-overflow: ellipsis;
