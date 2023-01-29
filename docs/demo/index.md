@@ -15,7 +15,7 @@ title: 使用本主题的博客
 <ul class="link-items fontSmooth">
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://asuhe.jp/" target="_blank" one-link-mark="yes">
+<a class="link-item-inner effect-apollo" href="https://kiseki.blog/" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg"><br>
 <span class="sitename">明日が来ると</span>
 <div class="linkdes">信じてること自体が希望なんだ</div>
