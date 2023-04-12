@@ -42,7 +42,7 @@ title: 关于主题
 此链接目录结构需要与 Fuukei 官方提供的 （[Sakurairo Vision](https://github.com/Fuukei/Sakurairo_Vision)） 公共仓库保持一致，否则可能会出现一些资源 404。默认采用 又拍云 提供的镜像源。
 
 ::: tip 第三方提供的公开视觉地址（提供方-地址）：    
-  - 筱烷：[https://cdn.kusu.icu/Sakurairo_Vision-2.5/](https://cdn.kusu.icu/Sakurairo_Vision-2.5/)  
+  - 筱烷（支持2.5与2.6，请根据需求在链接后面添加@2.5或@2.6）：[https://cdn.kusu.icu/sakurairo_vision/](https://cdn.kusu.icu/sakurairo_vision/)  
   - 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)   
   - 小智：[https://api.kuroko.cn/Sakurairo_Vision/main/](https://api.kuroko.cn/Sakurairo_Vision/main/)  
   - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)  
