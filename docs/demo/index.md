@@ -120,14 +120,6 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://www.wapriaily.com/" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/www.wapriaily.com.webp"><br>
-<span class="sitename">Wapriaily</span>
-<div class="linkdes">目之所及皆是回忆，心之所想皆是过往，眼之所看皆是遗憾。</div>
-</a>
-</li>
-
-<li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://cmu.bwmc.live" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/cmu.bwmc.live.webp"><br>
 <span class="sitename">BWMC社区</span>
