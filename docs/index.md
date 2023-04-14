@@ -4,7 +4,7 @@ title: 主页
 
 hero:
   text: Theme-Sakurairo
-  tagline: Seaside Vacation 版本更新 现已发布
+  tagline: 2.6 版本更新 即将发布
   image:
     src: https://s.nmxc.ltd/fuukei_docs/sakurairo/icon.png
     alt: Sakurairo
