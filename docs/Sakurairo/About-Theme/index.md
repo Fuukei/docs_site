@@ -1,7 +1,7 @@
 ---
 title: 关于主题
 ---
-# 关于主题 <Badge type="tip" text="v2.5.6" />
+# 关于主题 <Badge type="tip" text="v2.6.0" />
 
 ## 版本信息
 
