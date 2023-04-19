@@ -5,21 +5,23 @@ title: 其他设置
 
 ## 登录界面和仪表盘相关设置
 
-### 登录页面
+### ⭐登录页面
 
 #### 登录界面背景图片
 
 设置登录界面背景图片 URL
 
-> 此选项留空则显示默认背景
+> 设置你的登录界面背景图片，此选项留空则显示默认背景
 
 #### 登录界面背景虚化
 
-设置登录界面背景虚化是否开启
+设置登录界面背景虚化是否开启，开启之后登录界面背景图片将被虚化
 
 #### 登录界面 Logo
 
-设置登录界面 Logo 图片 URL
+> 设置登录界面 Logo 图片 URL（注意，该logo会显示在左上角）
+![image](https://user-images.githubusercontent.com/87865570/233059104-75313187-00c8-4194-b415-934b95507978.png)
+
 
 #### 登录后跳转
 
@@ -31,7 +33,7 @@ title: 其他设置
 
 开启之后登录界面将显示语言选项
 
-### 仪表盘背景图片
+### ⭐仪表盘
 
 设置仪表盘背景图片
 
@@ -61,6 +63,32 @@ title: 其他设置
 
 设置仪表盘文本颜色
 
+## ChatGPT设置 <Badge type="tip" text="新设置！" />
+
+### ChatGPT 访问地址
+
+> 填写ChatGPT访问地址，默认使用 http://sxy.gay/
+
+### ChatGPT API密钥
+
+> 填写您的 ChatGPT API 密钥，您可以访问  [OpenAI 网站](https://platform.openai.com/account/api-keys) 获取您的 API 密钥（获取方式请自行百度）
+
+### ChatGPT 文章摘要
+
+> 开启之后 ChatGPT 会自动生成文章摘要
+
+![image](https://user-images.githubusercontent.com/87865570/233061909-7bbe163b-30fe-4ade-8871-7b97f05a29eb.png)
+
+你的每次文章更新都会触发生成摘要请求。由于目前API限制，如果你的文章超过 4097 Token，系统将会只发送未超出部分以生成摘要
+
+### ChatGPT 文章摘要初始化提示
+
+> 填写初始化提示，请你在知道如何正确配置的情况下进行修改，初始化提示将作为“系统”角色设定传递给 ChatGPT
+
+### ChatGPT 文章摘要要求提示
+
+> 填写询问文本，选项为空时使用预设值，请你在知道如何正确配置的情况下进行修改
+
 ## 低使用设置
 
 ### 统计接口
@@ -85,13 +113,7 @@ title: 其他设置
 
 > 开启之后将在前台实现实时搜索，调用 Rest API 每小时更新一次缓存，可在 api.php 里手动设置缓存时间
 
-### 实时搜索评论支援
-
-设置实时搜索评论支援是否开启
-
-> 开启之后将在可在实时搜索中搜索评论（如果网站评论数量太多不建议开启）
-
-### 谷歌统计代码
+### 谷歌统计ID
 
 设置谷歌统计代码
 
@@ -123,7 +145,7 @@ Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案�
 
 默认使用 Cravatar 服务作为 Gravatar 服务代理。
 
-### 灯箱
+### ⭐灯箱
 
 #### BaguetteBox 灯箱效果
 
@@ -155,7 +177,11 @@ Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案�
 <a data-fancybox="gallery" href="big_1.jpg"><img src="small_1.jpg"></a>
 <a data-fancybox="gallery" href="big_2.jpg"><img src="small_2.jpg"></a>
 ```
-### 代码高亮
+#### LightGallery灯箱效果
+
+> 开启之后将使用LightGallery作为图片灯箱效果
+
+### ⭐代码高亮
 
 代码高亮程序
 
@@ -164,6 +190,10 @@ Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案�
 **Prism.js**： 需要指定语言，使用方法请参阅 [基本用法](https://prismjs.com/#basic-usage) 和 [如何代码高亮动态载入的文件](https://prismjs.com/%20plugins/file-highlight/)。
 
 **自定义**： 适用于另有配置的情况。
+
+<p align="center">注意：以下设置不推荐盲目进行修改，请在他人的指导下使用！ </p>
+<p align="center">↓↓↓↓ </p>
+
 
 ### 图片 CDN
 
