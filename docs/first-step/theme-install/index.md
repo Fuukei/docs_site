@@ -13,7 +13,7 @@ title: 安装主题
 :::
 ::: tip 推荐：  
    Nginx：1.23.X 版本  
-   PHP：8.1.X 版本  
+   PHP：8.２.X 版本  
    MySQL：8.0.X 版本
 :::
 

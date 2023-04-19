@@ -2,7 +2,7 @@
 title: 初步设置
 ---
 
-# 初步设置 <Badge type="warning" text="内容尚未更新" />
+# 初步设置 <Badge type="warning" text="更新了，但没完全更新" />
 
 ::: tip 参与交流
 [QQ 群：784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik) & [Telegram群:fksakurairo](https://t.me/fksakurairo)
