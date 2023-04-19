@@ -42,8 +42,21 @@ title: 关于主题
 此链接目录结构需要与 Fuukei 官方提供的 （[Sakurairo Vision](https://github.com/Fuukei/Sakurairo_Vision)） 公共仓库保持一致，否则可能会出现一些资源 404。默认采用 又拍云 提供的镜像源。
 
 ::: tip 第三方提供的公开视觉地址（提供方-地址）：    
-  - 筱烷（支持2.5与2.6，请根据需求在链接后面添加@2.5或@2.6）：[https://cdn.kusu.icu/sakurairo_vision/](https://cdn.kusu.icu/sakurairo_vision/)  
+  - 筱烷：[https://cdn.kusu.icu/sakurairo_vision/@2.6/](https://cdn.kusu.icu/sakurairo_vision/@2.6/)  
   - 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)   
-  - 小智：[https://api.kuroko.cn/Sakurairo_Vision/main/](https://api.kuroko.cn/Sakurairo_Vision/main/)  
-  - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)  
+  - 小智：[https://api.kuroko.cn/sakurairo_vision/@2.6/](https://api.kuroko.cn/sakurairo_vision/@2.6/)
+- 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
+原神版更换后请在主页设置→封面社交区域设置里手动更换为“珊瑚朱色”  
+:::
+
+## 隐私信息
+
+主题尊重你的隐私
+但是，当你使用主题预置的中国大陆服务商提供的服务时，服务商可能会收集有关你的访问者的数据并统计数据
+你可以通过本地化与主题相关的资源来减少发送给第三方的信息，主题提供相关选项配置
+
+**可以在此处设置是否开启“发送主题版本到 Fuukei 官方”**
+
+::: tip
+主题只会向 Fuukei 官方发送时间和版本信息，数据将定期清理并仅用于统计版本更新。
 :::
