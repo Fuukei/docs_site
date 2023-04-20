@@ -44,6 +44,9 @@ title: 其他设置
 
 > 设置你的仪表盘背景图片，此选项留空则显示白色背景
 
+![image](https://user-images.githubusercontent.com/87865570/233370287-76ff1ace-46b3-4894-98fe-66f176e26ff9.png)
+⚠注意：需要个人资料中“管理界面配色方案”选择Sakurairo🌸，否则不生效
+
 ### 仪表板设置菜单样式
 
 - ![](https://s.nmxc.ltd/sakurairo_vision/@2.5/options/admin_left_style_v1.webp)
@@ -68,11 +71,17 @@ title: 其他设置
 
 设置仪表盘文本颜色
 
+⚠注意：上述颜色设置只对图中Sakurairo🌸界面配色方案生效
+
 ## ChatGPT设置 <Badge type="tip" text="新设置！" />
+
+⚠ 注意：如果不了解本功能请勿开启，相关问题不予解答
 
 ### ChatGPT 访问地址
 
 > 填写ChatGPT访问地址，默认使用 http://sxy.gay/
+
+⚠ 注意：其他地址请自行确认连通性
 
 ### ChatGPT API密钥
 
@@ -91,7 +100,7 @@ title: 其他设置
 > 填写初始化提示，请你在知道如何正确配置的情况下进行修改，初始化提示将作为“系统”角色设定传递给 ChatGPT
 
 ![image](https://user-images.githubusercontent.com/87865570/233348473-a1122c0d-f1c0-4b25-9b1e-bd6fb8bc2f3a.png)
-⚠请注意，画圈部分如果缺失则摘要显示为英文
+⚠注意，画圈部分如果缺失则摘要显示为英文
 
 ### ChatGPT 文章摘要要求提示
 
@@ -115,6 +124,8 @@ title: 其他设置
 - 23 333 次访问
 - 23k 次访问
 
+⚠ 注意：该统计为文章访问量
+
 ### 实时搜索
 
 设置实时搜索是否开启
@@ -134,6 +145,8 @@ title: 其他设置
 ### 自定义插入 Header 代码
 ​
 在前插入HTML代码
+
+⚠ 注意：自定义代码请斟酌，出现问题自行处理
 
 ### 时区修正
 
@@ -198,7 +211,7 @@ title: 其他设置
 **自定义**： 适用于另有配置的情况。
 
 <br>
-<p align="center">注意：以下设置不推荐盲目进行修改，请在他人的指导下使用！ </p>
+<p align="center">⚠注意：以下设置不推荐盲目进行修改，请在他人的指导下使用！ </p>
 <p align="center">↓↓↓↓ </p>
 
 ### 图片 CDN
