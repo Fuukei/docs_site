@@ -141,19 +141,15 @@ title: 其他设置
 
 > 滑动滑块，如果评论出现时差问题在这里调整，填入一个整数，计算方法：实际时间=显示错误的时间-你输入的整数（单位：小时）
 
-### Gravatar 服务
-
-Cravatar 服务：
-
-![image](https://user-images.githubusercontent.com/87865570/233350268-0a8806e0-1f98-4e99-87df-06d54a1324ba.png)
-
-#### Gravatar 服务代理
+### Gravatar 服务代理
 
 设置 Gravatar 服务代理
 
 你可以选择多种代理作为 Gravatar 服务代理(Cravatar 服务、极兔族、loli net、官方、官方中国镜像)。
 
 默认使用 Cravatar 服务作为 Gravatar 服务代理。
+
+![image](https://user-images.githubusercontent.com/87865570/233350268-0a8806e0-1f98-4e99-87df-06d54a1324ba.png)
 
 ### ⭐灯箱
 
