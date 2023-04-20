@@ -143,7 +143,7 @@ title: 其他设置
 
 ### Gravatar 服务
 
-Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案，你可以自由的上传和分享头像。前往 <a href="https://cravatar.cn/">官方站点</a> 获取更多信息
+Cravatar 服务：
 
 ![image](https://user-images.githubusercontent.com/87865570/233350268-0a8806e0-1f98-4e99-87df-06d54a1324ba.png)
 
