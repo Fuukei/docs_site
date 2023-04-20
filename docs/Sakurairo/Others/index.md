@@ -1,7 +1,7 @@
 ---
 title: 其他设置
 ---
-# 其他设置 <Badge type="warning" text="更新了，但没完全更新" />
+# 其他设置 <Badge type="warning" text="更新啦！" />
 
 ## 登录界面和仪表盘相关设置
 
@@ -13,6 +13,10 @@ title: 其他设置
 
 > 设置你的登录界面背景图片，此选项留空则显示默认背景
 
+![image](https://user-images.githubusercontent.com/87865570/233346064-fed669cf-f7e4-4e3b-9295-96024e4c9dbe.png)
+
+⚠自定义链接请注意避免http混淆问题
+
 #### 登录界面背景虚化
 
 设置登录界面背景虚化是否开启，开启之后登录界面背景图片将被虚化
@@ -21,7 +25,6 @@ title: 其他设置
 
 > 设置登录界面 Logo 图片 URL（注意，该logo会显示在左上角）
 ![image](https://user-images.githubusercontent.com/87865570/233059104-75313187-00c8-4194-b415-934b95507978.png)
-
 
 #### 登录后跳转
 
@@ -32,6 +35,8 @@ title: 其他设置
 #### 登录界面语言选项
 
 开启之后登录界面将显示语言选项
+
+![image](https://user-images.githubusercontent.com/87865570/233347335-389f32ee-0b82-45ad-99eb-37ab561da685.png)
 
 ### ⭐仪表盘
 
@@ -85,6 +90,9 @@ title: 其他设置
 
 > 填写初始化提示，请你在知道如何正确配置的情况下进行修改，初始化提示将作为“系统”角色设定传递给 ChatGPT
 
+![image](https://user-images.githubusercontent.com/87865570/233348473-a1122c0d-f1c0-4b25-9b1e-bd6fb8bc2f3a.png)
+⚠请注意，画圈部分如果缺失则摘要显示为英文
+
 ### ChatGPT 文章摘要要求提示
 
 > 填写询问文本，选项为空时使用预设值，请你在知道如何正确配置的情况下进行修改
@@ -136,6 +144,8 @@ title: 其他设置
 ### Gravatar 服务
 
 Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案，你可以自由的上传和分享头像。前往 <a href="https://cravatar.cn/">官方站点</a> 获取更多信息
+
+![image](https://user-images.githubusercontent.com/87865570/233350268-0a8806e0-1f98-4e99-87df-06d54a1324ba.png)
 
 #### Gravatar 服务代理
 
@@ -191,16 +201,15 @@ Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案�
 
 **自定义**： 适用于另有配置的情况。
 
+<br>
 <p align="center">注意：以下设置不推荐盲目进行修改，请在他人的指导下使用！ </p>
 <p align="center">↓↓↓↓ </p>
 
-
 ### 图片 CDN
 
-如想使用图片 CDN
+使用图片 CDN
 
 > 注意：填写格式为 http(s)://你的 CDN 域名/。也就是说，原路径为 http://your.domain/wp-content/uploads/2018/05/xx.png 的图片将从 http://你的CDN域名/2018/05/xx.png 加载
-
 
 ### 文章分类（不显示）
 
