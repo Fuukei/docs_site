@@ -1,7 +1,7 @@
 ---
 title: 其他设置
 ---
-# 其他设置 <Badge type="warning" text="更新了，但没完全更新" />
+# 其他设置 <Badge type="tip" text="v2.6.0" />
 
 ## 登录界面和仪表盘相关设置
 
@@ -13,6 +13,10 @@ title: 其他设置
 
 > 设置你的登录界面背景图片，此选项留空则显示默认背景
 
+![image](https://temp-cdn.kusu.icu/87865570/233346064-fed669cf-f7e4-4e3b-9295-96024e4c9dbe.png)
+
+⚠自定义链接请注意避免http混淆问题
+
 #### 登录界面背景虚化
 
 设置登录界面背景虚化是否开启，开启之后登录界面背景图片将被虚化
@@ -20,8 +24,7 @@ title: 其他设置
 #### 登录界面 Logo
 
 > 设置登录界面 Logo 图片 URL（注意，该logo会显示在左上角）
-![image](https://user-images.githubusercontent.com/87865570/233059104-75313187-00c8-4194-b415-934b95507978.png)
-
+![image](https://temp-cdn.kusu.icu/87865570/233059104-75313187-00c8-4194-b415-934b95507978.png)
 
 #### 登录后跳转
 
@@ -33,11 +36,16 @@ title: 其他设置
 
 开启之后登录界面将显示语言选项
 
+![image](https://temp-cdn.kusu.icu/87865570/233347335-389f32ee-0b82-45ad-99eb-37ab561da685.png)
+
 ### ⭐仪表盘
 
 设置仪表盘背景图片
 
 > 设置你的仪表盘背景图片，此选项留空则显示白色背景
+
+![image](https://temp-cdn.kusu.icu/87865570/233370287-76ff1ace-46b3-4894-98fe-66f176e26ff9.png)
+⚠注意：需要个人资料中“管理界面配色方案”选择Sakurairo🌸，否则不生效
 
 ### 仪表板设置菜单样式
 
@@ -63,11 +71,17 @@ title: 其他设置
 
 设置仪表盘文本颜色
 
+⚠注意：上述颜色设置只对图中Sakurairo🌸界面配色方案生效
+
 ## ChatGPT设置 <Badge type="tip" text="新设置！" />
+
+⚠ 注意：如果不了解本功能请勿开启，相关问题不予解答
 
 ### ChatGPT 访问地址
 
 > 填写ChatGPT访问地址，默认使用 http://sxy.gay/
+
+⚠ 注意：其他地址请自行确认连通性
 
 ### ChatGPT API密钥
 
@@ -77,13 +91,16 @@ title: 其他设置
 
 > 开启之后 ChatGPT 会自动生成文章摘要
 
-![image](https://user-images.githubusercontent.com/87865570/233061909-7bbe163b-30fe-4ade-8871-7b97f05a29eb.png)
+![image](https://temp-cdn.kusu.icu/87865570/233061909-7bbe163b-30fe-4ade-8871-7b97f05a29eb.png)
 
 你的每次文章更新都会触发生成摘要请求。由于目前API限制，如果你的文章超过 4097 Token，系统将会只发送未超出部分以生成摘要
 
 ### ChatGPT 文章摘要初始化提示
 
 > 填写初始化提示，请你在知道如何正确配置的情况下进行修改，初始化提示将作为“系统”角色设定传递给 ChatGPT
+
+![image](https://temp-cdn.kusu.icu/87865570/233348473-a1122c0d-f1c0-4b25-9b1e-bd6fb8bc2f3a.png)
+⚠注意，画圈部分如果缺失则摘要显示为英文
 
 ### ChatGPT 文章摘要要求提示
 
@@ -107,6 +124,8 @@ title: 其他设置
 - 23 333 次访问
 - 23k 次访问
 
+⚠ 注意：该统计为文章访问量
+
 ### 实时搜索
 
 设置实时搜索是否开启
@@ -127,23 +146,23 @@ title: 其他设置
 ​
 在前插入HTML代码
 
+⚠ 注意：自定义代码请斟酌，出现问题自行处理
+
 ### 时区修正
 
 设置时区修正
 
 > 滑动滑块，如果评论出现时差问题在这里调整，填入一个整数，计算方法：实际时间=显示错误的时间-你输入的整数（单位：小时）
 
-### Gravatar 服务
-
-Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案，你可以自由的上传和分享头像。前往 <a href="https://cravatar.cn/">官方站点</a> 获取更多信息
-
-#### Gravatar 服务代理
+### Gravatar 服务代理
 
 设置 Gravatar 服务代理
 
 你可以选择多种代理作为 Gravatar 服务代理(Cravatar 服务、极兔族、loli net、官方、官方中国镜像)。
 
 默认使用 Cravatar 服务作为 Gravatar 服务代理。
+
+![image](https://temp-cdn.kusu.icu/87865570/233350268-0a8806e0-1f98-4e99-87df-06d54a1324ba.png)
 
 ### ⭐灯箱
 
@@ -191,16 +210,16 @@ Cravatar 服务： Cravatar 服务 是 Gravatar 服务 在中国的替代方案�
 
 **自定义**： 适用于另有配置的情况。
 
-<p align="center">注意：以下设置不推荐盲目进行修改，请在他人的指导下使用！ </p>
-<p align="center">↓↓↓↓ </p>
-
+::: warning
+⚠注意：以下设置不推荐盲目进行修改，请在他人的指导下使用！  
+↓↓↓↓
+:::
 
 ### 图片 CDN
 
-如想使用图片 CDN
+使用图片 CDN
 
 > 注意：填写格式为 http(s)://你的 CDN 域名/。也就是说，原路径为 http://your.domain/wp-content/uploads/2018/05/xx.png 的图片将从 http://你的CDN域名/2018/05/xx.png 加载
-
 
 ### 文章分类（不显示）
 
