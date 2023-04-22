@@ -1,7 +1,7 @@
 ---
 title: 主页设置
 ---
-# 主页设置 <Badge type="warning" text="内容尚未更新" />
+# 主页设置 <Badge type="warning" text="更新了，但没完全更新" />
 
 ## 封面设置
 
