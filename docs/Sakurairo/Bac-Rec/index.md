@@ -4,7 +4,7 @@ title: 备份恢复
 
 # 备份恢复 <Badge type="tip" text="v2.6.0" />
 
-![](/img/b&r.png)
+![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/b&r.png)
 
 ## 备份：
 

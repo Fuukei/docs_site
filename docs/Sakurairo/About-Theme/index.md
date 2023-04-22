@@ -6,21 +6,21 @@ title: 关于主题
 
 ## 版本信息
 
-![](/img/about_theme_version_infomation.png)
+![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/about_theme_version_infomation.png)
 
-这里可以查看版本 LOGO 和版本号
+可以查看版本 LOGO 和版本号
 
 ## 更新相关
 
 ### 主题更新源
 
-![](/img/about_theme_update.png)
+![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/about_theme_update.png)
 
 可以直接在 WordPress 后台检查并更新
 
-- 使用国内服务器用户如无法访问 GitHub 则可以更换更新源
+- 如服务器在国内，访问 GitHub 不畅时，则可以更换其他更新源
 
-- 使用官方源则可以选择更新通道
+- 使用官方源时可以选择更新通道
 
 ## 资源控制
 
@@ -38,12 +38,12 @@ title: 关于主题
 
 ### 公共 CDN 路径
 
-![](/img/about_theme_cdn.png)
-您可以选择 又拍云 或者 jsDeliver 作为您主题的公共 CDN 路径
+![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/about_theme_cdn.png)
+您可以选择 **又拍云** 或者 **jsDeliver** 作为您主题的公共 CDN 路径
 
 ### 视觉资源路径
 
-此链接目录结构需要与 Fuukei 官方提供的 （[Sakurairo Vision](https://github.com/Fuukei/Sakurairo_Vision)） 公共仓库保持一致，否则可能会出现一些资源 404。默认采用 又拍云 提供的镜像源。
+此链接目录结构需要与 Fuukei 官方提供的 （[Sakurairo Vision](https://github.com/Fuukei/Sakurairo_Vision)） 公共仓库保持一致，否则可能会出现一些资源 404。默认采用 **又拍云** 提供的镜像源。
 
 ::: tip 第三方提供的公开视觉地址（提供方-地址）：
 
@@ -58,6 +58,7 @@ title: 关于主题
 ## 隐私信息
 
 主题尊重您的隐私
+
 但是，当您使用主题预置的中国大陆服务商提供的服务时，服务商可能会收集有关您的访问者的数据并统计数据
 您可以通过本地化与主题相关的资源来减少发送给第三方的信息，主题提供相关选项配置
 

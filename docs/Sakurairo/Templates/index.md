@@ -10,7 +10,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `友情链接模板` ：
 
-   ![](/img/friends_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/friends_template_select.png)
 
 2. 打开 WordPress 后台菜单中的 “链接” 选项
 
@@ -18,7 +18,7 @@ title: 模版
 
 4. 在分类中新建或选中已有的分类，即可实现对友情链接分组：
 
-   ![](/img/friends_template_set_group.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/friends_template_set_group.png)
 
 完成链接的新建后，使用 `友情链接` 模板的页面将会显示您的友情链接：
 
@@ -42,7 +42,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `追番模板` ：
 
-   ![](/img/bangumi_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/bangumi_template_select.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-追番模板源 中，选择您想要使用的追番源
 
@@ -62,7 +62,7 @@ title: 模版
 
     3.  选择其中一项结果，并复制其 Cookie：
 
-        ![](/img/bangumi_Bilibili_Cookie.png)
+        ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/bangumi_Bilibili_Cookie.png)
 
 ### My Anime List 源配置
 
@@ -72,11 +72,11 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩追剧模板` ：
 
-   ![](/img/movie_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/movie_template_select.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-哔哩哔哩 UID 中填写您的 UID
 
-3. 完成对应追番源的配置后，使用 `哔哩哔哩追剧` 模板的页面将会显示您的追番列表：
+3. 完成配置后，使用 `哔哩哔哩追剧` 模板的页面将会显示您的追剧列表：
 
 ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-movielist.png)
 
@@ -88,7 +88,7 @@ title: 模版
 
 3.  选择其中一项结果，并复制其 Cookie：
 
-    ![](/img/bangumi_Bilibili_Cookie.png)
+    ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/bangumi_Bilibili_Cookie.png)
 
 4.  在 `哔哩哔哩账号Cookies` 中填写您的 Cookie
 
@@ -96,7 +96,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `说说模板` ：
 
-   ![](/img/shuoshuo_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/shuoshuo_template_select.png)
 
 2. 使用 `说说` 模板的页面将会展示您的说说：
 
@@ -106,40 +106,40 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩收藏模板` ：
 
-   ![](/img/favorite_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/favorite_template_select.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-哔哩哔哩 UID 中填写您的 UID 和 Cookie（非必填）
 
 3. 完成配置后，使用 `哔哩哔哩收藏` 模板的页面将会显示您的收藏列表：
 
-   ![](/img/favorite_show.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/favorite_show.png)
 
 ## 时光轴模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `时光轴模板` ：
 
-   ![](/img/time_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/time_template_select.png)
 
 2. 使用 `时光轴` 模板的页面将会显示您的收藏列表：
 
-   ![](/img/time_show.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/time_show.png)
 
 ## 注册页面模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `注册页面模板` ：
 
-   ![](/img/sign_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/sign_template_select.png)
 
 2. 使用 `注册页面` 模板的页面将允许注册：
 
-   ![](/img/sign_show.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/sign_show.png)
 
 ## 登录页面模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `登录页面模板` ：
 
-   ![](/img/login_template_select.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/login_template_select.png)
 
 2. 使用 `登录页面` 模板的页面将允许登录：
 
-   ![](/img/login_show.png)
+   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/login_show.png)
