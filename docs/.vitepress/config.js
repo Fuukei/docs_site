@@ -5,7 +5,7 @@ export default defineConfig({
   title: 'Fuukei 周边文档',
   head:[
     ['link', { rel: 'icon', href: 'https://s.nmxc.ltd/fuukei_docs/sakurairo/favicon.ico' }],
-    ["script", { src: './js/main.js'}]
+    ["script", { src: '/js/main.js'}]
     ],
     themeConfig: {
       logo: 'https://s.nmxc.ltd/fuukei_docs/sakurairo/icon.png',
