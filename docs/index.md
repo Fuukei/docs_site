@@ -4,9 +4,9 @@ title: 主页
 
 hero:
   text: Theme-Sakurairo
-  tagline: 2.6 版本更新 即将发布
+  tagline: 2.6 版本更新
   image:
-    src: https://s.nmxc.ltd/fuukei_docs/sakurairo/icon.png
+    src: https://cdn.kusu.icu/login_logo.webp
     alt: Sakurairo
   actions:
     - theme: brand
