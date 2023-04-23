@@ -10,7 +10,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `友情链接模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/friends_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814324-3948c2cf-fe0e-4d29-81c9-4f647d2a41b3.png)
 
 2. 打开 WordPress 后台菜单中的 “链接” 选项
 
@@ -18,7 +18,7 @@ title: 模版
 
 4. 在分类中新建或选中已有的分类，即可实现对友情链接分组：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/friends_template_set_group.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814325-2ec42db4-a5c0-4f04-8958-0d1f3eae89d7.png)
 
 完成链接的新建后，使用 `友情链接` 模板的页面将会显示您的友情链接：
 
@@ -42,7 +42,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `追番模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/bangumi_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814320-41f45be6-9a02-4d8a-9993-5932112efd7c.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-追番模板源 中，选择您想要使用的追番源
 
@@ -62,7 +62,7 @@ title: 模版
 
     3.  选择其中一项结果，并复制其 Cookie：
 
-        ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/bangumi_Bilibili_Cookie.png)
+        ![](https://temp-cdn.kusu.icu/28827378/233814317-f1f6a66a-d4d3-43cb-8b1a-d50c8ecf1d31.png)
 
 ### My Anime List 源配置
 
@@ -72,7 +72,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩追剧模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/movie_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814330-44402ea8-46b1-4f2c-94ed-dfcf6aaa3053.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-哔哩哔哩 UID 中填写您的 UID
 
@@ -88,7 +88,7 @@ title: 模版
 
 3.  选择其中一项结果，并复制其 Cookie：
 
-    ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/bangumi_Bilibili_Cookie.png)
+    ![](https://temp-cdn.kusu.icu/28827378/233814317-f1f6a66a-d4d3-43cb-8b1a-d50c8ecf1d31.png)
 
 4.  在 `哔哩哔哩账号Cookies` 中填写您的 Cookie
 
@@ -96,7 +96,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `说说模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/shuoshuo_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814344-957030a0-f795-4f09-b656-b47e1b04d340.png)
 
 2. 使用 `说说` 模板的页面将会展示您的说说：
 
@@ -106,40 +106,40 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩收藏模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/favorite_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814323-e78d6ff1-513a-413c-8452-897b230e2a16.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-哔哩哔哩 UID 中填写您的 UID 和 Cookie（非必填）
 
 3. 完成配置后，使用 `哔哩哔哩收藏` 模板的页面将会显示您的收藏列表：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/favorite_show.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814321-e906f6b5-f5dc-4e1e-b1bd-760a2871bec6.png)
 
 ## 时光轴模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `时光轴模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/time_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814351-e588bf51-0407-473d-b223-dc65616b309e.png)
 
 2. 使用 `时光轴` 模板的页面将会显示您的收藏列表：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/time_show.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814349-d7509feb-8a05-4d2f-9ff8-2176a7edf5b1.png)
 
 ## 注册页面模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `注册页面模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/sign_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814348-18e47efd-df48-4e7f-90f6-87e67cbbe734.png)
 
 2. 使用 `注册页面` 模板的页面将允许注册：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/sign_show.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814347-155bfcb8-0cb3-4850-81f9-366a8451bf36.png)
 
 ## 登录页面模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `登录页面模板` ：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/login_template_select.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814328-9f11ee72-6b0d-42c9-a386-d97ed29800d1.png)
 
 2. 使用 `登录页面` 模板的页面将允许登录：
 
-   ![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/login_show.png)
+   ![](https://temp-cdn.kusu.icu/28827378/233814327-b404adcc-6f7f-4433-8311-d184a90e5d1d.png)

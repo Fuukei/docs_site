@@ -58,7 +58,7 @@ title: 短代码
 [ghcard path="mirai-mamori/Sakurairo"]/pin/username=mirai-mamori&amp;repo=Sakurairo[/ghcard]
 ```
 
-![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/short_code_ghcard_show.png)
+![](https://temp-cdn.kusu.icu/28827378/233814342-f72871f7-0805-49dc-9092-78db04293fc7.png)
 
 ## 卡片信息块
 
@@ -70,7 +70,7 @@ title: 短代码
 [showcard icon="fa-address-card" title="mirai-mamori" img="https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg" color="#cce1eb"]https://kiseki.blog[/showcard]
 ```
 
-![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/short_code_showcard_show.png)
+![](https://temp-cdn.kusu.icu/28827378/233814343-6ee9a59e-7583-4d2d-8cf7-735c8a747ad8.png)
 
 ## 聊天气泡
 
@@ -84,4 +84,4 @@ title: 短代码
 [conversations avatar="https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg" direction="row-reverse"]World[/conversations]
 ```
 
-![](https://raw.githubusercontent.com/AiYuuki/docs_site/main/docs/img/short_code_chat.png)
+![](https://temp-cdn.kusu.icu/28827378/233814341-ab9ba25a-f406-4b66-9e15-ff31cf13983f.png)
