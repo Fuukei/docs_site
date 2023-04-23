@@ -1,4 +1,6 @@
 var demo = document.getElementsByClassName("Demo")
+
+if ( /*@cc_on!@*/ false || (!!window.MSInputMethodContext && !!document.documentMode)) window.location.href = "/upgrade-your-browser/index.html?referrer=" + encodeURIComponent(window.location.href);
 function handleRouting() {
     var AccessPath = window.location.pathname;
     switch (AccessPath){
