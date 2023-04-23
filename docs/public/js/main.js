@@ -25,3 +25,8 @@ function handleRouting() {
 handleRouting();
 
 window.addEventListener("hashchange", handleRouting)
+window.addEventListener('load', function () {
+    if (Boolean(window.navigator.userAgent.match(/AppWebKit.*Mobile.*/))) {
+        document.getElementById('cursor').style.display = 'none'
+    }
+})
