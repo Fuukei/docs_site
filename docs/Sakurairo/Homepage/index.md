@@ -11,9 +11,9 @@ title: 主页设置
 
 > 如果关闭，这个 封面设置 版块的设置都不会有效(默认开启)
 
-- 关闭状态则直接显示展示区域/文章：![](https://user-images.githubusercontent.com/103624556/233815619-8e6c7549-1ea2-456a-b162-bfa1fb78dfdf.png)
+- 关闭状态则直接显示展示区域/文章：![](https://temp-cdn.kusu.icu/103624556/233815619-8e6c7549-1ea2-456a-b162-bfa1fb78dfdf.png)
 
-- 开启状态则会同时展示封面区域/展示区域/文章区域：![](https://user-images.githubusercontent.com/103624556/233815622-ba7a455f-7d75-409d-9a99-17141611abbc.png)
+- 开启状态则会同时展示封面区域/展示区域/文章区域：![](https://temp-cdn.kusu.icu/103624556/233815622-ba7a455f-7d75-409d-9a99-17141611abbc.png)
 
 ### 封面全屏显示
 
@@ -22,10 +22,10 @@ title: 主页设置
 > 如果关闭主页封面将不会全屏显示
 
 - 全屏显示关闭状态
-![](https://user-images.githubusercontent.com/103624556/233815625-fa825dce-3eb8-4892-a82f-9e7227da5956.png)
+![](https://temp-cdn.kusu.icu/103624556/233815625-fa825dce-3eb8-4892-a82f-9e7227da5956.png)
 
 - 全屏显示开启状态
-![](https://user-images.githubusercontent.com/103624556/233815623-4078a141-ee52-4d3f-b0ad-b3cb163bdc4c.pn)
+![](https://temp-cdn.kusu.icu/103624556/233815623-4078a141-ee52-4d3f-b0ad-b3cb163bdc4c.pn)
 
 ### 封面圆角
 
@@ -37,10 +37,10 @@ title: 主页设置
 设置封面动画时间
 
 - 开启封面动画
-![](https://user-images.githubusercontent.com/103624556/233815626-ed38755d-94e3-4aee-b590-b12a0f8ec695.gif)
+![](https://temp-cdn.kusu.icu/103624556/233815626-ed38755d-94e3-4aee-b590-b12a0f8ec695.gif)
 
 - 关闭封面动画
-![](https://user-images.githubusercontent.com/103624556/233815627-998a8177-a3dd-48e4-944f-dee8af168c73.gif)
+![](https://temp-cdn.kusu.icu/103624556/233815627-998a8177-a3dd-48e4-944f-dee8af168c73.gif)
 
 > 滑动滑块设置，推荐数值范围为 1-2
 
@@ -49,7 +49,7 @@ title: 主页设置
 设置封面是否开启显示封面信息栏(默认开启)
 
 > 如果关闭主页封面`头像、白猫特效文字、签名栏、社交区域`将不会显示(就只会显示封面)
-![](https://user-images.githubusercontent.com/103624556/233815631-2e0b25b8-d1c7-491f-b823-d82ff91c295b.png)
+![](https://temp-cdn.kusu.icu/103624556/233815631-2e0b25b8-d1c7-491f-b823-d82ff91c295b.png)
 
 ### 封面信息栏样式
 
@@ -67,7 +67,7 @@ title: 主页设置
 ### 封面信息栏背景颜色
 
 设置封面信息栏背景颜色
-![](https://user-images.githubusercontent.com/103624556/233815633-495b0955-7890-4d14-ae2f-062518d709ad.png)
+![](https://temp-cdn.kusu.icu/103624556/233815633-495b0955-7890-4d14-ae2f-062518d709ad.png)
 
 > 建议使用浅色系颜色
 
@@ -78,15 +78,15 @@ title: 主页设置
 > 滑动滑块设置，推荐数值为 100
 
 - 修改为0时
-![](https://user-images.githubusercontent.com/103624556/233815634-e1e639b5-44b1-42a0-8197-29c05d3147ef.png)
+![](https://temp-cdn.kusu.icu/103624556/233815634-e1e639b5-44b1-42a0-8197-29c05d3147ef.png)
 
 - 修改为100时
-![](https://user-images.githubusercontent.com/103624556/233815635-d9fa717c-6c4d-42f0-ab14-a1f1413d8c30.png)
+![](https://temp-cdn.kusu.icu/103624556/233815635-d9fa717c-6c4d-42f0-ab14-a1f1413d8c30.png)
 
 ### 封面签名栏圆角
 
 设置封面签名栏圆角
-（当前设置为15）![](https://user-images.githubusercontent.com/103624556/233815636-764ec98e-dbf2-4c2b-9229-33128207c16b.png)
+（当前设置为15）![](https://temp-cdn.kusu.icu/103624556/233815636-764ec98e-dbf2-4c2b-9229-33128207c16b.png)
 
 > 滑动滑块设置，推荐数值范围为 10-20
 
