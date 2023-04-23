@@ -1,7 +1,7 @@
 ---
 title: 主页设置
 ---
-# 主页设置 <Badge type="warning" text="V2.6.0" />
+# 主页设置 <Badge type="tip" text="v2.6.0" />
 
 ## 封面设置
 
