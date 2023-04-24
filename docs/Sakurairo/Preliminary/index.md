@@ -29,15 +29,16 @@ title: 初步设置
 
 会启动白猫特效文字
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz3.png)
+![](https://temp-cdn.kusu.icu/28827378/233882902-71d8b1f6-4fe7-4cbf-afc0-a0fb43c90cf8.png)
 
-> （开启之后和 个人头像 冲突，将会替换个人头像）
+> （开启之后和 个人头像 冲突）
 
 ## 导航菜单 Logo
 
 上传导航菜单 Logo 或填写 URL
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz4.png)
+![](https://temp-cdn.kusu.icu/28827378/233883079-42908019-bb81-454c-b325-f9c077203651.png)
+![](https://temp-cdn.kusu.icu/28827378/233883024-3d748df7-4ddb-42bd-aaeb-64aedd911744.png)
 
 > （开启之后和 导航菜单文字 Logo 冲突）
 
