@@ -14,7 +14,7 @@ title: 短代码
 [noway]这是禁止提示块[/noway]
 ```
 
-![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/sc-noway.png)
+![](https://temp-cdn.kusu.icu/28827378/233880762-53bffdfb-7572-41f6-ba1e-1b67c2af6783.png)
 
 ### 允许提示块
 
@@ -22,7 +22,7 @@ title: 短代码
 [buy]这是允许提示块[/buy]
 ```
 
-![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/sc-buy.png)
+![](https://temp-cdn.kusu.icu/28827378/233880918-f8cdd380-3d0e-4371-ad7d-028904264572.png)
 
 ### 任务提示块
 
@@ -30,7 +30,7 @@ title: 短代码
 [task]这是任务提示块[/task]
 ```
 
-![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/sc-task.png)
+![](https://temp-cdn.kusu.icu/28827378/233881168-1aa3eed2-2e8a-49d5-9729-f322d992ebde.png)
 
 ### 警告提示块
 
@@ -38,7 +38,7 @@ title: 短代码
 [warning]这是警告提示块[/warning]
 ```
 
-![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/sc-warning.png)
+![](https://temp-cdn.kusu.icu/28827378/233881362-8762ad15-e1f0-411b-9e5f-5adf04d0667f.png)
 
 ## 折叠信息块
 
@@ -46,7 +46,8 @@ title: 短代码
 [collapse title="这是收缩信息块，这里是标题"]这里是信息[/collapse]
 ```
 
-![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/sc-infobar.png)
+![](https://temp-cdn.kusu.icu/28827378/233881489-ddcd8620-b467-4125-8ff8-316ff20d2022.png)
+![](https://temp-cdn.kusu.icu/28827378/233881513-6ea51212-9aaa-4eda-9954-94f771bf06c9.png)
 
 ## GitHub 仓库信息块
 
@@ -63,14 +64,17 @@ title: 短代码
 ## 卡片信息块
 
 ```
-将 #标题# 替换为卡片标题、 #图片链接# 替换为图片 URL、 #链接# 替换为超链接：
-[showcard icon="fa-address-card" title="#标题#" img="#图片链接#" color="#cce1eb"]#链接#[/showcard]
+#icon# 替换为 FontAwesome 6 icon
+#标题# 替换为卡片标题
+#图片链接# 替换为图片 URL
+#链接# 替换为超链接
+[showcard icon="#icon#" title="#标题#" img="#图片链接#" color="#cce1eb"]#链接#[/showcard]
 
 例如：
-[showcard icon="fa-address-card" title="mirai-mamori" img="https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg" color="#cce1eb"]https://kiseki.blog[/showcard]
+[showcard icon="fa-regular fa-bookmark" title="mirai-mamori" img="https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg" color="#cce1eb"]https://kiseki.blog[/showcard]
 ```
 
-![](https://temp-cdn.kusu.icu/28827378/233814343-6ee9a59e-7583-4d2d-8cf7-735c8a747ad8.png)
+![](https://temp-cdn.kusu.icu/28827378/233882385-b847eddf-979d-4cae-8c31-6e1eafa7fa61.png)
 
 ## 聊天气泡
 
