@@ -25,7 +25,7 @@ title: 主页设置
 ![](https://temp-cdn.kusu.icu/103624556/233815625-fa825dce-3eb8-4892-a82f-9e7227da5956.png)
 
 - 全屏显示开启状态
-![](https://temp-cdn.kusu.icu/103624556/233815623-4078a141-ee52-4d3f-b0ad-b3cb163bdc4c.pn)
+![](https://temp-cdn.kusu.icu/42903464/234001834-c0a113a8-eb6c-4e9b-84cc-f22e37af14e6.png)
 
 ### 封面圆角
 

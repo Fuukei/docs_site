@@ -51,6 +51,7 @@ title: 关于主题
 - 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)
 - 小智：[https://api.kuroko.cn/sakurairo_vision/@2.6/](https://api.kuroko.cn/sakurairo_vision/@2.6/)
 - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
+- CircleCrop：[https://vision-public.aiccrop.com/@2.6/](https://aiccrop.com/2023/sakurairo-vision-public/)
 
 如使用 `原神特供版` 需要在 `主页设置 → 封面社交区域设置` 中，将 `社交网络图标` 更换为“珊瑚朱色”  
 :::
