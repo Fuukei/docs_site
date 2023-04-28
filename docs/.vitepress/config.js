@@ -60,7 +60,7 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
         ],
       footer: {
-          copyright: 'This Page Use MIT Licensed | Copyright © 2020-2023 Fuukei™',
+          copyright: 'Fuukei Sponsored by <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"> <img alt="upyun-logo" src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/upyun_logo.webp"  style="display:inline-block;vertical-align:middle;width:60px;height:30px;"/> | This Page Use MIT Licensed | Copyright © 2020-2023 Fuukei™',
         }
       }
 });
