@@ -28,7 +28,14 @@ handleRouting();
 
 window.addEventListener("hashchange", handleRouting)
 window.addEventListener('load', function () {
+	
     if (Boolean(window.navigator.userAgent.match(/AppWebKit.*Mobile.*/))) {
         document.getElementById('cursor').style.display = 'none'
     }
 })
+
+document.getElementsByTagName('head')[0].appendChild(script);
+var script = document.createElement('script');
+    var url = '/js/cursor.js'
+	script.setAttribute('type','text/javascript');
+	script.setAttribute('src',url);
