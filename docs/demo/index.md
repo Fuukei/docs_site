@@ -135,6 +135,13 @@ title: 使用本主题的博客
 </a>
 </li>
 
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://aiccrop.com/" target="_blank" one-link-mark="yes">
+<img src="https://aiccrop.com/wp-content/uploads/2023/04/4c50eef3bdaf0b4164ce.webp"><br>
+<span class="sitename">CircleCrop's Blog</span>
+<div class="linkdes">A boy from China who likes photography, music and ACGN.</div>
+</a>
+</li>
 </ul>
 </div>
 </div>
