@@ -158,9 +158,9 @@ title: 其他设置
 
 设置 Gravatar 服务代理
 
-你可以选择多种代理作为 Gravatar 服务代理(Cravatar 服务、极兔族、loli net、官方、官方中国镜像)。
+你可以选择多种代理作为 Gravatar 服务代理(Tianli、Weavatar服务、Cravatar 服务、极兔族、loli net、官方、官方中国镜像)。
 
-默认使用 Cravatar 服务作为 Gravatar 服务代理。
+默认使用 Tianli 服务作为 Gravatar 服务代理。
 
 ![image](https://temp-cdn.kusu.icu/87865570/233350268-0a8806e0-1f98-4e99-87df-06d54a1324ba.png)
 

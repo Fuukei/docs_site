@@ -30,6 +30,10 @@ export default defineConfig({
             { text: '关于主题', link: '/Sakurairo/About-Theme/' },
             { text: '模版', link: '/Sakurairo/Templates/' },
             { text: '短代码', link: '/Sakurairo/Short-Code/' }
+        ]},
+        {text: '更新日志',
+          items: [
+            { text: '更新日志', link: '/Sakurairo/Update-Log/' }
         ]}
       ],
       nav: [
