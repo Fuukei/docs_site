@@ -106,7 +106,7 @@ title: 使用本主题的博客
 <li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://www.ylk.cool/" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/www.ylk.cool.webp"><br>
-<span class="sitename">MarshiroHellscythe</span>
+<span class="sitename">Makoto</span>
 <div class="linkdes">IN YOUR HEART</div>
 </a>
 </li>
