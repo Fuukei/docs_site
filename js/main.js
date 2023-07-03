@@ -34,8 +34,9 @@ window.addEventListener('load', function () {
     }
 })
 
-document.getElementsByTagName('head')[0].appendChild(script);
+var head = document.getElementsByTagName('head')[0];
 var script = document.createElement('script');
     var url = '/js/cursor.js'
 	script.setAttribute('type','text/javascript');
 	script.setAttribute('src',url);
+    head.appendChild(script);
