@@ -66,7 +66,7 @@ title: 页面设置
 
 定义浅色 / 深色模式下段落中内联代码的背景色；代码块背景色由高亮 JS 定义（其他设置 > 低使用设置）
 
-### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">文章扩展区</span>
+## 文章扩展区 
 
 ### 文章页面功能栏
 
@@ -110,13 +110,13 @@ title: 页面设置
 
 ## 模板页面设置
 
-### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Public Settings</span>
+## Public Settings 
 
 ### 模板页面标题字体大小
 
 设置模板页面标题字体大小，如模板中“时光轴 Timeline”等
 
-### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">ShuoShuo Template Settings</span>
+## ShuoShuo Template Settings 
 
 ### 说说模板说说背景颜色 I/II
 
@@ -135,7 +135,7 @@ title: 页面设置
 
 说说模板分页时每页显示的数量
 
-### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Bangumi Template Settings</span>
+## Bangumi Template Settings 
 
 ### 追番模板源
 
@@ -157,7 +157,7 @@ title: 页面设置
 ::: warning 提示：“哔哩哔哩 cookies”在 Bilibili 被选为追番模板源时不添加 cookies 可能会报错。
 :::
 
-### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Friend Link Template Settings</span>
+## Friend Link Template Settings 
 
 友情链接模板启用之后，请在 wordpress 自带的“链接”版块中添加链接。
 
@@ -187,7 +187,7 @@ title: 页面设置
 
 控制排序为升序 / 降序。
 
-### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Login Template Settings</span>
+## Login Template Settings 
 
 ### 登录模板注册功能
 
@@ -256,7 +256,7 @@ Markdown 图标颜色、Commmets 标题下划线颜色等
 
 已弃用。
 
-## 邮件模板特色图片
+### 邮件模板特色图片
 
 ![邮件模板特色图片](https://cdn.kusu.icu/Sakurairo_Vision-2.5/series/mail_head.webp)
 
