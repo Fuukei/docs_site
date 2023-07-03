@@ -71,7 +71,7 @@ title: 其他设置
 
 设置仪表盘文本颜色
 
-⚠注意：上述颜色设置只对图中Sakurairo🌸界面配色方案生效
+⚠ 注意：上述颜色设置只对图中Sakurairo🌸界面配色方案生效
 
 ## ChatGPT设置 <Badge type="tip" text="新设置！" />
 
