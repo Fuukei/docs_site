@@ -8,9 +8,11 @@ title: 页面设置
 
 ### 页面样式
 
-- 圆角样式<br><br>
+- 圆角样式
+
+
   ![圆角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_iro.webp)
-- 直角样式<br>
+- 直角样式
   ![直角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_sakura.webp)
 
 ### 页面排版样式
@@ -39,7 +41,8 @@ title: 页面设置
 ### 页面 LazyLoad
 
 设置页面 LazyLoad 加载加载是否开启显示，开启后页面图片会有 LazyLoad 加载效果
-<br>**警告：WordPress 区块编辑器自带图像 LazyLoad，非必要不用开启；其他插件若启用 LazyLoad 可能会造成冲突，如 EWWW Image Optimizer.**
+
+**警告：WordPress 区块编辑器自带图像 LazyLoad，非必要不用开启；其他插件若启用 LazyLoad 可能会造成冲突，如 EWWW Image Optimizer.**
 
 - 页面 LazyLoad 加载占位 SVG：填写 SVG 链接
 
@@ -159,13 +162,14 @@ title: 页面设置
 友情链接模板启用之后，请在 wordpress 自带的“链接”版块中添加链接。
 
 ### 友情链接模板单元对齐方向
-<br>
+
+
 <div style="display:block">
   <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_left.webp" alt="friend_link_left" style="margin:0px 1%;display:inline-block;width:31%">
   <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_right.webp" alt="friend_link_right" style="margin:0px 1%;display:inline-block;width:31%">
   <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_center.webp" alt="friend_link_center" style="margin:0px 1%;display:inline-block;width:31%">
 </div>
-<br>
+
 
 ### 友情链接模板单元搭配色
 
