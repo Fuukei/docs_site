@@ -139,7 +139,7 @@ title: 页面设置
 
 ### 追番模板源
 
-支持 [Bilibili](https://bilibili.com/) 和 [MyAnimeList](https://myanimelist.net/) 。
+支持 [Bilibili](https://bilibili.com/) 和 [MyAnimeList](https://myanimelist.net/) 
 
 ### My Anime List 配置
 
