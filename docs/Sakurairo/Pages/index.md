@@ -1,7 +1,8 @@
 ---
 title: 页面设置
 ---
-# 页面设置 <Badge type="warning" text="更新中" />
+
+# 页面设置 <Badge type="tip" text="更新至 2.6.2" />
 
 ## <i class="csf-tab-icon fa fa-compass"></i> 综合设置
 
@@ -114,10 +115,9 @@ title: 页面设置
 
 ### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">ShuoShuo Template Settings</span>
 
-
 ### 说说模板说说背景颜色 I/II
 
-设置说说模板说说背景颜色 I/II
+说说气泡背景色，I/II 交错显示。
 
 ### 说说模板说说提示箭头
 
@@ -132,56 +132,77 @@ title: 页面设置
 
 说说模板分页时每页显示的数量
 
+### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Bangumi Template Settings</span>
+
+### 追番模板源
+
+支持 [Bilibili](https://bilibili.com/) 和 [MyAnimeList](https://myanimelist.net/) 。
+
+### My Anime List 配置
+
+用户名：右上角的用户名称，也可在个人资料的 URL 找到（例如 https://myanimelist.net/profile/xxx）
+
+顺序：略
+
 ### 哔哩哔哩追番模板
 
-- 哔哩哔哩追番模板帐号 ID
-- 添加模板页面后在`iro主题设置`中的`页面设置-文章页面设置-哔哩哔哩追番模板帐号ID`中设置
-- 可[查看教程](https://blog.ukenn.top/sakura5/#toc-head-2)了解如何获取账号 ID
+- 哔哩哔哩 UID：略
+- 哔哩哔哩帐号 cookies：请求标头中的 cookies（开发者工具 > “网络”选项卡）可[查看教程](https://blog.ukenn.top/sakura5/#toc-head-3)了解如何获取帐号 cookies
 
-- 哔哩哔哩追番模板帐号 Cookies
-- 添加模板页面后在`iro主题设置`中的`页面设置-文章页面设置-哔哩哔哩追番模板帐号Cookies`中设置
-- 可[查看教程](https://blog.ukenn.top/sakura5/#toc-head-3)了解如何帐号 Cookies
+添加模板页面后在 `iro 主题设置` 中的 `页面设置 > 文章页面设置 > 哔哩哔哩追番模板帐号 cookies` 中设置。
 
-### 友情链接模板
+::: warning 提示：“哔哩哔哩 cookies”在 Bilibili 被选为追番模板源时不添加 cookies 可能会报错。
+:::
 
-- 友情链接模板单元对齐方向
+### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Friend Link Template Settings</span>
 
-PS：友情链接模板启用之后，请在 wordpress 自带的“链接”版块中添加链接。
+友情链接模板启用之后，请在 wordpress 自带的“链接”版块中添加链接。
 
-#### 友情链接模板单元搭配色
+### 友情链接模板单元对齐方向
+<br>
+<div style="display:block">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_left.webp" alt="friend_link_left" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_right.webp" alt="friend_link_right" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_center.webp" alt="friend_link_center" style="margin:0px 1%;display:inline-block;width:31%">
+</div>
+<br>
 
-自定义颜色，建议根据背景颜色搭配合适的颜色
+### 友情链接模板单元搭配色
 
-#### 友情链接模板单元边框阴影颜色
+友情链接头像卡片中头像图片和说明文字分隔波浪线的颜色。
 
-自定义颜色，建议根据背景颜色搭配合适的颜色
+### 友情链接模板单元边框阴影颜色
+
+### Friend Link Sorting Mode
+- Name：按名称排序。
+- Rating：按标注星级排序。
+- Updated：按链接更新时间顺序排序。
+- Rand：每次生成时随机排序，若存在页面缓存插件则每次重新生成缓存时随机排序；可将模板页面列入缓存排除列表以获得每次加载随机排序。
+
+### Ascending OR Descending
+
+控制排序为升序 / 降序。
+
+### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Login Template Settings</span>
 
 ### 登录模板注册功能
 
-> 开启之后登录模板将允许注册
+开启之后登录模板将允许注册
 
-::: warning 提示
-“说说模板”内容在后台左侧“说说”添加；“哔哩哔哩相关的”需在主题设置添加 cookies（不添加会报错）；“友情链接模板”在后台左侧“链接”添加；“时光轴”模板页面建设后自动获取内容
+::: warning 提示：“友情链接模板”在后台左侧“链接”添加；“时光轴”模板页面建设后自动获取内容。
 :::
 
 ## 评论相关设置
 
 ### 页面评论区域显示
 
-设置页面评论区域显示方式
-
-- 展开显示
-  ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz67.png)
-- 收缩显示
-  ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz68.png)
+展开 / 收缩
 
 ### 页面评论区域搭配色
 
-自定义颜色，建议根据背景颜色搭配合适的颜色
+Markdown 图标颜色、Commmets 标题下划线颜色等
 
 ### 页面评论区域阴影颜色
-
-自定义颜色，建议根据背景颜色搭配合适的颜色
 
 ### 页面评论区域哔哩哔哩表情包
 
@@ -189,75 +210,62 @@ PS：友情链接模板启用之后，请在 wordpress 自带的“链接”版�
 
 ### 页面评论区域右下背景图片
 
-设置页面评论区域右下背景图片
+评论框背景图
 
 ### 页面评论区域 UA 信息
 
-设置页面评论区域 UA 信息是否开启显示
-
-> 开启之后页面评论区域将显示用户的浏览器，操作系统信息
+显示用户的浏览器，操作系统信息（桌面端显示图标 + 信息；手机端仅显示图标）
 
 ### 页面评论区域位置信息
 
-设置页面评论区域位置信息是否开启显示
-
-> 开启之后页面评论区域将显示用户的位置信息
-
-### 页面评论区域 IP 源
-
-设置页面评论区域 IP 源是否开启显示
-
-（当你遇到显示 IP 信息的地方出现问题时候可以尝试用这个处理）
+调用 API 查询评论用户 IP 地理位置信息，若 API 可用性降低可能会导致页面加载时间过长。
 
 ### 私人评论功能
 
-设置私人评论功能是否开启显示
-
-> 开启之后将允许用户设置自己的评论对其他人不可见，仅博客主可见
+开启之后将允许用户设置自己的评论对其他人不可见，仅博客主可见
 
 ### 页面评论区域机器人验证
 
-设置页面评论区域机器人验证是否开启
-
-> 开启之后用户评论前需要经过验证后才可发布
+开启后评论需要勾选“我不是机器人”
 
 ### QQ 头像链接加密
 
-设置 QQ 头像链接加密
+- 重定向
+- 后端获取头像数据
+- 后端解析头像接口
 
 ### 页面评论区域上传图片接口
 
-设置页面评论区域上传图片接口
+支持图床列表：
+- Imgur
+- SM. MS
+- Chevereto（可自建）
+- Lsky Pro（可自建）
 
-- 支持上传接口有
-  - Imgur
-  - SM.MS
-  - Chevereto
+### Imgur Client ID
+### SM. MS Token
+### Chevereto Key
+### Lsky Pro v1 Token
+以上详见图床平台支持信息。
 
 ### 评论图片代理
 
-设置评论图片代理
+已弃用。
 
 ## 邮件模板特色图片
 
-![](https://cdn.kusu.icu/Sakurairo_Vision-2.5/series/mail_head.webp)
+![邮件模板特色图片](https://cdn.kusu.icu/Sakurairo_Vision-2.5/series/mail_head.webp)
 
 设置你的回复邮件上方背景图片
 
 ### 邮件模板发件地址前缀
 
-设置邮件模板发件地址前缀
-
-> 用于发送系统邮件，在用户的邮箱中显示的发件人地址，不要使用中文，默认系统邮件地址为 bibi@你的域名
+用于发送系统邮件，在用户的邮箱中显示的发件人地址，不要使用中文，默认系统邮件地址为 bibi@你的域名
 
 ### 用户邮件回复通知
 
-设置用户邮件回复通知是否开启
-
-> WordPress 默认会使用邮件通知用户评论收到回复，开启之后允许用户设置自己的评论收到回复时是否使用邮件通知
+WordPress 默认会使用邮件通知用户评论收到回复，开启之后允许用户设置自己的评论收到回复时是否使用邮件通知
 
 ### 管理员邮件回复通知
 
-设置管理员邮件回复通知是否开启
-
-> 开启之后当管理员评论收到回复时使用邮件通知
+开启之后当管理员评论收到回复时使用邮件通知
