@@ -4,7 +4,7 @@ title: 页面设置
 
 # 页面设置 <Badge type="tip" text="更新至 2.6.2" />
 
-## <i class="csf-tab-icon fa fa-compass"></i> 综合设置
+## 综合设置
 
 ### 页面样式
 
@@ -48,7 +48,7 @@ title: 页面设置
 
 - 页面图像加载占位 SVG：填写 SVG 链接
 
-## <i class="csf-tab-icon fa fa-archive"></i> 文章页面设置
+## 文章页面设置
 
 ### 文章页面标题字体大小
 
