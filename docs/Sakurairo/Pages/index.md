@@ -2,7 +2,7 @@
 title: 页面设置
 ---
 
-# 页面设置 <Badge type="tip" text="更新至 2.6.2" />
+# 页面设置 <Badge type="tip" text="v2.6.2" />
 
 ## 综合设置
 
@@ -110,13 +110,13 @@ title: 页面设置
 
 ## 模板页面设置
 
-## Public Settings 
+## 共用设置
 
 ### 模板页面标题字体大小
 
 设置模板页面标题字体大小，如模板中“时光轴 Timeline”等
 
-## ShuoShuo Template Settings 
+## 说说模板设置
 
 ### 说说模板说说背景颜色 I/II
 
@@ -131,11 +131,11 @@ title: 页面设置
 填写说说字体名称，接收多个字体，含空格的字体名称请加英文双引号。
 <br>例如："Source Han Sans", "Noto Sans SC", sans-serif
 
-### Number Of ShuoShuo
+### 每页说说显示数量
 
 说说模板分页时每页显示的数量
 
-## Bangumi Template Settings 
+## 追番模板设置
 
 ### 追番模板源
 
@@ -157,7 +157,7 @@ title: 页面设置
 ::: warning 提示：“哔哩哔哩 cookies”在 Bilibili 被选为追番模板源时不添加 cookies 可能会报错。
 :::
 
-## Friend Link Template Settings 
+## 友情链接模板设置
 
 友情链接模板启用之后，请在 wordpress 自带的“链接”版块中添加链接。
 
@@ -177,17 +177,17 @@ title: 页面设置
 
 ### 友情链接模板单元边框阴影颜色
 
-### Friend Link Sorting Mode
+### 友情链接列表排序模式
 - Name：按名称排序。
 - Rating：按标注星级排序。
 - Updated：按链接更新时间顺序排序。
 - Rand：每次生成时随机排序，若存在页面缓存插件则每次重新生成缓存时随机排序；可将模板页面列入缓存排除列表以获得每次加载随机排序。
 
-### Ascending OR Descending
+### 升序或降序
 
 控制排序为升序 / 降序。
 
-## Login Template Settings 
+## 登录模板设置
 
 ### 登录模板注册功能
 
