@@ -1,18 +1,16 @@
 ---
 title: 页面设置
 ---
-# 页面设置 <Badge type="warning" text="更新了，但没完全更新" />
+# 页面设置 <Badge type="warning" text="更新中" />
 
-## 综合设置
+## <i class="csf-tab-icon fa fa-compass"></i> 综合设置
 
 ### 页面样式
 
-设置页面样式
-
-- 圆角样式
-  ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz63.png)
-- 直角样式
-  ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz64.png)
+- 圆角样式<br><br>
+  ![圆角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_iro.webp)
+- 直角样式<br>
+  ![直角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_sakura.webp)
 
 ### 页面排版样式
 
@@ -23,97 +21,103 @@ title: 页面设置
 
 ### 页面装饰图片
 
-设置页面装饰图片
-
-> 文字特色图片将显示在文章页面，独立页面和分类页
+特色图片将显示在：文章页面、独立页面和分类页
 
 ### 页面标题动画
 
-设置页面标题动画
-
-> 开启之后页面标题将有浮入动画
+开启之后页面标题将有浮入动画
 
 ### 页面标题动画时间
 
-设置页面标题动画时间
-
-> 滑动滑块设置，推荐数值范围为 1-2
+滑动滑块设置，推荐数值范围为 1-2
 
 ### 页面剪切板版权提示
 
-设置面剪切板版权提示
+开启之后用户在复制文字内容超过 30 字节时，会有版权提示文本
 
-> 开启之后用户在复制文字内容超过 30 字节时，会有版权提示文本
+### 页面 LazyLoad
 
-### 页面 LazyLoad 加载
-
-设置页面 LazyLoad 加载加载是否开启显示
-
-页面图片会有 LazyLoad 加载效果
+设置页面 LazyLoad 加载加载是否开启显示，开启后页面图片会有 LazyLoad 加载效果
+<br>**警告：WordPress 区块编辑器自带图像 LazyLoad，非必要不用开启；其他插件若启用 LazyLoad 可能会造成冲突，如 EWWW Image Optimizer.**
 
 - 页面 LazyLoad 加载占位 SVG：填写 SVG 链接
 
 - 页面图像加载占位 SVG：填写 SVG 链接
 
-## 文章页面设置
+## <i class="csf-tab-icon fa fa-archive"></i> 文章页面设置
 
 ### 文章页面标题字体大小
 
-设置页面标题字体大小
-
-> 滑动滑块设置，推荐数值范围为 28-36
+滑动滑块设置，推荐数值范围为 28-36
 
 ### 文章页面标题下划线动画
 
-设置文章页面标题下划线动画
-
-> 开启且文章设置了特色图片之后，文章标题将有下划线动画
+开启且文章设置了特色图片之后，文章标题将有从左至右延伸的下划线动画
 
 ### 文章页面自动显示菜单
 
-设置文章页面自动显示菜单
+默认开启，文章页面会自动显示 TOC 菜单，导航文章标题（仅在浏览窗口宽度足够时显示）
 
-> 默认开启，文章页面会自动显示菜单
+### 内联代码背景色（深色模式内联代码背景色）
 
-### 文章页面上下文章切换
+定义浅色 / 深色模式下段落中内联代码的背景色；代码块背景色由高亮 JS 定义（其他设置 > 低使用设置）
 
-设置文章页面上下文章切换是否开启显示
+### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">文章扩展区</span>
 
-> 开启之后文章页面将出现上下文章切换
+### 文章页面功能栏
 
-### 文章页面版权提示和标签
+关闭后图片中功能栏将在页面中隐藏
 
-设置文章页面版权提示和标签是否开启显示
+![功能栏](https://pic.aiccrop.com/origin/2023/07/64a254deabc2e.png)
 
-> 开启之后文章页面将出现版权提示和标签
+### 文章知识共享协议
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz65.png)
+![版权提示](https://pic.aiccrop.com/origin/2023/07/64a23315c3245.png)
 
-### 文章页面作者信息
-
-设置文章页面作者信息是否开启显示
-
-> 开启之后文章页面将出现作者信息
-
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz66.png)
+### 文章页面赞赏功能（支付宝/微信二维码）
 
 - 文章页面赞赏按钮支付宝二维码：填写收款码 URL
 
 - 文章页面赞赏按钮微信二维码：填写收款码 URL
 
+### 文章页面作者头像
+
+![作者头像](https://pic.aiccrop.com/origin/2023/07/64a23325411dd.png)
+
+### 文章页面作者名字
+
+![作者名字](https://pic.aiccrop.com/origin/2023/07/64a254d81353a.png)
+
+### 文章页面作者签名
+
+![作者签名](https://pic.aiccrop.com/origin/2023/07/64a254d18fca7.png)
+
+### 文章最后更新时间
+
+![更新时间](https://pic.aiccrop.com/origin/2023/07/64a24cf1a195e.png)
+
+### 文章标签
+
+![文章标签](https://pic.aiccrop.com/origin/2023/07/64a254ca555a7.png)
+
+### 文章页面上下文章切换
+
+开启之后文章页面将出现上下文章切换，位于功能区下方
+
 ## 模板页面设置
+
+### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">Public Settings</span>
 
 ### 模板页面标题字体大小
 
-设置模板页面标题字体大小
+设置模板页面标题字体大小，如模板中“时光轴 Timeline”等
 
-### 说说模板说说背景颜色 Ⅰ
+### <span style="background-color:rgb(236,236,236);width:100%;margin:auto;display:block;padding:10px 25px;border-radius:10px;">ShuoShuo Template Settings</span>
 
-设置说说模板说说背景颜色 Ⅰ
 
-### 说说模板说说背景颜色 Ⅱ
+### 说说模板说说背景颜色 I/II
 
-设置说说模板说说背景颜色 Ⅱ
+设置说说模板说说背景颜色 I/II
 
 ### 说说模板说说提示箭头
 
@@ -121,7 +125,12 @@ title: 页面设置
 
 ### 说说模板说说字体
 
-设置说说模板说说字体
+填写说说字体名称，接收多个字体，含空格的字体名称请加英文双引号。
+<br>例如："Source Han Sans", "Noto Sans SC", sans-serif
+
+### Number Of ShuoShuo
+
+说说模板分页时每页显示的数量
 
 ### 哔哩哔哩追番模板
 
@@ -204,7 +213,7 @@ PS：友情链接模板启用之后，请在 wordpress 自带的“链接”版�
 
 设置私人评论功能是否开启显示
 
-> 开启之后将允许用户设置自己的评论对其他人不可见,仅博客主可见
+> 开启之后将允许用户设置自己的评论对其他人不可见，仅博客主可见
 
 ### 页面评论区域机器人验证
 
