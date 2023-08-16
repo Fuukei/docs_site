@@ -131,6 +131,7 @@ title: 主页设置
 
   - 如使用本地图片这将图片放置`.\wp-content\themes\Sakurairo\manifest\gallary`
   - 如使用外部 API 您可以选择一下几种
+    - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
     - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
     - [小歪](https://api.ixiaowai.cn/)
     - [搏天 api](https://api.btstu.cn/doc/sjbz.php)
@@ -144,6 +145,7 @@ title: 主页设置
 - 外部 API 手机端随机图片地址：填写随机图地址。
   - 如使用本地图片这将图片放置`.\wp-content\themes\Sakurairo\manifest\gallary`
   - 如使用外部 API 您可以选择一下几种
+    - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
     - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
     - [小歪](https://api.ixiaowai.cn/)
     - [搏天 api](https://api.btstu.cn/doc/sjbz.php)
