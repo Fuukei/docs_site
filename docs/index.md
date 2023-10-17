@@ -6,7 +6,7 @@ hero:
   text: Theme-Sakurairo
   tagline: 2.6 版本更新
   image:
-    src: https://cdn.kusu.icu/login_logo.webp
+    src: /cdn.kusu.moe/image/login_logo.webp
     alt: Sakurairo
   actions:
     - theme: brand
