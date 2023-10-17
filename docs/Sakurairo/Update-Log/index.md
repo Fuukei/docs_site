@@ -3,6 +3,35 @@ title: 更新日志
 ---
 # 更新日志 <Badge type="tip" text="By Kanochan"/>
 
+## 2.6.3
+
+**发布日期**：[2023年10月11日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.6.3)
+
+![img](https://image.kanochan.net/2023/05/15/2023051515095264f5fa4589cc8d7bf.png)
+
+### 问题修复
+
+* 上/下一篇文章区域样式错误
+* 说说模板样式错误
+* 评论无法获取QQ信息
+* PHP Deprecated Warning [#760](https://github.com/mirai-mamori/Sakurairo/issues/760)
+* 添加和WP安全插件的兼容性
+* 登录页面重载时概率性导致文本框无法输入 [#773](https://github.com/mirai-mamori/Sakurairo/issues/773)
+* 博客找回密码界面验证码无效 [#777](https://github.com/mirai-mamori/Sakurairo/issues/777)
+
+### 新增功能
+
+* 评论区添加自定义表情包功能 [（查看使用方法）](https://docs.fuukei.org/Sakurairo/Pages/#%E8%AF%84%E8%AE%BA%E7%9B%B8%E5%85%B3%E8%AE%BE%E7%BD%AE)
+
+### 优化项目
+
+* 设置面板选项优化
+* 评论区样式优化
+* 给上传图片增加时间戳
+* 避免不填写vaptcha_vid&key时使用vaptcha方式验证
+
+------
+
 ##  2.6.2
 
 **发布日期**：[2023年6月13日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.6.2)
