@@ -3,6 +3,28 @@ title: 更新日志
 ---
 # 更新日志 <Badge type="tip" text="By Kanochan"/>
 
+## 2.6.3.1
+
+**发布日期**：[2023年11月1日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.6.3.1)
+
+![img](https://image.kanochan.net/2023/05/15/2023051515095264f5fa4589cc8d7bf.png)
+
+### 问题修复
+
+* 首次安装启用时意外的报错 [#801](https://github.com/mirai-mamori/Sakurairo/issues/801)
+* 说说模板文字重叠 [#799](https://github.com/mirai-mamori/Sakurairo/issues/799)
+* 从公共 CDN 提供第三方库时，Typed.js不生效 [#803](https://github.com/mirai-mamori/Sakurairo/issues/803)
+
+### 新增功能
+
+* 没有新功能噢  φ(゜▽゜*)♪
+
+### 优化项目
+
+* 图片SEO优化
+
+------
+
 ## 2.6.3
 
 **发布日期**：[2023年10月11日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.6.3)
