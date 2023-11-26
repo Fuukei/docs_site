@@ -11,9 +11,9 @@ title: 主页设置
 
 > 如果关闭，这个 封面设置 版块的设置都不会有效(默认开启)
 
-- 关闭状态则直接显示展示区域/文章：![](https://temp-cdn.kusu.icu/103624556/233815619-8e6c7549-1ea2-456a-b162-bfa1fb78dfdf.png)
+- 关闭状态则直接显示展示区域/文章：![](/user-images.githubusercontent.com/103624556/233815619-8e6c7549-1ea2-456a-b162-bfa1fb78dfdf.png)
 
-- 开启状态则会同时展示封面区域/展示区域/文章区域：![](https://temp-cdn.kusu.icu/103624556/233815622-ba7a455f-7d75-409d-9a99-17141611abbc.png)
+- 开启状态则会同时展示封面区域/展示区域/文章区域：![](/user-images.githubusercontent.com/103624556/233815622-ba7a455f-7d75-409d-9a99-17141611abbc.png)
 
 ### 封面全屏显示
 
@@ -22,10 +22,10 @@ title: 主页设置
 > 如果关闭主页封面将不会全屏显示
 
 - 全屏显示关闭状态
-![](https://temp-cdn.kusu.icu/103624556/233815625-fa825dce-3eb8-4892-a82f-9e7227da5956.png)
+![](/user-images.githubusercontent.com/103624556/233815625-fa825dce-3eb8-4892-a82f-9e7227da5956.png)
 
 - 全屏显示开启状态
-![](https://temp-cdn.kusu.icu/42903464/234001834-c0a113a8-eb6c-4e9b-84cc-f22e37af14e6.png)
+![](/user-images.githubusercontent.com/42903464/234001834-c0a113a8-eb6c-4e9b-84cc-f22e37af14e6.png)
 
 ### 封面圆角
 
@@ -37,10 +37,10 @@ title: 主页设置
 设置封面动画时间
 
 - 开启封面动画
-![](https://temp-cdn.kusu.icu/103624556/233815626-ed38755d-94e3-4aee-b590-b12a0f8ec695.gif)
+![](/user-images.githubusercontent.com/103624556/233815626-ed38755d-94e3-4aee-b590-b12a0f8ec695.gif)
 
 - 关闭封面动画
-![](https://temp-cdn.kusu.icu/103624556/233815627-998a8177-a3dd-48e4-944f-dee8af168c73.gif)
+![](/user-images.githubusercontent.com/103624556/233815627-998a8177-a3dd-48e4-944f-dee8af168c73.gif)
 
 > 滑动滑块设置，推荐数值范围为 1-2
 
@@ -49,7 +49,7 @@ title: 主页设置
 设置封面是否开启显示封面信息栏(默认开启)
 
 > 如果关闭主页封面`头像、白猫特效文字、签名栏、社交区域`将不会显示(就只会显示封面)
-![](https://temp-cdn.kusu.icu/103624556/233815631-2e0b25b8-d1c7-491f-b823-d82ff91c295b.png)
+![](/user-images.githubusercontent.com/103624556/233815631-2e0b25b8-d1c7-491f-b823-d82ff91c295b.png)
 
 ### 封面信息栏样式
 
@@ -67,7 +67,7 @@ title: 主页设置
 ### 封面信息栏背景颜色
 
 设置封面信息栏背景颜色
-![](https://temp-cdn.kusu.icu/103624556/233815633-495b0955-7890-4d14-ae2f-062518d709ad.png)
+![](/user-images.githubusercontent.com/103624556/233815633-495b0955-7890-4d14-ae2f-062518d709ad.png)
 
 > 建议使用浅色系颜色
 
@@ -78,15 +78,15 @@ title: 主页设置
 > 滑动滑块设置，推荐数值为 100
 
 - 修改为0时
-![](https://temp-cdn.kusu.icu/103624556/233815634-e1e639b5-44b1-42a0-8197-29c05d3147ef.png)
+![](/user-images.githubusercontent.com/103624556/233815634-e1e639b5-44b1-42a0-8197-29c05d3147ef.png)
 
 - 修改为100时
-![](https://temp-cdn.kusu.icu/103624556/233815635-d9fa717c-6c4d-42f0-ab14-a1f1413d8c30.png)
+![](/user-images.githubusercontent.com/103624556/233815635-d9fa717c-6c4d-42f0-ab14-a1f1413d8c30.png)
 
 ### 封面签名栏圆角
 
 设置封面签名栏圆角
-（当前设置为15）![](https://temp-cdn.kusu.icu/103624556/233815636-764ec98e-dbf2-4c2b-9229-33128207c16b.png)
+（当前设置为15）![](/user-images.githubusercontent.com/103624556/233815636-764ec98e-dbf2-4c2b-9229-33128207c16b.png)
 
 > 滑动滑块设置，推荐数值范围为 10-20
 
@@ -187,7 +187,7 @@ title: 主页设置
 
 本主题自带首页下拉按钮
 
-![](https://temp-cdn.kusu.icu/103624556/233821940-44a7c7f2-8e4f-4936-a452-018aaad84e6c.png)
+![](/user-images.githubusercontent.com/103624556/233821940-44a7c7f2-8e4f-4936-a452-018aaad84e6c.png)
 
 ### 封面下拉箭头移动端显示
 
@@ -237,7 +237,7 @@ title: 主页设置
 
 社交网络的图标风格
 
-![](https://temp-cdn.kusu.icu/103624556/233821997-4223c60b-8c71-445b-9a59-c0e239d1634e.png)
+![](/user-images.githubusercontent.com/103624556/233821997-4223c60b-8c71-445b-9a59-c0e239d1634e.png)
 
 提供 12 组全局定制图标，每一组都充满个性。
 
@@ -249,11 +249,11 @@ title: 主页设置
 
 - 设置为0时
 
-![](https://temp-cdn.kusu.icu/103624556/233822051-9c79260a-ec65-4072-8ef6-eded9dceb855.png)
+![](/user-images.githubusercontent.com/103624556/233822051-9c79260a-ec65-4072-8ef6-eded9dceb855.png)
 
 - 设置为30时
 
-![](https://temp-cdn.kusu.icu/103624556/233822094-9fda2951-95f0-48db-bf6b-88b3767965cf.png)
+![](/user-images.githubusercontent.com/103624556/233822094-9fda2951-95f0-48db-bf6b-88b3767965cf.png)
 
 #### 封面随机图片切换按钮
 
@@ -293,7 +293,7 @@ title: 主页设置
 
 整个公告，显示出来
 
-![](https://temp-cdn.kusu.icu/103624556/233821790-6c45592f-1017-4382-b69e-f387a74acc48.png)
+![](/user-images.githubusercontent.com/103624556/233821790-6c45592f-1017-4382-b69e-f387a74acc48.png)
 
 - 公告栏样式：
   - 图片背景
@@ -339,7 +339,7 @@ title: 主页设置
 
 设置一下展示版块的标题
 
-![](https://temp-cdn.kusu.icu/103624556/233819838-db9e7dcc-2d4e-4bbf-a551-d64a3f724c72.png)
+![](/user-images.githubusercontent.com/103624556/233819838-db9e7dcc-2d4e-4bbf-a551-d64a3f724c72.png)
 
 > 默认为“Display”，你可以修改为其他，当然不能当广告用！不允许！！
 
@@ -352,7 +352,7 @@ title: 主页设置
 
 设置一下文章区域的标题
 
-![](https://temp-cdn.kusu.icu/103624556/233821910-fb2d6040-96ad-466a-9a3f-4a887491f01e.png)
+![](/user-images.githubusercontent.com/103624556/233821910-fb2d6040-96ad-466a-9a3f-4a887491f01e.png)
 
 > 默认为“Article”，你可以修改为其他，当然不能当广告用！不允许！！
 
