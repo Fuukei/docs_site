@@ -80,10 +80,10 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://jipa.uk/" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/www.jipa.work.webp"><br>
+<a class="link-item-inner effect-apollo" href="https://jipa.moe/" target="_blank" one-link-mark="yes">
+<img src="https://jipa.moe/static/avatar.jpg"><br>
 <span class="sitename">JIPA233の小窝</span>
-<div class="linkdes">寒蝉黎明之时，便是重生之日。</div>
+<div class="linkdes">Deed divides beings into lower and higher ones.</div>
 </a>
 </li>
 
@@ -120,10 +120,10 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://blog.kusu.moe/" target="_blank" one-link-mark="yes">
+<a class="link-item-inner effect-apollo" href="https://blog.kusu.micrsky.com/" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/cmu.bwmc.live.webp"><br>
 <span class="sitename">楠ちゃん の Blog</span>
-<div class="linkdes">昨天，今天，还是明天？</div>
+<div class="linkdes">Forgive me.</div>
 </a>
 </li>
 
