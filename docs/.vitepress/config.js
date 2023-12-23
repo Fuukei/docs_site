@@ -6,7 +6,7 @@ export default defineConfig({
   head:[
     ['link', { rel: 'icon', href: '/cdn.kusu.moe/image/login_logo.webp' }],
     ["script", { src: '/js/main.js'}],
-    ['script', { src: 'https://cdn.kusu.moe/KFC-Crazy-Thursday/KFC-crazy-thursday-NO-INSERT.js'}]
+    //['script', { src: 'https://cdn.kusu.moe/KFC-Crazy-Thursday/KFC-crazy-thursday-NO-INSERT.js'}]
     ],
     themeConfig: {
       logo: '/cdn.kusu.moe/image/login_logo.webp',
