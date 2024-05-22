@@ -56,7 +56,7 @@ title: 短代码
 [ghcard path="#GitHub 用户名#/#仓库名#"]/pin/?username=#GitHub 用户名#&repo=#仓库名#[/ghcard]
 
 例如：
-[ghcard path="mirai-mamori/Sakurairo"]/pin/username=mirai-mamori&repo=Sakurairo[/ghcard]
+[ghcard path="mirai-mamori/Sakurairo"]/pin/?username=mirai-mamori&repo=Sakurairo[/ghcard]
 ```
 
 ![](/user-images.githubusercontent.com/28827378/233814342-f72871f7-0805-49dc-9092-78db04293fc7.png)
