@@ -49,7 +49,7 @@ title: 关于主题
 
 - <del>筱烷：[https://cdn.kusu.icu/sakurairo_vision/@2.6/](https://cdn.kusu.icu/sakurairo_vision/@2.6/)</del>
 - 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)
-- 小智：[https://api.kuroko.cn/sakurairo_vision/@2.6/](https://api.kuroko.cn/sakurairo_vision/@2.6/)
+- 小智：[https://api.kuroko.cn/sakurairo_vision/@2.7/](https://api.kuroko.cn/sakurairo_vision/@2.7/)
 - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
 - CircleCrop：[https://vision-public.aiccrop.com/@2.6/](https://aiccrop.com/2023/sakurairo-vision-public/)
 
