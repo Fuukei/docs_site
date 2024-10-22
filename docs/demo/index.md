@@ -16,7 +16,7 @@ title: 使用本主题的博客
 
 <li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://kiseki.blog/" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/sakurairo_vision/asuhe/avatar.jpg"><br>
+<img src="https://s.nmxc.ltd/sakurairo_vision/asuhe/furina.webp"><br>
 <span class="sitename">明日が来ると</span>
 <div class="linkdes">信じてること自体が希望なんだ</div>
 </a>
@@ -148,6 +148,38 @@ title: 使用本主题的博客
 <img src="https://img.mengluo.work/avatar.jpg"><br>
 <span class="sitename">梦落の小屋</span>
 <div class="linkdes">因为不可能，所以才值得相信</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://www.xgxdmx.com/" target="_blank" one-link-mark="yes">
+<img src="https://www.xgxdmx.com/avatar.png"><br>
+<span class="sitename">梦の彼方</span>
+<div class="linkdes">我们所度过的每个平凡的日常，也许就是连续发生的奇迹</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://reimu.red/" target="_blank" one-link-mark="yes">
+<img src="http://reimu.red/wp-content/uploads/2024/03/1709820325-73676589_p0.jpg"><br>
+<span class="sitename">赤红幻想</span>
+<div class="linkdes">The Deep Red Fantasy</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://msoushi.xyz/" target="_blank" one-link-mark="yes">
+<img src="https://msoushi.xyz/wp-content/uploads/2023/12/20231205_040234.jpg"><br>
+<span class="sitename">鸽子的小窝</span>
+<div class="linkdes">一只喜欢咕咕咕的老鸽子~</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://www.muyuanhuck.cn" target="_blank" one-link-mark="yes">
+<img src="https://0.gravatar.com/avatar/4c9b4ff922eceec6cba771bc8e84257968e6bb1a1fd6b224da6c4dd35198211b?size=256"><br>
+<span class="sitename">MuYuan Blog</span>
+<div class="linkdes">给岁月以文明，给时光以生命</div>
 </a>
 </li>
 </ul>
