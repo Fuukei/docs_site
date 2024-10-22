@@ -72,14 +72,6 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://www.yateam.cc/" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/www.yateam.cc.webp"><br>
-<span class="sitename">随笔园</span>
-<div class="linkdes">月夜の中でも永遠の夜明けの夢を信じて.</div>
-</a>
-</li>
-
-<li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://jipa.moe/" target="_blank" one-link-mark="yes">
 <img src="https://jipa.moe/static/avatar.jpg"><br>
 <span class="sitename">JIPA233の小窝</span>
@@ -104,7 +96,7 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://www.ylk.cool/" target="_blank" one-link-mark="yes">
+<a class="link-item-inner effect-apollo" href="https://www.ylk.ink/" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/www.ylk.cool.webp"><br>
 <span class="sitename">Makoto</span>
 <div class="linkdes">IN YOUR HEART</div>
@@ -128,18 +120,26 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://blog.utopiaxc.cn/" target="_blank" one-link-mark="yes">
-<img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/blog.utopiaxc.cn.webp"><br>
-<span class="sitename">UtopiaXC's Blog</span>
-<div class="linkdes">尽管如此，世界依旧美丽</div>
-</a>
-</li>
-
-<li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://aiccrop.com/" target="_blank" one-link-mark="yes">
 <img src="https://aiccrop.com/wp-content/uploads/2023/04/4c50eef3bdaf0b4164ce.webp"><br>
 <span class="sitename">CircleCrop's Blog</span>
 <div class="linkdes">A boy from China who likes photography, music and ACGN.</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://www.autumnus.cn/" target="_blank" one-link-mark="yes">
+<img src="https://www.autumnus.cn/imgapi/profile.webp"><br>
+<span class="sitename">AkiDAY</span>
+<div class="linkdes">永恒秋日之星</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="http://www.mroldl001.top/" target="_blank" one-link-mark="yes">
+<img src="https://www.mroldl001.top/wp-content/uploads/2024/07/1721901159-%E7%BE%8E%E6%B3%A2-%E8%99%9A%E7%A5%9E%E8%B5%A0-%E5%9C%86%E5%BD%A2%E5%8D%8A%E8%BA%AB.png"><br>
+<span class="sitename">MR_Blog</span>
+<div class="linkdes">只剩飘飘的清风，只剩悠悠的远钟</div>
 </a>
 </li>
 </ul>
