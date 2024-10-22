@@ -1,10 +1,10 @@
 :root {
-    --vp-c-brand: #e291ff;
-    --vp-button-brand-border: #e291ff;
-    --vp-c-brand-dark: #e291ff;
-    --vp-button-brand-border-dark: #edbcff;
-    --vp-c-green-light: #f4d6ff;
-    --vp-c-green-lighter: #f4d6ff;
+    --vp-c-brand: #3c5571;
+    --vp-button-brand-border: #ac9c91;
+    --vp-c-brand-dark: #4e739d;
+    --vp-button-brand-border-dark: #cfc3af;
+    --vp-c-green-light: #cecbc2;
+    --vp-c-green-lighter: #cececc;
     --vp-custom-block-tip-text: #42d392;
     --vp-badge-tip-text: #42d392;
     --friend-link-shadow: #e8e8e8;

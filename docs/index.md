@@ -4,9 +4,9 @@ title: 主页
 
 hero:
   text: Theme-Sakurairo
-  tagline: 2.6 版本更新
+  tagline: 2.7 版本更新
   image:
-    src: /cdn.kusu.moe/image/login_logo.webp
+    src: https://s.nmxc.ltd/sakurairo_vision/@2.7/series/login_logo.webp
     alt: Sakurairo
   actions:
     - theme: brand

@@ -153,7 +153,7 @@ title: 使用本主题的博客
 
 <li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://www.xgxdmx.com/" target="_blank" one-link-mark="yes">
-<img src="https://www.xgxdmx.com/avatar.png"><br>
+<img src="https://www.xgxdmx.com/wp-content/uploads/2018/12/cropped-illust_67136711_20180208_091521.png"><br>
 <span class="sitename">梦の彼方</span>
 <div class="linkdes">我们所度过的每个平凡的日常，也许就是连续发生的奇迹</div>
 </a>
