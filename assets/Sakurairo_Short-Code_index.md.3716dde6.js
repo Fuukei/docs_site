@@ -7,7 +7,7 @@ import{_ as e,c as t,a as s,b as a,d as l,e as o,o as i,r as p}from"./app.0d0c6f
 <span class="line"><span style="color:#A6ACCD;">[ghcard path=&quot;#GitHub 用户名#/#仓库名#&quot;]/pin/?username=#GitHub 用户名#&amp;repo=#仓库名#[/ghcard]</span></span>
 <span class="line"><span style="color:#A6ACCD;"></span></span>
 <span class="line"><span style="color:#A6ACCD;">例如：</span></span>
-<span class="line"><span style="color:#A6ACCD;">[ghcard path=&quot;mirai-mamori/Sakurairo&quot;]/pin/username=mirai-mamori&amp;repo=Sakurairo[/ghcard]</span></span>
+<span class="line"><span style="color:#A6ACCD;">[ghcard path=&quot;mirai-mamori/Sakurairo&quot;]/pin/?username=mirai-mamori&amp;repo=Sakurairo[/ghcard]</span></span>
 <span class="line"><span style="color:#A6ACCD;"></span></span></code></pre></div><p><img src="`+C+`" alt=""></p><h2 id="卡片信息块" tabindex="-1">卡片信息块 <a class="header-anchor" href="#卡片信息块" aria-hidden="true">#</a></h2><div class="language-"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki material-palenight"><code><span class="line"><span style="color:#A6ACCD;">#icon# 替换为 FontAwesome 6 icon</span></span>
 <span class="line"><span style="color:#A6ACCD;">#标题# 替换为卡片标题</span></span>
 <span class="line"><span style="color:#A6ACCD;">#图片链接# 替换为图片 URL</span></span>
