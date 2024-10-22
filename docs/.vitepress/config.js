@@ -4,12 +4,12 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Fuukei 周边文档',
   head:[
-    ['link', { rel: 'icon', href: '/cdn.kusu.moe/image/login_logo.webp' }],
+    ['link', { rel: 'icon', href: 'https://s.nmxc.ltd/sakurairo_vision/@2.7/series/login_logo.webp' }],
     ["script", { src: '/js/main.js'}],
     //['script', { src: 'https://cdn.kusu.moe/KFC-Crazy-Thursday/KFC-crazy-thursday-NO-INSERT.js'}]
     ],
     themeConfig: {
-      logo: '/cdn.kusu.moe/image/login_logo.webp',
+      logo: 'https://s.nmxc.ltd/sakurairo_vision/@2.7/series/login_logo.webp',
       siteTitle: 'Theme-Sakurairo',
       
       sidebar: [
