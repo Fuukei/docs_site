@@ -80,9 +80,9 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://blog.vincent1230.top/" target="_blank" one-link-mark="yes">
+<a class="link-item-inner effect-apollo" href="https://blog.vincy1230.net/" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/blog.vincent1230.top.webp"><br>
-<span class="sitename">Vincent文朔</span>
+<span class="sitename">Vincy云昔</span>
 <div class="linkdes">太阳出来了 雾就会散的.</div>
 </a>
 </li>
@@ -176,10 +176,26 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://www.muyuanhuck.cn" target="_blank" one-link-mark="yes">
+<a class="link-item-inner effect-apollo" href="https://www.muyuanhuck.cn/" target="_blank" one-link-mark="yes">
 <img src="https://0.gravatar.com/avatar/4c9b4ff922eceec6cba771bc8e84257968e6bb1a1fd6b224da6c4dd35198211b?size=256"><br>
 <span class="sitename">MuYuan Blog</span>
 <div class="linkdes">给岁月以文明，给时光以生命</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://cmxz.top/" target="_blank" one-link-mark="yes">
+<img src="https://cmxz.top/images/yish.webp"><br>
+<span class="sitename">沉梦小站</span>
+<div class="linkdes">风带来故事的种子，时间使其发芽</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://www.luoshuitianyi.com/" target="_blank" one-link-mark="yes">
+<img src="http://www.luoshuitianyi.com/wp-content/uploads/2024/10/1728963195-illust_72888859_20200712_195916_compressed.jpg"><br>
+<span class="sitename">瑶瑶的日记</span>
+<div class="linkdes">不许偷看哦~</div>
 </a>
 </li>
 </ul>
