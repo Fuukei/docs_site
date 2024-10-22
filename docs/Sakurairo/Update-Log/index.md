@@ -1,7 +1,74 @@
 ---
 title: 更新日志
 ---
-# 更新日志 <Badge type="tip" text="By Kanochan"/>
+# 更新日志 <Badge type="tip" text="By Kanochan, AstroNomen"/>
+
+## 2.7.1.1
+
+**发布日期**：[2024年10月20日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.7.1.1)
+
+![img](https://p.sda1.dev/19/8fb19c945f83abb12cdeecceeb5413ce/image.png)
+
+
+### 问题修复
+
+* 主页文章卡片重复排列
+
+------
+
+## 2.7.1
+
+**发布日期**：[2024年10月20日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.7.1)
+
+![img](https://p.sda1.dev/19/8fb19c945f83abb12cdeecceeb5413ce/image.png)
+
+### 新增功能
+
+* 说说可以在区块编辑器里更改心情表达
+* 单篇文章的分享协议，可以在文章区块编辑器里单独更改
+* 单篇文章标题的 CSS 样式可以在区块编辑器里单独指定
+* 重构复制提示版权功能
+### 问题修复
+
+* 文章协议与页面剪切板版权提示方面不一致 [#934](https://github.com/mirai-mamori/Sakurairo/issues/934)
+* 置顶文章并没有被置顶的错误 [#936](https://github.com/mirai-mamori/Sakurairo/issues/936)
+* 封面波浪特效不能正常显示 [#942](https://github.com/mirai-mamori/Sakurairo/issues/942)
+* 首页的文章展示区图片下方文字处被遮挡 [#942](https://github.com/mirai-mamori/Sakurairo/issues/942)
+* 修复 bilibili 追番模板请求
+
+### 优化项目
+
+* 头像不再添加 lazyload
+* 去除文章页背景的白边
+* 列表第一项不再默认加载
+
+------
+
+## 2.7.0
+
+**发布日期**：[2024年10月13日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.7.0)
+
+![img](https://p.sda1.dev/19/8fb19c945f83abb12cdeecceeb5413ce/image.png)
+
+### 新增功能
+
+* 全新设计主页文章区域展示样式
+* 全新社交网络图标
+* 全新的说说与心情标签功能
+* 作者页视觉更新
+* AI 功能增加自我测试，且支持更换模型
+* 重构文章版权功能，支持自定义 CC 协议
+* 支持自定义文章 meta 数据
+
+### 问题修复
+
+* 修复大量 bug，并生产了一点新的 bug
+
+### 优化项目
+
+* 优化主题流畅度，提高稳定性
+
+------
 
 ## 2.6.3.1
 
