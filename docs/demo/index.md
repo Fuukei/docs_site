@@ -142,6 +142,14 @@ title: 使用本主题的博客
 <div class="linkdes">只剩飘飘的清风，只剩悠悠的远钟</div>
 </a>
 </li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://blog.dreamfall.cn/" target="_blank" one-link-mark="yes">
+<img src="https://img.mengluo.work/avatar.jpg"><br>
+<span class="sitename">梦落の小屋</span>
+<div class="linkdes">因为不可能，所以才值得相信</div>
+</a>
+</li>
 </ul>
 </div>
 </div>
