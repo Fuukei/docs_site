@@ -184,10 +184,10 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://cmxz.top/" target="_blank" one-link-mark="yes">
-<img src="https://cmxz.top/images/yish.webp"><br>
-<span class="sitename">沉梦小站</span>
-<div class="linkdes">风带来故事的种子，时间使其发芽</div>
+<a class="link-item-inner effect-apollo" href="https://blog.mashiro.pro/" target="_blank" one-link-mark="yes">
+<img src="https://blog.mashiro.pro/wp-content/uploads/myavatar.jpg"><br>
+<span class="sitename">白のBlog</span>
+<div class="linkdes">是一只只有一点点技术力的小白捏</div>
 </a>
 </li>
 
