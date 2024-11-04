@@ -1,7 +1,7 @@
 ---
 title: 全局设置
 ---
-# 全局设置 `<Badge type="warning" text="更新了，但没完全更新" />`
+# 全局设置 <Badge type="warning" text="更新了，但没完全更新" />
 
 ## 外观设置
 
@@ -32,7 +32,7 @@ title: 全局设置
 > 开启自动切换后 会出现的选项
 
 - 选择客户端当地时间：
-  深色模式会在 `22:00-7:00`自动切换
+  深色模式会在`22:00-7:00`自动切换
 - 跟随客户端设置:
   跟随客户端浏览器的设置
 - 永远开启：
@@ -44,7 +44,7 @@ title: 全局设置
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
 
-![0.4](https://s.nmxc.ltd/sakurairo_wiki/help/sz8.png) 数值 `0.4` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz9.png)数值 `1`
+![0.4](https://s.nmxc.ltd/sakurairo_wiki/help/sz8.png) 数值`0.4` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz9.png)数值`1`
 
 ### 深色模式部件透明度
 
@@ -52,14 +52,14 @@ title: 全局设置
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
 
-![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz10.png) 数值 `0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz11.png)数值 `1`
+![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz10.png) 数值 `0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz11.png)数值`1`
 
 ### 深色模式背景透明度
 
 设置站点的深色模式背景透明度
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
-> ![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz14.png) 数值 `0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz13.png)数值 `1`
+> ![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz14.png) 数值 `0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz13.png)数值`1`
 
 ## 其他外观相关
 
@@ -89,7 +89,7 @@ title: 全局设置
 
 > 滑动滑块设置，推荐数值范围为 15-18px
 
-![10](https://s.nmxc.ltd/sakurairo_wiki/help/sz15.png)数值 `10` ![20](https://s.nmxc.ltd/sakurairo_wiki/help/sz16.png)数值 `20`
+![10](https://s.nmxc.ltd/sakurairo_wiki/help/sz15.png)数值 `10` ![20](https://s.nmxc.ltd/sakurairo_wiki/help/sz16.png)数值`20`
 
 > 反正别太大，除非你专门为老年人设计
 
@@ -99,9 +99,9 @@ title: 全局设置
 
 填写引用外部字体 CSS URL
 
-> 首先要有 `ttf`格式的字体文件,准备好字体后在再[这个站点](https://www.fontke.com/tool/fontface/)里来转换为方便网页使用的格式 `woff/woff2`，在这个能生成一堆文件，文件都有用，放在一个可以访问的服务器、oss、cdn 等上，然后将能调用到字体文件夹里的 `css文件`的链接填写到 `字体链接`
+> 首先要有`ttf`格式的字体文件,准备好字体后在再[这个站点](https://www.fontke.com/tool/fontface/)里来转换为方便网页使用的格式`woff/woff2`，在这个能生成一堆文件，文件都有用，放在一个可以访问的服务器、oss、cdn 等上，然后将能调用到字体文件夹里的`css文件`的链接填写到`字体链接`
 
-> 之后在 `字体名称`里填写字体名称，如何获取找到字体名称？以文本方式打开上面生成 web 字体时的 `css格式的文件`，`font-family:`引号后面里就是字体名。（注意不要将引号一起填入）
+> 之后在`字体名称`里填写字体名称，如何获取找到字体名称？以文本方式打开上面生成 web 字体时的`css格式的文件`，`font-family:`引号后面里就是字体名。（注意不要将引号一起填入）
 
 #### Google 字体 API 地址
 
@@ -127,6 +127,7 @@ title: 全局设置
 
   - 导航菜单圆角：
     ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz18.png)
+
   - 导航菜单收缩比率
     ![65%](https://s.nmxc.ltd/sakurairo_wiki/help/sz19.png)收缩 65%
 
@@ -225,13 +226,20 @@ title: 全局设置
 ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz23.png)
 
 - Logo 文字填写
+
 - logo 文字我们分为 `A B C`（前 中 后）3 个部分
+
 - `A`（前）部分是主体部分 一般用来填写“博客名”等
+
 - `B`（中）部分在开启 logo 特效时会有字体旋转的效果 一般用来填写“の”效果会比较好
+
 - `C`（后）部分是结尾部分 一般用来填写“Blog 博客”等
+
 - `二级文字`在文字A，B，C的下方，仅在文字B不为空时开启
+
 - Logo 字体（可选）
-- 在 `字体名称`里填写字体名称，如何获取找到字体名称？以文本方式打开[上面](/Sakurairo/Global/#%E5%BC%95%E7%94%A8%E5%A4%96%E9%83%A8%E5%AD%97%E4%BD%93)生成 web 字体时的 `css格式的文件`，`font-family:`引号后面里就是字体名。（注意不要将引号一起填入）
+
+- 在`字体名称`里填写字体名称，如何获取找到字体名称？以文本方式打开[上面](/Sakurairo/Global/#%E5%BC%95%E7%94%A8%E5%A4%96%E9%83%A8%E5%AD%97%E4%BD%93)生成 web 字体时的`css格式的文件`，`font-family:`引号后面里就是字体名。（注意不要将引号一起填入）
 
 ## 样式菜单和前台背景相关设置
 
@@ -323,7 +331,7 @@ title: 全局设置
 
 ### 页尾在线播放器
 
-选择页尾在线播放器，在 `iro主题设置`中的 `全局设置-页尾设置-页尾在线播放器`中设置
+选择页尾在线播放器，在`iro主题设置`中的`全局设置-页尾设置-页尾在线播放器`中设置
 
 支持在线音乐有
 
