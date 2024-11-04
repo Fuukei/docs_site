@@ -3,6 +3,24 @@ title: 更新日志
 ---
 # 更新日志 <Badge type="tip" text="By Kanochan, AstroNomen"/>
 
+## 2.7.2
+
+**发布日期**：[2024年11月3日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.7.2)  
+
+![img](https://p.sda1.dev/19/8fb19c945f83abb12cdeecceeb5413ce/image.png)
+
+### 新增功能
+
+* 增加自定义歌单的功能，用户可以使用自定义MetingAPI或者直接指定歌单文件
+
+### 问题修复
+
+* 修复了站内搜索引擎
+
+## 优化项目
+
+* 增强对Alpine Linux的兼容性
+
 ## 2.7.1.1
 
 **发布日期**：[2024年10月20日](https://github.com/mirai-mamori/Sakurairo/releases/tag/2.7.1.1)
