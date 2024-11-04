@@ -52,14 +52,14 @@ title: 全局设置
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
 
-![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz10.png) 数值 `0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz11.png)数值`1`
+![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz10.png) 数值`0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz11.png)数值`1`
 
 ### 深色模式背景透明度
 
 设置站点的深色模式背景透明度
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
-> ![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz14.png) 数值 `0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz13.png)数值`1`
+> ![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz14.png) 数值`0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz13.png)数值`1`
 
 ## 其他外观相关
 
@@ -89,7 +89,7 @@ title: 全局设置
 
 > 滑动滑块设置，推荐数值范围为 15-18px
 
-![10](https://s.nmxc.ltd/sakurairo_wiki/help/sz15.png)数值 `10` ![20](https://s.nmxc.ltd/sakurairo_wiki/help/sz16.png)数值`20`
+![10](https://s.nmxc.ltd/sakurairo_wiki/help/sz15.png)数值`10` ![20](https://s.nmxc.ltd/sakurairo_wiki/help/sz16.png)数值`20`
 
 > 反正别太大，除非你专门为老年人设计
 
@@ -109,7 +109,7 @@ title: 全局设置
 
 #### Google 字体名称
 
-填写谷歌字体名称，在 `iro主题设置`中的 `全局设置-字体设置-谷歌字体名称`中设置
+填写谷歌字体名称，在`iro主题设置`中的`全局设置-字体设置-谷歌字体名称`中设置
 
 > 请确保添加的字体在[谷歌字体库](http://www.googlefonts.cn/)内可被引用，填写字体名称。添加的字体前面必须有“|”。如果引用多个字体，请使用“|”作为分割符，如果字体名称有空格，请用加号替代。
 
@@ -227,7 +227,7 @@ title: 全局设置
 
 - Logo 文字填写
 
-- logo 文字我们分为 `A B C`（前 中 后）3 个部分
+- logo 文字我们分为`A B C`（前 中 后）3 个部分
 
 - `A`（前）部分是主体部分 一般用来填写“博客名”等
 
@@ -341,7 +341,7 @@ title: 全局设置
 - QQ 音乐
 
 ::: warning 注意
-受到网易云的限制，对于无法显示播放器的请自行获取账号 cookies 并保持 cookies 生效，QQ 音乐/千千动听国外服务器或用户可能无法使用。`<br>`
+受到网易云的限制，对于无法显示播放器的请自行获取账号 cookies 并保持 cookies 生效，QQ 音乐/千千动听国外服务器或用户可能无法使用。<br>
 网易云有 cookies 的情况下，可以显示更多的歌曲（否则可能只有 10 首）
 :::
 
