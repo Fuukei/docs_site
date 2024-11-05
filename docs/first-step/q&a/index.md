@@ -92,9 +92,16 @@ server {
 该功能可以修改全局上传到媒体库的文件的链接，其实不只是图片，  
 为你的uploads目录单独建立一个服务器，分配一个二级域名即可，  
 
+举个例子：  
 比如你的博客是`fuukei.org`，可以为`files.fuukei.org`配置cdn  
 fuukei.org的网站目录/文件夹在`/opt/openresty/openresty/www/sites/fuukei.org/index`  
 那么为需要代理的目录/文件夹就是`/opt/openresty/openresty/www/sites/nicocat.cc/index/wp-content/uploads`  
 你可以创建一个新的站点，为其分配二级域名`files.fuukei.org`，然后创建index软链接或者硬链接指向需要代理的目录/文件夹即可  
 如果你是使用docker部署的web服务器，在挂载卷中将wordpress目录挂载为本地目录，
-然后将uploads目录挂载为cdn域名网站的index目录即可
+然后将uploads目录挂载为cdn域名网站的index目录即可  
+
+那么你在图片CDN设置项应该填写的就是“`https://files.fuukei.org`”  
+
+同样，不一定必须指派index目录，如果您多个网站共用这一个资源站，  
+目录映射对了，设置填写对了同样可以生效  
+
