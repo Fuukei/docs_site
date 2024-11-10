@@ -112,7 +112,7 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://blog.kusu.micrsky.com/" target="_blank" one-link-mark="yes">
+<a class="link-item-inner effect-apollo" href="https://blog.nyat.icu/" target="_blank" one-link-mark="yes">
 <img src="https://s.nmxc.ltd/fuukei_docs/sakurairo/demosite/cmu.bwmc.live.webp"><br>
 <span class="sitename">楠ちゃん の Blog</span>
 <div class="linkdes">Forgive me.</div>

@@ -2,7 +2,7 @@
 title: 关于主题
 ---
 
-# 关于主题 <Badge type="tip" text="v2.6.0" />
+# 关于主题 <Badge type="tip" text="v2.7.0" />
 
 ## 版本信息
 
@@ -47,11 +47,11 @@ title: 关于主题
 
 ::: tip 第三方提供的公开视觉地址（提供方-地址）：
 
-- <del>筱烷：[https://cdn.kusu.icu/sakurairo_vision/@2.6/](https://cdn.kusu.icu/sakurairo_vision/@2.6/)</del>
-- 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)
+- 筱烷：[https://cdn.nyat.icu/sakurairo_vision/@2.6/](https://cdn.nyat.icu/sakurairo_vision/@2.7/)
+- 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.7/)
 - 小智：[https://api.kuroko.cn/sakurairo_vision/@2.7/](https://api.kuroko.cn/sakurairo_vision/@2.7/)
 - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
-- CircleCrop：[https://vision-public.aiccrop.com/@2.6/](https://aiccrop.com/2023/sakurairo-vision-public/)
+- CircleCrop：[https://vision-public.aiccrop.com/@2.7/](https://aiccrop.com/2023/sakurairo-vision-public/)
 
 如使用 `原神特供版` 需要在 `主页设置 → 封面社交区域设置` 中，将 `社交网络图标` 更换为“珊瑚朱色”  
 :::
