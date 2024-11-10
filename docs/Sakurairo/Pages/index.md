@@ -13,6 +13,7 @@ title: 页面设置
 
   ![圆角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_iro.webp)
 - 直角样式
+  
   ![直角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_sakura.webp)
 
 ### 页面排版样式
@@ -72,11 +73,10 @@ title: 页面设置
 
 关闭后图片中功能栏将在页面中隐藏
 
-![功能栏](https://pic.aiccrop.com/origin/2023/07/64a254deabc2e.png)
+![功能栏](./docs_aera_discribtion.png)
 
-### 文章知识共享协议
-
-![版权提示](https://pic.aiccrop.com/origin/2023/07/64a23315c3245.png)
+从左到右依次为文章知识共享协议、作者头像、作者昵称、作者个人介绍、文章最后更新时间、文章标签  
+在文章页面设置页均有其对应的设置项决定是否开启，目前暂无法更改其显示顺序
 
 ### 文章页面赞赏功能（支付宝/微信二维码）
 
@@ -84,25 +84,6 @@ title: 页面设置
 
 - 文章页面赞赏按钮微信二维码：填写收款码 URL
 
-### 文章页面作者头像
-
-![作者头像](https://pic.aiccrop.com/origin/2023/07/64a23325411dd.png)
-
-### 文章页面作者名字
-
-![作者名字](https://pic.aiccrop.com/origin/2023/07/64a254d81353a.png)
-
-### 文章页面作者签名
-
-![作者签名](https://pic.aiccrop.com/origin/2023/07/64a254d18fca7.png)
-
-### 文章最后更新时间
-
-![更新时间](https://pic.aiccrop.com/origin/2023/07/64a24cf1a195e.png)
-
-### 文章标签
-
-![文章标签](https://pic.aiccrop.com/origin/2023/07/64a254ca555a7.png)
 
 ### 文章页面上下文章切换
 
