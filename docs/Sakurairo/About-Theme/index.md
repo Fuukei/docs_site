@@ -47,8 +47,8 @@ title: 关于主题
 
 ::: tip 第三方提供的公开视觉地址（提供方-地址）：
 
-- 筱烷：[https://cdn.nyat.icu/sakurairo_vision/@2.6/](https://cdn.nyat.icu/sakurairo_vision/@2.7/)
-- 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.7/)
+- 筱烷：[https://cdn.nyat.icu/sakurairo_vision/@2.7/](https://cdn.nyat.icu/sakurairo_vision/@2.7/)
+- 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)
 - 小智：[https://api.kuroko.cn/sakurairo_vision/@2.7/](https://api.kuroko.cn/sakurairo_vision/@2.7/)
 - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
 - CircleCrop：[https://vision-public.aiccrop.com/@2.7/](https://aiccrop.com/2023/sakurairo-vision-public/)
