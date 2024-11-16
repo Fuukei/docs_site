@@ -8,9 +8,13 @@ title: 初步设置
 [QQ 群：784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik) & [Telegram 群:fksakurairo](https://t.me/fksakurairo)
 :::
 
-## 站点名称&作者名称
+## 站点名称
 
-SEO、版权信息等将会引用到这些值值，请移步至wordpress全局设置和您的个人资料页进行编辑。
+您站点的名称，SEO、版权信息等将会引用到该值，除非特别设置，这将是您博客的标题
+
+## 作者名称
+
+您站点的作者名称，SEO、版权信息等将会引用到该值
 
 ## 个人头像
 
