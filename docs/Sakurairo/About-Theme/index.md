@@ -47,13 +47,15 @@ title: 关于主题
 
 ::: tip 第三方提供的公开视觉地址（提供方-地址）：
 
-- 筱烷：[https://cdn.nyat.icu/sakurairo_vision/@2.6/](https://cdn.nyat.icu/sakurairo_vision/@2.7/)
-- 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.7/)
+- 筱烷：[https://cdn.nyat.icu/sakurairo_vision/@2.7/](https://cdn.nyat.icu/sakurairo_vision/@2.7/)
+- 小七：[https://iro.yateam.cc/2.5/](https://iro.yateam.cc/2.5/)
 - 小智：[https://api.kuroko.cn/sakurairo_vision/@2.7/](https://api.kuroko.cn/sakurairo_vision/@2.7/)
 - 小智（原神特供版）：[https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
 - CircleCrop：[https://vision-public.aiccrop.com/@2.7/](https://aiccrop.com/2023/sakurairo-vision-public/)
 
-如使用 `原神特供版` 需要在 `主页设置 → 封面社交区域设置` 中，将 `社交网络图标` 更换为“珊瑚朱色”  
+如使用 `原神特供版` 需要在 `主页设置 → 封面社交区域设置` 中，将 `社交网络图标` 更换为`珊瑚朱色` 
+
+若使用主题版本大于等于2.7，则将 `社交网络图标` 更换为`扁平多彩` 
 :::
 
 ## 隐私信息
