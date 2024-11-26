@@ -223,12 +223,20 @@ Markdown 图标颜色、Commmets 标题下划线颜色等
 将自定义表情包上传到服务器后点击下方蓝色“这里”超链接可以更新自定义表情包列表
 
 :::
->目录如何填写？
+>目录如何写？  
+>wordpress 6.6.2 windows+apache+php8.2环境  
 `../.././uploads/2024/10`
 这个例子将读取服务器的`wp-content\uploads\2024\10`文件夹，  
 并将其中的'jpg', 'jpeg', 'png', 'gif', 'svg', 'avif', 'webp'文件添加为表情包，  
 `../`表示往上翻文件，`./`表示在这边往下翻文件，`/`表示在当前文件夹往下翻指定文件夹，  
 请以`wp-content\themes\Sakurairo`为起点开始编写翻文件夹的方法。
+
+>wordpress6.6.2 linux+nginx+php8.2环境
+程序默认起始目录是`/wp-contents/uploads/`，  
+设置`/2024/10`即可读取`wp-content\uploads\2024\10`，
+具体编辑方法相同
+
+请根据自己的详细情况酌情调整目录设置。
 
 ### 自定义表情包代理地址
 
