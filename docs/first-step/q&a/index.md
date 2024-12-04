@@ -103,7 +103,7 @@ server {
 举个例子：  
 比如你的博客是`fuukei.org`，可以为`files.fuukei.org`配置cdn  
 fuukei.org的网站目录/文件夹在`/opt/openresty/openresty/www/sites/fuukei.org/index`  
-那么为需要代理的目录/文件夹就是`/opt/openresty/openresty/www/sites/nicocat.cc/index/wp-content/uploads`  
+那么为需要代理的目录/文件夹就是`/opt/openresty/openresty/www/sites/fuukei.org/index/wp-content/uploads`  
 你可以创建一个新的站点，为其分配二级域名`files.fuukei.org`，然后创建index软链接或者硬链接指向需要代理的目录/文件夹即可  
 如果你是使用docker部署的web服务器，在挂载卷中将wordpress目录挂载为本地目录，
 然后将uploads目录挂载为cdn域名网站的index目录即可  
