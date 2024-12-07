@@ -128,3 +128,8 @@ fuukei.org的网站目录/文件夹在`/opt/openresty/openresty/www/sites/fuukei
 ::: tip
 在文章的编辑页面这边可以进行更改。
 ![image](/shots/article_image.png)
+:::
+
+## 我无法更新文章、无法发布文章、无法更改设置怎么办？
+::: tip
+尝试关闭网站防护、关闭WAF、关闭网站放篡改、关闭防XSS攻击、关闭防SQL注入后重试
