@@ -128,8 +128,8 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://www.autumnus.cn/" target="_blank" one-link-mark="yes">
-<img src="https://www.autumnus.cn/imgapi/profile.webp"><br>
+<a class="link-item-inner effect-apollo" href="https://blog.akiday.com/" target="_blank" one-link-mark="yes">
+<img src="https://blog.akiday.com/imgapi/profile.webp"><br>
 <span class="sitename">AkiDAY</span>
 <div class="linkdes">永恒秋日之星</div>
 </a>
