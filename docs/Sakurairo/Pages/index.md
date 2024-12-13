@@ -336,6 +336,8 @@ Markdown 图标颜色、Commmets 标题下划线颜色等
 
 已弃用。
 
+## 评论邮件通知设置
+
 ### 邮件模板特色图片
 
 ![邮件模板特色图片](/shots/mail_head.webp)
