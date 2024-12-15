@@ -2,15 +2,12 @@
 title: 初步设置
 ---
 
-# 初步设置 <Badge type="tip" text="v2.6.0" />
+ 初步设置 <Badge type="tip" text="v2.7.2" />
 
 ::: tip 参与交流
 [QQ 群：784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik) & [Telegram 群:fksakurairo](https://t.me/fksakurairo)
 :::
 
-## 站点名称&作者名称
-
-SEO、版权信息等将会引用到这些值值，请移步至wordpress全局设置和您的个人资料页进行编辑。
 
 ## 个人头像
 
@@ -27,7 +24,7 @@ SEO、版权信息等将会引用到这些值值，请移步至wordpress全局�
 
 ![](/user-images.githubusercontent.com/28827378/233882902-71d8b1f6-4fe7-4cbf-afc0-a0fb43c90cf8.png)
 
-> （开启之后和 个人头像 冲突）
+> （开启之后和 个人头像 冲突，将取代个人头像显示在封面上）
 
 ## 导航菜单 Logo
 
