@@ -112,6 +112,7 @@ fuukei.org的网站目录/文件夹在`/opt/openresty/openresty/www/sites/fuukei
 
 同样，不一定必须指派index目录，如果您多个网站共用这一个资源站，  
 目录映射对了，设置填写对了同样可以生效  
+:::
 
 ## 我设置的前台（背景图片）怎么没有生效？
 
