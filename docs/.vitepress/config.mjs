@@ -14,12 +14,14 @@ export default defineConfig({
       
       sidebar: [
         {text: '准备工作',
+          collapsible: true,
           items: [
             { text: '安装 WordPress', link: '/first-step/wp-install/' },
             { text: '安装主题', link: '/first-step/theme-install/'},
             { text: '常见问题', link: '/first-step/q&a/'}
         ]},
         {text: '主题设置',
+          collapsible: true,
           items: [
             { text: '初步设置', link: '/Sakurairo/Preliminary/' },
             { text: '全局设置', link: '/Sakurairo/Global/' },
@@ -32,6 +34,7 @@ export default defineConfig({
             { text: '短代码', link: '/Sakurairo/Short-Code/' }
         ]},
         {text: '更新日志',
+          collapsible: true,
           items: [
             { text: '更新日志', link: '/Sakurairo/Update-Log/' }
         ]}
@@ -62,9 +65,6 @@ export default defineConfig({
       socialLinks: [
           { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
         ],
-      footer: {
-          copyright: "Fuukei Sponsored by <a href='https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral' target='_blank'> <img alt='upyun-logo' src='https://s.nmxc.ltd/sakurairo_vision/@2.6/options/upyun_logo.webp'  style='display:inline-block;vertical-align:middle;width:60px;height:30px;'/></a> | This Page Use MIT Licensed | Copyright © 2020-2023 Fuukei™",
-          message: ""
         },
         search: {
           provider: 'local'
