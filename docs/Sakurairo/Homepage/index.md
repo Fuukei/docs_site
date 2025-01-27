@@ -488,7 +488,7 @@ bilibili、网易云、github等：
 
 > [!TIP]
 > 要为文章卡片设置独立的装饰图片，请前往编辑文章属性的特色图片。  
-> 简要教程：[设置文章特色图片](https://docs.fuukei.org/first-step/q&a/#%E6%96%87%E7%AB%A0%E5%8D%A1%E7%89%87%E7%9A%84%E9%A2%84%E8%A7%88%E5%9B%BE%E7%89%87%E6%80%8E%E4%B9%88%E8%AE%BE%E7%BD%AE-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E6%98%AF%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87)
+> 简要教程：[设置文章特色图片](https://docs.fuukei.org/first-step/q&a/#%E6%96%87%E7%AB%A0%E5%8D%A1%E7%89%87%E7%9A%84%E9%A2%84%E8%A7%88%E5%9B%BE%E7%89%87%E6%80%8E%E4%B9%88%E5%8D%95%E7%8B%AC%E8%AE%BE%E7%BD%AE-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E6%98%AF%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87)
 
 ### 文章区域卡片圆角
 
