@@ -120,14 +120,6 @@ title: 使用本主题的博客
 </li>
 
 <li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://aiccrop.com/" target="_blank" one-link-mark="yes">
-<img src="https://aiccrop.com/wp-content/uploads/2023/04/4c50eef3bdaf0b4164ce.webp"><br>
-<span class="sitename">CircleCrop's Blog</span>
-<div class="linkdes">A boy from China who likes photography, music and ACGN.</div>
-</a>
-</li>
-
-<li class="link-item">
 <a class="link-item-inner effect-apollo" href="https://blog.akiday.com/" target="_blank" one-link-mark="yes">
 <img src="https://blog.akiday.com/imgapi/profile.webp"><br>
 <span class="sitename">AkiDAY</span>
@@ -172,14 +164,6 @@ title: 使用本主题的博客
 <img src="https://msoushi.xyz/wp-content/uploads/2023/12/20231205_040234.jpg"><br>
 <span class="sitename">鸽子的小窝</span>
 <div class="linkdes">一只喜欢咕咕咕的老鸽子~</div>
-</a>
-</li>
-
-<li class="link-item">
-<a class="link-item-inner effect-apollo" href="https://www.muyuanhuck.cn/" target="_blank" one-link-mark="yes">
-<img src="https://0.gravatar.com/avatar/4c9b4ff922eceec6cba771bc8e84257968e6bb1a1fd6b224da6c4dd35198211b?size=256"><br>
-<span class="sitename">MuYuan Blog</span>
-<div class="linkdes">给岁月以文明，给时光以生命</div>
 </a>
 </li>
 
