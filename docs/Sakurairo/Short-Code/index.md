@@ -97,5 +97,5 @@ title: 短代码
 ```
 [vbilibili]视频的BV号[/vbilibili]
 
-![filter](/shots/bvcode.png)
+![vbilibili](/shots/bvcode.png)
 ```
