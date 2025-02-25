@@ -49,8 +49,8 @@ title: 其他设置
 
 ### 仪表板设置菜单样式
 
-- ![](https://s.nmxc.ltd/sakurairo_vision/@2.5/options/admin_left_style_v1.webp)
-- ![](https://s.nmxc.ltd/sakurairo_vision/@2.5/options/admin_left_style_v2.webp)
+- ![](https://s.nmxc.ltd/sakurairo_vision/@2.7/options/admin_left_style_v1.webp)
+- ![](https://s.nmxc.ltd/sakurairo_vision/@2.7/options/admin_left_style_v2.webp)
 ### 仪表盘一级菜单颜色
 
 设置仪表盘一级菜单颜色

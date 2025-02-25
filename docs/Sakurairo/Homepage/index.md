@@ -119,8 +119,6 @@ title: 主页设置
 相关使用说明、帮助请参考 [主题内建随机图API](/Sakurairo/Gallery/)。
 
 - 外部随机图：填写随机图地址。
-
-  - 如使用本地图片这将图片放置`.\wp-content\themes\Sakurairo\manifest\gallary`
   - 如使用外部 API 您可以选择一下几种
     - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
     - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
@@ -132,7 +130,6 @@ title: 主页设置
 - 封面随机图片多终端分离：开启后桌面端和移动端会分别使用不同的随机图 API 地址
 
 - 外部 API 手机端随机图片地址：填写随机图地址。
-  - 如使用本地图片这将图片放置`.\wp-content\themes\Sakurairo\manifest\gallary`
   - 如使用外部 API 您可以选择一下几种
     - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
     - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
