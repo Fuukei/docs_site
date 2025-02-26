@@ -64,12 +64,9 @@ title: 主页设置
 ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz34.png)
 
 
-### 封面信息栏背景颜色
+### 封面部件透明度
 
-设置封面信息栏背景颜色
-![](/user-images.githubusercontent.com/103624556/233815633-495b0955-7890-4d14-ae2f-062518d709ad.png)
-
-> 建议使用浅色系颜色
+设置封面信息栏底色透明度
 
 ### 封面信息栏头像圆角
 
@@ -82,13 +79,6 @@ title: 主页设置
 
 - 修改为100时
 ![](/user-images.githubusercontent.com/103624556/233815635-d9fa717c-6c4d-42f0-ab14-a1f1413d8c30.png)
-
-### 封面签名栏圆角
-
-设置封面签名栏圆角
-（当前设置为15）![](/user-images.githubusercontent.com/103624556/233815636-764ec98e-dbf2-4c2b-9229-33128207c16b.png)
-
-> 滑动滑块设置，推荐数值范围为 10-20
 
 ### 封面签名栏文本
 
@@ -125,11 +115,10 @@ title: 主页设置
 
 ## 随机图设置
 
-本主题默认采用外部随机图 API，需要本地随机库图片，请更换为 本地 /Webp 优化。
+本主题默认采用外部随机图 API，需要本地随机库图片，请更换为 `内建API`。
+相关使用说明、帮助请参考 [主题内建随机图API](/Sakurairo/Gallery/)。
 
 - 外部随机图：填写随机图地址。
-
-  - 如使用本地图片这将图片放置`.\wp-content\themes\Sakurairo\manifest\gallary`
   - 如使用外部 API 您可以选择一下几种
     - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
     - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
@@ -138,12 +127,9 @@ title: 主页设置
     - [墨天逸](https://api.mtyqx.cn/)
     - [黑子 API](https://api.kuroko.cn/rand/ecy-img/pc.php)
 
-- Webp 优化随机图：选择后在下方填写 Manifest 路径，更多信息请参考[webp 优化随机图说明](/Sakurairo/Webp/)。
-
 - 封面随机图片多终端分离：开启后桌面端和移动端会分别使用不同的随机图 API 地址
 
 - 外部 API 手机端随机图片地址：填写随机图地址。
-  - 如使用本地图片这将图片放置`.\wp-content\themes\Sakurairo\manifest\gallary`
   - 如使用外部 API 您可以选择一下几种
     - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
     - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
@@ -302,49 +288,12 @@ bilibili、网易云、github等：
   - 电子邮件用户名
   - 电子邮件域
 
-## 公告栏和区域标题设置
+## 首页布局和区域标题设置
 
-### 公告栏
+### 主页布局
 
-#### 公告栏
-
-整个公告，显示出来
-
-![](/user-images.githubusercontent.com/103624556/233821790-6c45592f-1017-4382-b69e-f387a74acc48.png)
-
-- 公告栏样式：
-  - 图片背景
-    - 公告栏背景：填写图片 URL
-  - 纯色背景
-    - 公告栏边框颜色：建议使用与主题色相同色系且属于浅色系的颜色
-
-#### 公告板边框颜色
-
-可以给公告板的边框赋予一个颜色。
-
-#### 公告栏文本
-
-设置公告栏中的文字
-
-#### 公告文本对齐方向
-
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz46.png)
-
-左对齐
-
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz47.png)
-
-右对齐
-
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz48.png)
-
-居中对齐
-
-#### 公告文本颜色
-
-设置一下公告中的文本颜色
-
-> 建议根据背景颜色搭配合适的颜色
+在这里添加公告板、展示区域后相关内容才会在首页显示，默认只包含文章区域。  
+这个设置项可以控制相关区域的展示顺序。
 
 ### 区域标题
 #### 展示区域图标
@@ -395,11 +344,45 @@ bilibili、网易云、github等：
 
 - 靠右对齐
 
-#### 区域标题下分隔线颜色
+## 公告栏设置
 
-设置区域标题下分隔线颜色
+整个公告，显示出来
 
-> 建议使用与主题色相同色系且属于浅色系的颜色
+![](/user-images.githubusercontent.com/103624556/233821790-6c45592f-1017-4382-b69e-f387a74acc48.png)
+
+- 公告栏样式：
+  - 图片背景
+    - 公告栏背景：填写图片 URL
+  - 纯色背景
+    - 公告栏边框颜色：建议使用与主题色相同色系且属于浅色系的颜色
+
+### 公告板边框颜色
+
+可以给公告板的边框赋予一个颜色。
+
+### 公告栏文本
+
+设置公告栏中的文字
+
+### 公告文本对齐方向
+
+![](https://s.nmxc.ltd/sakurairo_wiki/help/sz46.png)
+
+左对齐
+
+![](https://s.nmxc.ltd/sakurairo_wiki/help/sz47.png)
+
+右对齐
+
+![](https://s.nmxc.ltd/sakurairo_wiki/help/sz48.png)
+
+居中对齐
+
+#### 公告文本颜色
+
+设置一下公告中的文本颜色
+
+> 建议根据背景颜色搭配合适的颜色
 
 ## 展示区域设置
 
@@ -439,17 +422,21 @@ bilibili、网易云、github等：
 
 设置展示区域内容
 
-- 第一展示区
+- 需要填写的内容
   - 图片：填写 URL
   - 标题：
   - 描述：（上方选择`下往上样式`则无描述）
   - 地址：填写前往链接
-- 第二展示区
-  - （同上）
-- 第三展示区
-  - （同上）
+
+觉得默认设置不够、多了可以点击设置项底部的 “+” 或设置栏右边的 “x” 自由增减。
 
 ## 文章区域设置
+
+### 文章区域显示元素
+
+![](/shots/article_info.png)
+
+就是文章卡片右上角的内容，可以展示所属文章的一些信息。
 
 ### 文章区域展示样式
 
@@ -486,6 +473,10 @@ bilibili、网易云、github等：
 - 外部 API 随机图片
   - 文章区域装饰特色图片外部 API 随机图片地址
 
+> [!TIP]
+> 要为文章卡片设置独立的装饰图片，请前往编辑文章属性的特色图片。  
+> 简要教程：[设置文章特色图片](https://docs.fuukei.org/first-step/q&a/#%E6%96%87%E7%AB%A0%E5%8D%A1%E7%89%87%E7%9A%84%E9%A2%84%E8%A7%88%E5%9B%BE%E7%89%87%E6%80%8E%E4%B9%88%E5%8D%95%E7%8B%AC%E8%AE%BE%E7%BD%AE-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E6%98%AF%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87)
+
 ### 文章区域卡片圆角
 
 设置文章区域文章卡片圆角
@@ -504,14 +495,6 @@ bilibili、网易云、github等：
 
 设置文章区域标题字体大小
 推荐在 16-20 范围内
-
-### 文章区域时间提示区域字体大小
-
-设置文章区域时间提示区域字体大小
-
-### 文章区域“作者信息”
-
-设置文章区域“作者信息”(开启之后，文章元数据部分将增加作者信息)
 
 ### 在首页显示说说
 

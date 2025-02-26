@@ -8,6 +8,9 @@ title: 初步设置
 [QQ 群：784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik) & [Telegram 群:fksakurairo](https://t.me/fksakurairo)
 :::
 
+> [!TIP]
+> 主题支持可视化编辑器  
+> 你可以在`WordPress外观 > 自定义`中即时查看首页可视元素的设置效果！
 
 ## 个人头像
 
