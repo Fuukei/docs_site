@@ -128,31 +128,32 @@ title: 全局设置
 
 ### 导航菜单样式
 
-#### IRO：
+#### 灵动岛（支持圆角）：
 
 - ![](/options/nav_menu_style_iro.webp)
 
-  - 示例：
+  - 示例：  
+    居中
     ![](/shots/iro_nav.png)
+  
+  - 宽松
+    ![](/shots/iro_nav_dist.png)
 
 
 #### Sakura：
 
 - ![Sakura](https://s.nmxc.ltd/sakurairo_wiki/help/sz20.png)
   
-  - 示例：
+  - 示例：  
+    宽松（不支持圆角）
     ![](/shots/sakura_nav.png)
-
-#### Sakurairo：
-
-- ![Sakurairo](https://s.nmxc.ltd/sakurairo_wiki/help/sz17.png)
   
-  - 导航菜单圆角：
+  - 标准（支持圆角）：
     ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz18.png)
 
-### iro导航栏样式
+### 灵动岛样式
 
-自定义iro导航栏的布局，居中还是分散，默认居中。
+自定义iro导航栏的布局，居中还是宽松，默认居中，样式示例见上。
 
 ### 导航菜单圆角
 
@@ -160,15 +161,15 @@ title: 全局设置
 
 > 默认值为 50，根据个人喜好增减
 
-### Sakura导航栏样式设置
+### 导航栏样式设置
+
+#### 导航栏外观
+
+宽松或标准，示例样式见上。
 
 #### 导航栏选项分布方式
 
 导航菜单项目在导航栏中的分布位置，可选靠左、靠右或者居中，默认靠右。
-
-#### 模糊度
-
-导航栏背景的模糊度，大于0时会给导航栏背景添加一定的模糊效果。
 
 #### 菜单选项左右间距
 
