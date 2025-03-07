@@ -1,7 +1,7 @@
 ---
 title: 其他设置
 ---
-# 其他设置 <Badge type="tip" text="v2.6.0" />
+# 其他设置 <Badge type="tip" text="v3.0" />
 
 ## 登录界面和仪表盘相关设置
 

@@ -2,7 +2,7 @@
 title: 页面设置
 ---
 
-# 页面设置 <Badge type="tip" text="v2.6.2" />
+# 页面设置 <Badge type="tip" text="v3.0" />
 
 ## 综合设置
 
@@ -171,6 +171,10 @@ title: 页面设置
 ### 升序或降序
 
 控制排序为升序 / 降序。
+
+### Steam库模版
+
+相关使用说明、帮助请参考 [Steam库模版使用说明](/Sakurairo/Steam/)。
 
 ## 登录模板设置
 
