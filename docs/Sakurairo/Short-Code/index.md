@@ -53,10 +53,12 @@ title: 短代码
 
 ```
 将 #GitHub 用户名# 替换为您的用户名、 #仓库名# 替换为您的仓库名：
-[ghcard path="#GitHub 用户名#/#仓库名#"]/pin/?username=#GitHub 用户名#&repo=#仓库名#[/ghcard]
+[ghcard path="#GitHub 用户名#/#仓库名#"][/ghcard]
 
 例如：
-[ghcard path="mirai-mamori/Sakurairo"]/pin/?username=mirai-mamori&repo=Sakurairo[/ghcard]
+[ghcard path="mirai-mamori/Sakurairo"][/ghcard]
+或者：
+[ghcard path="https://github.com/mirai-mamori/Sakurairo"][/ghcard]
 ```
 
 ![](/user-images.githubusercontent.com/28827378/233814342-f72871f7-0805-49dc-9092-78db04293fc7.png)
@@ -89,3 +91,12 @@ title: 短代码
 ```
 
 ![](/user-images.githubusercontent.com/28827378/233814341-ab9ba25a-f406-4b66-9e15-ff31cf13983f.png)
+
+## bilibili视频
+
+```
+[vbilibili]视频的BV号[/vbilibili]
+
+```
+
+![vbilibili](/shots/bvcode.png)
