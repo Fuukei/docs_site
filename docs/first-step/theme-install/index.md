@@ -20,7 +20,7 @@ title: 安装主题
 ## 上传并启用主题
 
 ::: warning   
-下载主题后，请解压并将解压后的主题文件夹重命名为 “Sakurairo” ，然后重新压缩成 ZIP 格式文件。
+下载主题后，请解压并将解压后的主题文件夹重命名为 “Sakurairo” ，然后重新压缩成 ZIP 格式文件（2.7.2及以下版本为必要步骤）。  
 :::
 
 ![仪表盘-外观](https://s.nmxc.ltd/sakurairo_wiki/help/1.png)
@@ -41,4 +41,4 @@ title: 安装主题
 
 ![仪表盘-启用主题](https://s.nmxc.ltd/sakurairo_wiki/help/5.png)
 
-安装之后，启动主题
+安装之后，启用主题
