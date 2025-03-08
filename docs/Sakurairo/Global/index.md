@@ -1,7 +1,7 @@
 ---
 title: 全局设置
 ---
-# 全局设置 <Badge type="warning" text="更新了，但没完全更新" />
+# 全局设置 <Badge type="tip" text="v3.0" />
 
 ## 外观设置
 

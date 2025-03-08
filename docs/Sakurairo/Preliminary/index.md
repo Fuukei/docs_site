@@ -2,7 +2,7 @@
 title: 初步设置
 ---
 
- 初步设置 <Badge type="tip" text="v2.7.2" />
+# 初步设置 <Badge type="tip" text="v3.0" />
 
 ::: tip 参与交流
 [QQ 群：784229925](https://jq.qq.com/?_wv=1027&k=U5UJjRik) & [Telegram 群:fksakurairo](https://t.me/fksakurairo)
