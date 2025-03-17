@@ -2,7 +2,7 @@
 title: 模版
 ---
 
-# 模板 <Badge type="tip" text="v2.6.0" />
+# 模板 <Badge type="tip" text="v3.0" />
 
 本主题目前提供多种页面模板，您可以在 WordPress 后台菜单的 “页面” 选项中新建页面，并选择您想要的模板来使用：
 
@@ -68,6 +68,10 @@ title: 模版
 
 1. 写您的 `My Anime List` 用户名，可以调整番剧的排列顺序。
 
+### Bangumi 源配置
+
+从你的Bangumi主页或主页链接中获取你的账户UID填写到对应设置项中即可。
+
 ## 哔哩哔哩追剧模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩追剧模板` ：
@@ -92,16 +96,6 @@ title: 模版
 
 4.  在 `哔哩哔哩账号Cookies` 中填写您的 Cookie
 
-## 说说模板
-
-1. 新建页面，并在**页面属性**的模板选项中 `说说模板` ：
-
-   ![](/user-images.githubusercontent.com/28827378/233814344-957030a0-f795-4f09-b656-b47e1b04d340.png)
-
-2. 使用 `说说` 模板的页面将会展示您的说说：
-
-   ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-shuoshuo.png)
-
 ## 哔哩哔哩收藏模板
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩收藏模板` ：
@@ -113,6 +107,10 @@ title: 模版
 3. 完成配置后，使用 `哔哩哔哩收藏` 模板的页面将会显示您的收藏列表：
 
    ![](/user-images.githubusercontent.com/28827378/233814321-e906f6b5-f5dc-4e1e-b1bd-760a2871bec6.png)
+
+## Steam库模版
+
+相关使用说明、帮助请参考 [Steam库模版使用说明](/Sakurairo/Steam/)。
 
 ## 时光轴模板
 

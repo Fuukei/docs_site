@@ -2,7 +2,7 @@
 title: 短代码
 ---
 
-# 短代码 <Badge type="tip" text="v2.6.0" />
+# 短代码 <Badge type="tip" text="v3.0" />
 
 本主题预置了多种多代码，您可以在文章中使用他们：
 
