@@ -164,9 +164,10 @@ title: 其他设置
 
 设置 BaguetteBox 灯箱效果是否开启
 
-> 开启之后将替换 Fancybox 作为图片灯箱效果，不建议使用
-
 > BaguetteBox 灯箱使用方法`[![图片标题](../example.th.png)](../example.png)`
+
+> 或者在可视化编辑器中手动将图像链接至图像本身：
+> ![usage](/shots/lightbox_usage.png)
 
 #### FancyBox 灯箱效果
 
