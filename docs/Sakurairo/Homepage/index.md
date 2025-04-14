@@ -152,6 +152,10 @@ title: 主页设置
 
 开启之后，封面的背景将设置为透明，同时前台背景将使用封面的随机图 API
 
+### 文章特色图背景  
+
+开启后在设置了特色图的页面会使用其特色图作为背景，如果中途未使用小部件切换背景，回到主页后会自动恢复。
+
 ### 封面随机图片滤镜
 ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz37.png)无（默认）
 ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz38.png)浅色
