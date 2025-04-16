@@ -121,23 +121,3 @@ title: 模版
 2. 使用 `时光轴` 模板的页面将会显示您的收藏列表：
 
    ![](/user-images.githubusercontent.com/28827378/233814349-d7509feb-8a05-4d2f-9ff8-2176a7edf5b1.png)
-
-## 注册页面模板
-
-1. 新建页面，并在**页面属性**的模板选项中 `注册页面模板` ：
-
-   ![](/user-images.githubusercontent.com/28827378/233814348-18e47efd-df48-4e7f-90f6-87e67cbbe734.png)
-
-2. 使用 `注册页面` 模板的页面将允许注册：
-
-   ![](/user-images.githubusercontent.com/28827378/233814347-155bfcb8-0cb3-4850-81f9-366a8451bf36.png)
-
-## 登录页面模板
-
-1. 新建页面，并在**页面属性**的模板选项中 `登录页面模板` ：
-
-   ![](/user-images.githubusercontent.com/28827378/233814328-9f11ee72-6b0d-42c9-a386-d97ed29800d1.png)
-
-2. 使用 `登录页面` 模板的页面将允许登录：
-
-   ![](/user-images.githubusercontent.com/28827378/233814327-b404adcc-6f7f-4433-8311-d184a90e5d1d.png)
