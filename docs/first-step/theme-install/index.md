@@ -4,7 +4,7 @@ title: 安装主题
 
 # 安装主题
 
-## 配置要求 <Badge type="tip" text="2023年8月" />
+## 配置要求 <Badge type="tip" text="2025年4月" />
 
 ::: warning 最低要求：  
    Nginx/Apache：2020 年之后发行的版本。  
