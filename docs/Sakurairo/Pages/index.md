@@ -1,4 +1,4 @@
----
+页面样式---
 title: 页面设置
 ---
 
@@ -11,10 +11,10 @@ title: 页面设置
 - 圆角样式
 
 
-  ![圆角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_iro.webp)
+  ![圆角样式](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/page_style_iro.webp)
 - 直角样式
   
-  ![直角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_sakura.webp)
+  ![直角样式](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/page_style_sakura.webp)
 
 ### 页面排版样式
 
@@ -155,9 +155,9 @@ steam库存操作同理。
 
 
 <div style="display:block">
-  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_left.webp" alt="friend_link_left" style="margin:0px 1%;display:inline-block;width:31%">
-  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_right.webp" alt="friend_link_right" style="margin:0px 1%;display:inline-block;width:31%">
-  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_center.webp" alt="friend_link_center" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@3.0/options/friend_link_left.webp" alt="friend_link_left" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@3.0/options/friend_link_right.webp" alt="friend_link_right" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@3.0/options/friend_link_center.webp" alt="friend_link_center" style="margin:0px 1%;display:inline-block;width:31%">
 </div>
 
 
