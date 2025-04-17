@@ -6,7 +6,7 @@ hero:
   text: Theme-Sakurairo
   tagline: 3.0 版本更新
   image:
-    src: https://s.nmxc.ltd/sakurairo_vision/@2.7/series/login_logo.webp
+    src: https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp
     alt: Sakurairo
   actions:
     - theme: brand
