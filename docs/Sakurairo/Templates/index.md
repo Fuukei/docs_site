@@ -100,7 +100,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩收藏模板` ：
 
-   ![](/templates/fav.png.png)
+   ![](/templates/fav.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-哔哩哔哩 UID 中填写您的 UID 和 Cookie（非必填）
 
