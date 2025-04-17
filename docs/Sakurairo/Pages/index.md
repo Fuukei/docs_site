@@ -1,4 +1,4 @@
-页面样式---
+---
 title: 页面设置
 ---
 
@@ -6,15 +6,6 @@ title: 页面设置
 
 ## 综合设置
 
-### 页面样式
-
-- 圆角样式
-
-
-  ![圆角样式](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/page_style_iro.webp)
-- 直角样式
-  
-  ![直角样式](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/page_style_sakura.webp)
 
 ### 页面排版样式
 
