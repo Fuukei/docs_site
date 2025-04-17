@@ -10,7 +10,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `友情链接模板` ：
 
-   ![](/user-images.githubusercontent.com/28827378/233814324-3948c2cf-fe0e-4d29-81c9-4f647d2a41b3.png)
+   ![](/templates/fl_temp.png)
 
 2. 打开 WordPress 后台菜单中的 “链接” 选项
 
@@ -18,7 +18,7 @@ title: 模版
 
 4. 在分类中新建或选中已有的分类，即可实现对友情链接分组：
 
-   ![](/user-images.githubusercontent.com/28827378/233814325-2ec42db4-a5c0-4f04-8958-0d1f3eae89d7.png)
+   ![](/templates/fl_cate.png)
 
 完成链接的新建后，使用 `友情链接` 模板的页面将会显示您的友情链接：
 
@@ -42,7 +42,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `追番模板` ：
 
-   ![](/user-images.githubusercontent.com/28827378/233814320-41f45be6-9a02-4d8a-9993-5932112efd7c.png)
+   ![](/templates/bgm_temp.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-追番模板源 中，选择您想要使用的追番源
 
@@ -62,7 +62,7 @@ title: 模版
 
     3.  选择其中一项结果，并复制其 Cookie：
 
-        ![](/user-images.githubusercontent.com/28827378/233814317-f1f6a66a-d4d3-43cb-8b1a-d50c8ecf1d31.png)
+        ![](/templates/cookie.png)
 
 ### My Anime List 源配置
 
@@ -76,7 +76,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩追剧模板` ：
 
-   ![](/user-images.githubusercontent.com/28827378/233814330-44402ea8-46b1-4f2c-94ed-dfcf6aaa3053.png)
+   ![](/templates/bgm2.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-哔哩哔哩 UID 中填写您的 UID
 
@@ -92,7 +92,7 @@ title: 模版
 
 3.  选择其中一项结果，并复制其 Cookie：
 
-    ![](/user-images.githubusercontent.com/28827378/233814317-f1f6a66a-d4d3-43cb-8b1a-d50c8ecf1d31.png)
+    ![](/templates/cookie.png)
 
 4.  在 `哔哩哔哩账号Cookies` 中填写您的 Cookie
 
@@ -100,13 +100,13 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `哔哩哔哩收藏模板` ：
 
-   ![](/user-images.githubusercontent.com/28827378/233814323-e78d6ff1-513a-413c-8452-897b230e2a16.png)
+   ![](/templates/fav.png.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-哔哩哔哩 UID 中填写您的 UID 和 Cookie（非必填）
 
 3. 完成配置后，使用 `哔哩哔哩收藏` 模板的页面将会显示您的收藏列表：
 
-   ![](/user-images.githubusercontent.com/28827378/233814321-e906f6b5-f5dc-4e1e-b1bd-760a2871bec6.png)
+   ![](/templates/fav_demo.png)
 
 ## Steam库模版
 
@@ -116,8 +116,8 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `时光轴模板` ：
 
-   ![](/user-images.githubusercontent.com/28827378/233814351-e588bf51-0407-473d-b223-dc65616b309e.png)
+   ![](/templates/timeline_temp.png)
 
 2. 使用 `时光轴` 模板的页面将会显示您的收藏列表：
 
-   ![](/user-images.githubusercontent.com/28827378/233814349-d7509feb-8a05-4d2f-9ff8-2176a7edf5b1.png)
+   ![](/templates/timeline_demo.png)

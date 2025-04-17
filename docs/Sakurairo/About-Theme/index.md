@@ -2,11 +2,11 @@
 title: 关于主题
 ---
 
-# 关于主题 <Badge type="tip" text="v2.7.0" />
+# 关于主题 <Badge type="tip" text="v3.0" />
 
 ## 版本信息
 
-![](/user-images.githubusercontent.com/28827378/233814315-9a06b69c-e559-4552-ba40-3c460fc245ed.png)
+![](/about_theme/ver_info.png)
 
 可以查看版本 LOGO 和版本号
 
@@ -14,7 +14,7 @@ title: 关于主题
 
 ### 主题更新源
 
-![](/user-images.githubusercontent.com/28827378/233814314-da46fa95-16a7-4820-87d3-24babd0e390b.png)
+![](/about_theme/upgrade_source.png)
 
 可以直接在 WordPress 后台检查并更新
 
@@ -38,8 +38,8 @@ title: 关于主题
 
 ### 公共 CDN 路径
 
-![](/user-images.githubusercontent.com/28827378/233814313-dd83f7da-4b85-43a0-87e7-4230a9ed4a56.png)
-您可以选择 **又拍云** 或者 **jsDeliver** 作为您主题的公共 CDN 路径
+![](/about_theme/public_cdn.png)
+您可以选择 **wafpro** 或者 **jsDeliver** 作为您主题的公共 CDN 路径
 
 ### 视觉资源路径
 
