@@ -8,12 +8,12 @@ title: 安装主题
 
 ::: warning 最低要求：  
    Nginx/Apache：2020 年之后发行的版本。  
-   PHP：7.4 及以上版本  
+   PHP：8.0 及以上版本  
    MySQL：5.6 及以上版本
 :::
 ::: tip 推荐：  
    Nginx：1.23.X 版本  
-   PHP：8.２.X 版本  
+   PHP：8.2.X 版本  
    MySQL：8.0.X 版本
 :::
 

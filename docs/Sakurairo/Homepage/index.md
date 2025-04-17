@@ -439,7 +439,7 @@ bilibili、网易云、github等：
 
 ### 文章区域显示元素
 
-![](/shots/article_info.png)
+![](/homepage/article_info.png)
 
 就是文章卡片右上角的内容，可以展示所属文章的一些信息。
 
