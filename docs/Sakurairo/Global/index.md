@@ -25,7 +25,7 @@ title: 全局设置
 
 ## 深色模式
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz7.png)
+![](/global/dark_mode.png)
 
 本主题支持深色模式，在页面的右下角可以开启深色模式。
 
