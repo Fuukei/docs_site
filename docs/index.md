@@ -4,9 +4,9 @@ title: 主页
 
 hero:
   text: Theme-Sakurairo
-  tagline: 2.7 版本更新
+  tagline: 3.0 版本更新
   image:
-    src: https://s.nmxc.ltd/sakurairo_vision/@2.7/series/login_logo.webp
+    src: https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp
     alt: Sakurairo
   actions:
     - theme: brand
@@ -24,5 +24,5 @@ features:
     details: 新朋友又拍云，给主题重新带来极速体验。
   - icon: 🛠️
     title: 功能全家桶
-    details: 新增 B站收藏模板、MAL追番模板。
+    details: 新增 可视化主题编辑、文章注释、友链管理等。
 ---

@@ -4,7 +4,7 @@ title: 备份恢复
 
 # 备份恢复 <Badge type="tip" text="v2.6.0" />
 
-![](/user-images.githubusercontent.com/28827378/233814316-88951725-dd5b-4df0-9563-a27305698618.png)
+![](/bac_rec/bac.png)
 
 ## 备份：
 

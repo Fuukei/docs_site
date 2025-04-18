@@ -29,12 +29,15 @@ export default defineConfig({
             { text: '备份恢复', link: '/Sakurairo/Bac-Rec/' },
             { text: '关于主题', link: '/Sakurairo/About-Theme/' },
             { text: '模版', link: '/Sakurairo/Templates/' },
-            { text: '短代码', link: '/Sakurairo/Short-Code/' }
         ]},
-        {text: '更新日志',
+        {text: '附加功能',
           items: [
-            { text: '更新日志', link: '/Sakurairo/Update-Log/' }
-        ]}
+            { text: '短代码', link: '/Sakurairo/Short-Code/' },
+            { text: '文章注释', link: '/Sakurairo/AI-Annotations/' },
+            { text: '友链管理', link: '/Sakurairo/Link-Manager/' },
+            { text: '内建随机图', link: '/Sakurairo/Gallery/' }
+        ]},
+          { text: '更新日志', link: '/Sakurairo/Update-Log/' }
       ],
       nav: [
           { text: '主页', link: '/'},
@@ -54,7 +57,13 @@ export default defineConfig({
             { text: '备份恢复', link: '/Sakurairo/Bac-Rec/' },
             { text: '关于主题', link: '/Sakurairo/About-Theme/' },
             { text: '模版', link: '/Sakurairo/Templates/' },
-            { text: '短代码', link: '/Sakurairo/Short-Code/' }
+        ]},
+        {text: '附加功能',
+          items: [
+            { text: '短代码', link: '/Sakurairo/Short-Code/' },
+            { text: '文章注释', link: '/Sakurairo/AI-Annotations/' },
+            { text: '友链管理', link: '/Sakurairo/Link-Manager/' },
+            { text: '内建随机图', link: '/Sakurairo/Gallery/' }
         ]},
           { text: '使用博客', link: '/demo/'},
           { text: '又拍云', link: 'https://www.upyun.com/'}

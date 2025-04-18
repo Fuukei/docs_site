@@ -133,10 +133,18 @@ fuukei.org的网站目录/文件夹在`/opt/openresty/www/sites/fuukei.org/index
 ::: tip  
 在后台文章页找到要修改的文章，点击编辑，进入文章修改页。  
 在文章的编辑页面右边的属性栏这边可以进行更改。  
-![image](/shots/article_image.png)  
+![image](/qa/article_image.png)  
 :::
 
 ## 我无法更新文章、无法发布文章、无法更改设置怎么办？
+
 ::: tip  
 尝试关闭网站防护、关闭WAF、关闭网站防篡改、关闭防XSS攻击、关闭防SQL注入后重试  
+:::
+
+## 为什么移动端不显示页尾播放器？
+
+::: tip  
+因为移动端没有必要  
+![image](/qa/no_ess.png)  
 :::

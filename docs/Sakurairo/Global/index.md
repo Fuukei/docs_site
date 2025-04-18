@@ -25,7 +25,7 @@ title: 全局设置
 
 ## 深色模式
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz7.png)
+![](/global/dark_mode.png)
 
 本主题支持深色模式，在页面的右下角可以开启深色模式。
 
@@ -144,10 +144,10 @@ title: 全局设置
 
   - 示例：  
     居中
-    ![](/shots/iro_nav.png)
+    ![](/global/iro_nav.png)
   
   - 宽松
-    ![](/shots/iro_nav_dist.png)
+    ![](/global/iro_nav_dist.png)
 
 
 #### Sakura：
@@ -156,7 +156,7 @@ title: 全局设置
   
   - 示例：  
     宽松（不支持圆角）
-    ![](/shots/sakura_nav.png)
+    ![](/global/sakura_nav.png)
   
   - 标准（支持圆角）：
     ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz18.png)
@@ -193,7 +193,7 @@ title: 全局设置
 
 编写后将显示在导航菜单左侧，在选择分散显示时无效。
 
-![](/shots/word_logo.png)
+![](/global/word_logo.png)
 
 ### 随机图片切换按钮
 
@@ -236,7 +236,7 @@ title: 全局设置
 
 #### 小组件WP小工具区&深色/浅色切换/字体切换
 
-![widgets](/shots/widgets.jpg)
+![widgets](/global/widgets.jpg)
 
 此图片展示的是小组件面板，从上到下，从左到右依次为  
 `WP小工具区、字体切换区、前台背景切换区和深色、浅色切换区`  
@@ -378,10 +378,10 @@ title: 全局设置
 ### 页尾内容排布
 
 - 居中
-  - ![footer](/shots/footer_center.png)
+  - ![footer](/global/footer_center.png)
   
 - 两栏
-  - ![footer](/shots/footer_coloumn.png)
+  - ![footer](/global/footer_coloumn.png)
 
 ### 页尾信息
 
@@ -437,14 +437,14 @@ title: 全局设置
 
 > 设置你的搜索区域背景图片，此选项留空则显示白色背景
 
-![](/shots/search-space-image.png)
+![](/global/search-space-image.png)
 
 ### 搜索过滤器
 
 开启后会在搜索页添加一个搜素过滤器，允许访客自行筛选符合类型条件的相关内容，默认开启。  
 只有在搜索结果中展示说说和在搜索结果中展示页面开启后才会显示相关过滤选项。  
 
-![filter](/shots/filter.jpg)
+![filter](/global/filter.jpg)
 
 ### 在搜索结果中显示说说
 
@@ -479,7 +479,7 @@ title: 全局设置
 开启后菜单栏呼出的搜索页面将会显示相关内容，使用缓存机制，缓存内容每小时刷新一次。默认关闭 
 > 该功能调用 Rest API，每小时更新一次缓存，可在 api.php 里手动设置缓存时间 
 
-![实时搜索](/shots/front_search.jpg)
+![实时搜索](/global/front_search.jpg)
 
 ### 实时搜索评论支援
 
@@ -516,12 +516,6 @@ title: 全局设置
 粒子特效将会出现在全局背景，请打开封面与前台背景一体化选项以获取最佳体验
 
 > 当然我们也给予了超人性化的设置，你可以通过自定义 JSON 来设置富有个性的粒子特效。
-
-#### 音符触动特效
-
-本主题自带音符触动效果（有声音的哦~
-
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz32.png)
 
 ### 功能
 

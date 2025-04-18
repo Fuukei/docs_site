@@ -6,15 +6,6 @@ title: 页面设置
 
 ## 综合设置
 
-### 页面样式
-
-- 圆角样式
-
-
-  ![圆角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_iro.webp)
-- 直角样式
-  
-  ![直角样式](https://s.nmxc.ltd/sakurairo_vision/@2.6/options/page_style_sakura.webp)
 
 ### 页面排版样式
 
@@ -80,7 +71,7 @@ title: 页面设置
 
 关闭后图片中功能栏将在页面中隐藏
 
-![功能栏](/shots/docs_aera_discribtion.png)
+![功能栏](/pages/docs_aera_discribtion.png)
 
 从左到右依次为文章知识共享协议、作者头像、作者昵称、作者个人介绍、文章最后更新时间、文章标签  
 在文章页面设置页均有其对应的设置项决定是否开启，目前暂无法更改其显示顺序
@@ -155,17 +146,16 @@ steam库存操作同理。
 
 
 <div style="display:block">
-  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_left.webp" alt="friend_link_left" style="margin:0px 1%;display:inline-block;width:31%">
-  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_right.webp" alt="friend_link_right" style="margin:0px 1%;display:inline-block;width:31%">
-  <img src="https://s.nmxc.ltd/sakurairo_vision/@2.6/options/friend_link_center.webp" alt="friend_link_center" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@3.0/options/friend_link_left.webp" alt="friend_link_left" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@3.0/options/friend_link_right.webp" alt="friend_link_right" style="margin:0px 1%;display:inline-block;width:31%">
+  <img src="https://s.nmxc.ltd/sakurairo_vision/@3.0/options/friend_link_center.webp" alt="friend_link_center" style="margin:0px 1%;display:inline-block;width:31%">
 </div>
 
 
-### 友情链接模板单元搭配色
+### 友情链接申请表格  
 
-友情链接头像卡片中头像图片和说明文字分隔波浪线的颜色。
-
-### 友情链接模板单元边框阴影颜色
+开启后将在友情链接页的标题旁显示申请表呼出按钮。  
+![功能栏](/pages/form.png)
 
 ### 友情链接列表排序模式
 - Name：按名称排序。
