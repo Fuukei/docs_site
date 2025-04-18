@@ -1,7 +1,7 @@
 ---
 title: 更新日志
 ---
-# 更新日志 <Badge type="tip" text="By Kanochan, AstroNomen"/>  
+# 更新日志 <Badge type="tip" text="By Kanochan, AstroNomen, nicocat"/>  
 
 ## preview  
 
