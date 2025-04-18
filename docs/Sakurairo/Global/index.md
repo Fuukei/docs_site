@@ -54,7 +54,7 @@ title: 全局设置
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
 
-![0.4](https://s.nmxc.ltd/sakurairo_wiki/help/sz8.png) 数值`0.4` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz9.png)数值`1`
+![0.4](/global/04.png) 数值`0.4` ![1](/global/1.png)数值`1`
 
 ### 深色模式部件透明度
 
@@ -62,14 +62,14 @@ title: 全局设置
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
 
-![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz10.png) 数值`0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz11.png)数值`1`
+![0.2](/global/d02.png) 数值`0.2` ![1](/global/d1.png)数值`1`
 
 ### 深色模式背景透明度
 
 设置站点的深色模式背景透明度
 
 > 滑动滑块调节设置，推荐数值范围为 0.6-0.8
-> ![0.2](https://s.nmxc.ltd/sakurairo_wiki/help/sz14.png) 数值`0.2` ![1](https://s.nmxc.ltd/sakurairo_wiki/help/sz13.png)数值`1`
+> ![0.2](/global/b02.png) 数值`0.2` ![1](/global/b1.png)数值`1`
 
 ## 其他外观相关
 
@@ -99,7 +99,7 @@ title: 全局设置
 
 > 滑动滑块设置，推荐数值范围为 15-18px
 
-![10](https://s.nmxc.ltd/sakurairo_wiki/help/sz15.png)数值`10` ![20](https://s.nmxc.ltd/sakurairo_wiki/help/sz16.png)数值`20`
+![10](/global/10px.png)数值`10` ![20](/global/20px.png)数值`20`
 
 > 反正别太大，除非你专门为老年人设计
 
@@ -399,7 +399,7 @@ title: 全局设置
 
 显示页面加载和负载信息
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz28.png)
+![](/global/query.png)
 
 ### 页尾又拍云联盟Logo
 
@@ -417,7 +417,7 @@ title: 全局设置
 
 本主题自带脚页一言（随机话语 API），可在您可以整点一言展示
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz27.png)
+![](/global/yiyan.png)
 
 #### 一言 API 地址
 
@@ -507,7 +507,7 @@ title: 全局设置
 
 同时，支持多种飘落特效。（原生、1/4、1/2、少量）
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz30.png)
+![](/global/sakura.png)
 
 ### 粒子特效
 
