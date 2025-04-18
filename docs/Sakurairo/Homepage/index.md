@@ -84,7 +84,7 @@ title: 主页设置
 
 设置封面签名栏文本
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz35.png)
+![](/homepage/signature.png)
 
 ### 封面签名栏文本字体
 
@@ -102,7 +102,7 @@ title: 主页设置
 
 本主题自带封面签名栏打字特效，可以整点花梨细姑的
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz36.png)
+![](/homepage/typedjs.gif)
 
 - 封面签名栏打字特效双引号：开启之后打字特效首尾两边将追加双引号
 
