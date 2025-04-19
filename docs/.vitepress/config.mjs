@@ -4,12 +4,12 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Fuukei 周边文档',
   head:[
-    ['link', { rel: 'icon', href: 'https://s.nmxc.ltd/sakurairo_vision/@2.7/series/login_logo.webp' }],
+    ['link', { rel: 'icon', href: 'https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp' }],
     ["script", { src: '/js/main.js'}],
     //['script', { src: 'https://cdn.kusu.moe/KFC-Crazy-Thursday/KFC-crazy-thursday-NO-INSERT.js'}]
     ],
     themeConfig: {
-      logo: 'https://s.nmxc.ltd/sakurairo_vision/@2.7/series/login_logo.webp',
+      logo: 'https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp',
       siteTitle: 'Theme-Sakurairo',
       
       sidebar: [
@@ -72,7 +72,7 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
         ],
       footer: {
-          copyright: "Fuukei Sponsored by <a href='https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral' target='_blank'> <img alt='upyun-logo' src='https://s.nmxc.ltd/sakurairo_vision/@2.6/options/upyun_logo.webp'  style='display:inline-block;vertical-align:middle;width:60px;height:30px;'/></a> | This Page Use MIT Licensed | Copyright © 2020-2023 Fuukei™",
+          copyright: "Fuukei Sponsored by <a href='https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral' target='_blank'> <img alt='upyun-logo' src='https://s.nmxc.ltd/sakurairo_vision/@2.6/options/upyun_logo.webp'  style='display:inline-block;vertical-align:middle;width:60px;height:30px;'/></a> | This Page Use MIT Licensed | Copyright © 2020-2025 Fuukei™",
           message: ""
         },
         search: {
