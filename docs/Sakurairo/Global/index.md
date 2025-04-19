@@ -81,7 +81,7 @@ title: 全局设置
 
 设置站点的加载控件单元占位 SVG（说白了就是加载 loading 图）
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz12.png)
+![](/global/loading.gif)
 
 ## 字体设置
 
@@ -562,7 +562,7 @@ title: 全局设置
 ### 下一页加载占位 SVG
 
 设置下一页加载占位 SVG URL
-![](https://s.nmxc.ltd/sakurairo_wiki/help/ball.svg)
+![](https://s.nmxc.ltd/sakurairo_vision/@3.0/basic/puff-load.svg)
 
 ### 丢失头像占位
 
