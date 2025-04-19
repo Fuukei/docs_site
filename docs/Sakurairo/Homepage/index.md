@@ -57,11 +57,11 @@ title: 主页设置
 
 - 分离
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz33.png)
+![](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/nav_menu_style_Island.webp)
 
 - 合并
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz34.png)
+![](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/infor_bar_style_v2.webp)
 
 
 ### 封面部件透明度
@@ -84,7 +84,7 @@ title: 主页设置
 
 设置封面签名栏文本
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz35.png)
+![](/homepage/signature.png)
 
 ### 封面签名栏文本字体
 
@@ -102,7 +102,7 @@ title: 主页设置
 
 本主题自带封面签名栏打字特效，可以整点花梨细姑的
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz36.png)
+![](/homepage/typedjs.gif)
 
 - 封面签名栏打字特效双引号：开启之后打字特效首尾两边将追加双引号
 
@@ -120,9 +120,6 @@ title: 主页设置
 
 - 外部随机图：填写随机图地址。
   - 如使用外部 API 您可以选择一下几种
-    - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
-    - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
-    - [小歪](https://api.ixiaowai.cn/)
     - [搏天 api](https://api.btstu.cn/doc/sjbz.php)
     - [墨天逸](https://api.mtyqx.cn/)
     - [黑子 API](https://api.kuroko.cn/rand/ecy-img/pc.php)
@@ -131,9 +128,6 @@ title: 主页设置
 
 - 外部 API 手机端随机图片地址：填写随机图地址。
   - 如使用外部 API 您可以选择一下几种
-    - [UAPI](https://api.cnsvs.com.cn/zh_cn/docs/acgimg)
-    - [eee.dog](https://www.eee.dog/tech/rand-pic-api.html)
-    - [小歪](https://api.ixiaowai.cn/)
     - [搏天 api](https://api.btstu.cn/doc/sjbz.php)
     - [墨天逸](https://api.mtyqx.cn/)
     - [黑子 API](https://api.kuroko.cn/rand/ecy-img/pe.php)
@@ -337,15 +331,15 @@ bilibili、网易云、github等：
 
 设置区域标题对齐方向
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz50.png)
+![](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/area_title_text_left.webp)
 
 - 左对齐
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz52.png)
+![](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/area_title_text_center.webp)
 
 - 居中对齐
 
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz51.png)
+![](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/area_title_text_right.webp)
 
 - 靠右对齐
 
