@@ -103,8 +103,10 @@ title: 短代码
 
 ## steam状态卡片
 
+uid获取方法参考steam模版说明  
+
 ```
-[steamuser]76561199545444502[/steamuser]  
+[steamuser]你的steamUID[/steamuser]  
 
 ```
 
