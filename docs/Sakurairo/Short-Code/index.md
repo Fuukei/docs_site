@@ -100,3 +100,13 @@ title: 短代码
 ```
 
 ![vbilibili](/short-code/bvcode.png)
+
+## steam状态卡片
+
+```
+[steamuser]76561199545444502[/steamuser]  
+
+```
+
+![steamuser](/short-code/offonline.png)  
+![steamuser](/short-code/online.png)
