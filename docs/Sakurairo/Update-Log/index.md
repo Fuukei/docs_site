@@ -3,16 +3,26 @@ title: 更新日志
 ---
 # 更新日志 <Badge type="tip" text="By Kanochan, AstroNomen, nicocat"/>  
 
-## preview  
+## 3.0.2  
+
+**发布日期**：[2025年4月24日](https://github.com/mirai-mamori/Sakurairo/releases/tag/3.0.2)  
+
+![img](https://s.nmxc.ltd/sakurairo_vision/@3.0/readme/banner-cn.webp)
 
 ### 问题修复  
 
 * 修复文章列表传递最新文章封面的问题
 * 修复导航岛未开启随机封面切换按钮时报错的问题（不影响浏览）
 * 修复默认代码区块样式没有深色模式适配的问题
+* 修复了ul、ol元素显示的问题
+* 修复移动端搜索框不跟随设置项设置的问题
+* 修复了分页元素错位的问题
+* 解决当主页选择不显示任何主题组件会报错的问题
+* 理论上修复了模版页same-origin限制的问题
 
 ### 优化项目  
 
+* 重构了归档页模版
 * github仓库卡片现在适配了深色模式
 
 ## 3.0.1  

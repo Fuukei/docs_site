@@ -62,13 +62,13 @@ title: 其他设置
 
 ⚠ 注意：上述颜色设置只对图中Sakurairo🌸界面配色方案生效
 
-## ChatGPT设置 <Badge type="tip" text="新设置！" />
+## ChatGPT设置
 
 ⚠ 注意：如果不了解本功能请勿开启，相关问题不予解答
 
 ### ChatGPT 访问地址
 
-> 填写ChatGPT访问地址，默认使用 http://sxy.gay/
+> 填写ChatGPT访问地址，默认使用 https://api.openai.com/v1/chat/completions
 
 ⚠ 注意：其他地址请自行确认连通性
 
@@ -76,13 +76,17 @@ title: 其他设置
 
 > 填写您的 ChatGPT API 密钥，您可以访问  [OpenAI 网站](https://platform.openai.com/account/api-keys) 获取您的 API 密钥（获取方式请自行百度）
 
+### ChatGPT Tokens 上限 
+
+将决定文章摘要、AI注释每分段最大发送的字数上限，请根据您自己的接口规格酌情调整。  
+
 ### ChatGPT 文章摘要
 
 > 开启之后 ChatGPT 会自动生成文章摘要
 
-![image](/others/ai_sum.png)
+![image](/others/ai_sum.png)  
 
-你的每次文章更新都会触发生成摘要请求。由于目前API限制，如果你的文章超过 4097 Token，系统将会只发送未超出部分以生成摘要
+你的每次文章更新都会触发生成摘要请求。由于目前API限制，如果你的文章超过了你设定的字数限制，系统将会只发送未超出部分以生成摘要  
 
 ### ChatGPT 文章摘要初始化提示
 
@@ -91,9 +95,9 @@ title: 其他设置
 ![image](/others/important.png)
 ⚠ 注意，画圈部分如果缺失则摘要显示为英文
 
-### ChatGPT 文章摘要要求提示
+### ChatGPT 文章注解初始化提示  
 
-> 填写询问文本，选项为空时使用预设值，请你在知道如何正确配置的情况下进行修改
+> 填写初始化提示，请你在知道如何正确配置的情况下进行修改，初始化提示将作为“系统”角色设定传递给 ChatGPT
 
 ## 低使用设置
 

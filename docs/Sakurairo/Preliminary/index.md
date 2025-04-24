@@ -34,9 +34,7 @@ title: 初步设置
 上传导航菜单 Logo 或填写 URL
 
 ![](/preliminary/logo1.png)
-![](/preliminary/logo2.png)
-
-> （开启之后和 导航菜单文字 Logo 冲突）
+![](/preliminary/logo2.png)  
 
 ## 站点 Icon
 
