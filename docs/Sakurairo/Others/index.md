@@ -153,9 +153,7 @@ title: 其他设置
 
 ### ⭐灯箱
 
-#### BaguetteBox 灯箱效果
-
-设置 BaguetteBox 灯箱效果是否开启
+#### BaguetteBox 灯箱效果  
 
 > BaguetteBox 灯箱使用方法`[![图片标题](../example.th.png)](../example.png)`
 

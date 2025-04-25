@@ -103,6 +103,7 @@ title: 短代码
 
 ## steam状态卡片
 
+要使用此功能，你需要先按照[Steam库模版使用说明](/Sakurairo/Steam/)配置好你的apiKey  
 uid获取方法参考steam模版说明  
 
 ```
