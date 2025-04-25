@@ -19,9 +19,9 @@ features:
   - icon: 🎉
     title: 翻新视觉
     details: 全新 Glaze Design 体系。无论明暗，感知琉璃质感。
-  - icon: ⚡️
-    title: 刷新速度
-    details: 新朋友又拍云，给主题重新带来极速体验。
+  - icon: ✨
+    title: 体验升级
+    details: 重构的导航栏、归档页、评论区等，更快更简洁。
   - icon: 🛠️
     title: 功能全家桶
     details: 新增 可视化主题编辑、文章注释、友链管理等。
