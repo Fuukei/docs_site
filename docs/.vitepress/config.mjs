@@ -65,14 +65,13 @@ export default defineConfig({
             { text: '友链管理', link: '/Sakurairo/Link-Manager/' },
             { text: '内建随机图', link: '/Sakurairo/Gallery/' }
         ]},
-          { text: '使用博客', link: '/demo/'},
-          { text: '又拍云', link: 'https://www.upyun.com/'}
+          { text: '使用博客', link: '/demo/'}
         ],
       socialLinks: [
           { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
         ],
       footer: {
-          copyright: "Fuukei Sponsored by <a href='https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral' target='_blank'> <img alt='upyun-logo' src='https://s.nmxc.ltd/sakurairo_vision/@2.6/options/upyun_logo.webp'  style='display:inline-block;vertical-align:middle;width:60px;height:30px;'/></a> | This Page Use MIT Licensed | Copyright © 2020-2025 Fuukei™",
+          copyright: "This Page Use MIT Licensed | Copyright © 2020-2025 Fuukei™",
           message: ""
         },
         search: {

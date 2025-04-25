@@ -25,11 +25,11 @@ title: 主页设置
 ![](/homepage/fulls_close.png)
 
 - 全屏显示开启状态
-![](/homepage/fulls_on.png)
+![](/homepage/fulls_on.png)  
 
-### 封面圆角
+### 封面弧形遮挡  
 
-设置封面圆角
+![](/homepage/curve.png)  
 
 ### 封面动画
 
@@ -282,9 +282,9 @@ bilibili、网易云、github等：
   - 领英
   - Twitter
   - Facebook
-  - 自定义社交网络图标及链接
   - 电子邮件用户名
   - 电子邮件域
+  - 自定义社交网络图标及链接
 
 ## 首页布局和区域标题设置
 
