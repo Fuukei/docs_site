@@ -102,7 +102,7 @@ Embed a Bilibili video by its BV number:
 
 ## Steam Status Card
 
-Requires Steam API setup as described in the [Steam Library Template Usage](/Sakurairo/Steam/).  
+Requires Steam API setup as described in the [Steam Library Template Usage](/en/Sakurairo/Steam/).  
 Use your Steam UID:
 
 ```markdown

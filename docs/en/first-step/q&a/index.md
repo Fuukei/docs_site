@@ -19,7 +19,7 @@ If you are using optimization plugins (such as static caching), try clearing the
 
 ::: tip
 First, check your network connection and cache. If those are fine, go to Theme Settings → "About Theme" → "Resource Control" → "Visual Resource Path" to update the URL!  
-[- > > > Click here to view the visual resource settings! < < < -](/Sakurairo/About-Theme/#%E8%A7%86%E8%A7%89%E8%B5%84%E6%BA%90%E8%B7%AF%E5%BE%84)
+[- > > > Click here to view the visual resource settings! < < < -](/en/Sakurairo/About-Theme/#%E8%A7%86%E8%A7%89%E8%B5%84%E6%BA%90%E8%B7%AF%E5%BE%84)
 :::
 
 ## Will I lose anything after updating the theme?
