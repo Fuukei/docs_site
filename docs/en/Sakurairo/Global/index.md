@@ -82,7 +82,7 @@ Enter the URL of a hosted font file (`.ttf`, `.woff`, `.woff2`, etc.).
 > Upload or convert your font to `.woff2`, host it somewhere accessible, then paste the URL here.  
 > In **Font Name**, enter the font’s internal name for use elsewhere.
 
-[Font not applying?](https://docs.fuukei.org/en/first-step/q&a/#%E6%88%91%E8%AE%BE%E7%BD%AE%E7%9A%84%E5%9B%BE%E7%89%87%E3%80%81%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93%E7%AD%89%E8%B5%84%E6%BA%90%E6%B2%A1%E6%9C%89%E7%94%9F%E6%95%88%E6%80%8E%E4%B9%88%E5%8A%9E)
+[Font not applying?](http://docs.fuukei.org/en/first-step/q&a/#my-custom-images-fonts-etc-are-not-working-what-should-i-do)
 
 #### Google Fonts API URL  
 Override the default Google Fonts CDN URL if desired.

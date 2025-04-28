@@ -302,7 +302,7 @@ Choose a subtle shadow color to add depth.
 
 > [!TIP]  
 > To set a unique image per post, edit its Featured Image in the post editor.  
-> [Tutorial: Setting Post Featured Image](https://docs.fuukei.org/en/first-step/q&a/#%E6%96%87%E7%AB%A0%E5%8D%A1%E7%89%87%E7%9A%84%E9%A2%84%E8%A7%88%E5%9B%BE%E7%89%87%E6%80%8E%E4%B9%88%E5%8D%95%E7%8B%AC%E8%AE%BE%E7%BD%AE-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E6%98%AF%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87)
+> [Tutorial: Setting Post Featured Image](https://docs.fuukei.org/en/first-step/q&a/#how-do-i-set-a-custom-preview-image-for-article-cards-instead-of-random-images)
 
 ### Card Corner Radius  
 Adjust the corner radius of post cards.
