@@ -65,7 +65,7 @@ To change how links are ordered, go to **Theme Settings → Page Settings → Te
 
 ## Steam Library Template
 
-See the dedicated guide: [Steam Library Template Usage](/Sakurairo/Steam/).
+See the dedicated guide: [Steam Library Template Usage](/en/Sakurairo/Steam/).
 
 ## Timeline (Archive) Template
 

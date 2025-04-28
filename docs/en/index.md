@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /Sakurairo/Preliminary/
+      link: /en/Sakurairo/Preliminary/
     - theme: alt
       text: View on Github
       link: https://github.com/mirai-mamori/Sakurairo
