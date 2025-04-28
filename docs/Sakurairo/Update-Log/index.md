@@ -3,6 +3,14 @@ title: 更新日志
 ---
 # 更新日志 <Badge type="tip" text="By Kanochan, AstroNomen, nicocat"/>  
 
+## preview  
+
+### 问题修复  
+
+* 修复了归档api传递隐私信息的安全问题
+* 修复了访客无法使用部分富文本标签评论的问题
+* 修复了评论区可能存在的数据库注入安全问题
+
 ## 3.0.2  
 
 **发布日期**：[2025年4月24日](https://github.com/mirai-mamori/Sakurairo/releases/tag/3.0.2)  
