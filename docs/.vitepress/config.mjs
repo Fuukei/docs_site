@@ -97,7 +97,7 @@ export default defineConfig({
             //['script', { src: 'https://cdn.kusu.moe/KFC-Crazy-Thursday/KFC-crazy-thursday-NO-INSERT.js'}]
           ],
           themeConfig: {
-            logo: 'https://s.nmxc.ltd/Sakurairo_vision/@3.0/series/login_logo.webp',
+            logo: 'https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp',
             siteTitle: 'Theme-Sakurairo',
         
             sidebar: [
