@@ -1,0 +1,1 @@
+const r="/preliminary/avatar.png",a="/preliminary/art_avatar.png",s="/preliminary/marshiro_text.png",i="/preliminary/logo1.png",p="/preliminary/logo2.png",n="/preliminary/des.png";export{r as _,a,s as b,i as c,p as d,n as e};
