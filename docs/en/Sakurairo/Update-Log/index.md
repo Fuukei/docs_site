@@ -224,7 +224,7 @@ title: Changelog
 
 ### New Features  
 
-- Added custom-emoticon packs to comments ([usage guide](/Sakurairo/Pages/#%E8%AF%84%E8%AE%BA%E7%9B%B8%E5%85%B3%E8%AE%BE%E7%BD%AE)).
+- Added custom-emoticon packs to comments ([usage guide](/en/Sakurairo/Pages/#custom-emoticon-pack)).
 
 ### Optimizations  
 

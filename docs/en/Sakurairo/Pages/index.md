@@ -126,7 +126,7 @@ Add friend links under **Links** in the dashboard.
 :::
 
 ### Steam Library Template  
-See [Steam Library Template Guide](/Sakurairo/Steam/).
+See [Steam Library Template Guide](/en/Sakurairo/Steam/).
 
 ## Comment Settings
 
