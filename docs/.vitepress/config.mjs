@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress';
 
 export default defineConfig({
   title: 'Fuukei 周边文档',
+  rewrites: {
+    'zh/:rest*': ':rest*'
+  },
   head:[
     ['link', { rel: 'icon', href: 'https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp' }],
     ["script", { src: '/js/main.js'}],
@@ -11,7 +14,6 @@ export default defineConfig({
     themeConfig: {
       logo: 'https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp',
       siteTitle: 'Theme-Sakurairo',
-      
       sidebar: [
         {text: '准备工作',
           items: [
@@ -71,11 +73,99 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
         ],
       footer: {
-          copyright: "This Page Use MIT Licensed | Copyright © 2020-2025 Fuukei™",
+          copyright: "This Page Use WTFPL Licensed | Copyright © 2020-2025 Fuukei™",
           message: ""
         },
         search: {
           provider: 'local'
+        }
+      },
+
+      locales: {
+        root: {
+          label: '简体中文',
+          lang: 'zh'
+        },
+        en: {
+          label: 'English',
+          lang: 'en', // 可选，将作为 `lang` 属性添加到 `html` 标签中
+          link: '/en',
+          title: 'Fuukei Documentation',
+          head: [
+            ['link', { rel: 'icon', href: 'https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp' }],
+            ["script", { src: '/js/main.js'}],
+            //['script', { src: 'https://cdn.kusu.moe/KFC-Crazy-Thursday/KFC-crazy-thursday-NO-INSERT.js'}]
+          ],
+          themeConfig: {
+            logo: 'https://s.nmxc.ltd/sakurairo_vision/@3.0/series/login_logo.webp',
+            siteTitle: 'Theme-Sakurairo',
+        
+            sidebar: [
+              { text: 'Getting Started',
+                items: [
+                  { text: 'Install WordPress', link: '/en/first-step/wp-install/' },
+                  { text: 'Install Theme', link: '/en/first-step/theme-install/' },
+                  { text: 'FAQ', link: '/en/first-step/q&a/' }
+              ]},
+              { text: 'Theme Settings',
+                items: [
+                  { text: 'Preliminary Setup', link: '/en/Sakurairo/Preliminary/' },
+                  { text: 'Global Settings', link: '/en/Sakurairo/Global/' },
+                  { text: 'Homepage Settings', link: '/en/Sakurairo/Homepage/' },
+                  { text: 'Page Settings', link: '/en/Sakurairo/Pages/' },
+                  { text: 'Other Settings', link: '/en/Sakurairo/Others/' },
+                  { text: 'Backup and Recovery', link: '/en/Sakurairo/Bac-Rec/' },
+                  { text: 'About the Theme', link: '/en/Sakurairo/About-Theme/' },
+                  { text: 'Templates', link: '/en/Sakurairo/Templates/' },
+              ]},
+              { text: 'Additional Features',
+                items: [
+                  { text: 'Shortcodes', link: '/en/Sakurairo/Short-Code/' },
+                  { text: 'Article Annotations', link: '/en/Sakurairo/AI-Annotations/' },
+                  { text: 'Link Management', link: '/en/Sakurairo/Link-Manager/' },
+                  { text: 'Built-in Random Images', link: '/en/Sakurairo/Gallery/' }
+              ]},
+              { text: 'Changelog', link: '/en/Sakurairo/Update-Log/' }
+            ],
+            nav: [
+              { text: 'Home', link: '/' },
+              { text: 'Getting Started', 
+                items: [
+                  { text: 'Install WordPress', link: '/en/first-step/wp-install/' },
+                  { text: 'Install Theme', link: '/en/first-step/theme-install/' },
+                  { text: 'FAQ', link: '/en/first-step/q&a/' }
+              ]},
+              { text: 'Theme Settings', 
+                items: [
+                  { text: 'Preliminary Setup', link: '/en/Sakurairo/Preliminary/' },
+                  { text: 'Global Settings', link: '/en/Sakurairo/Global/' },
+                  { text: 'Homepage Settings', link: '/en/Sakurairo/Homepage/' },
+                  { text: 'Page Settings', link: '/en/Sakurairo/Pages/' },
+                  { text: 'Other Settings', link: '/en/Sakurairo/Others/' },
+                  { text: 'Backup and Recovery', link: '/en/Sakurairo/Bac-Rec/' },
+                  { text: 'About the Theme', link: '/en/Sakurairo/About-Theme/' },
+                  { text: 'Templates', link: '/en/Sakurairo/Templates/' },
+              ]},
+              { text: 'Additional Features',
+                items: [
+                  { text: 'Shortcodes', link: '/en/Sakurairo/Short-Code/' },
+                  { text: 'Article Annotations', link: '/en/Sakurairo/AI-Annotations/' },
+                  { text: 'Link Management', link: '/en/Sakurairo/Link-Manager/' },
+                  { text: 'Built-in Random Images', link: '/en/Sakurairo/Gallery/' }
+              ]},
+              { text: 'Use Blog', link: '/en/demo/' }
+            ],
+            socialLinks: [
+              { icon: 'github', link: 'https://github.com/mirai-mamori/en/Sakurairo' },
+            ],
+            footer: {
+              copyright: "This Page Use WTFPL Licensed | Copyright © 2020-2025 Fuukei™",
+              message: ""
+            },
+            search: {
+              provider: 'local'
+            }
+          }
         }
       }
 });
