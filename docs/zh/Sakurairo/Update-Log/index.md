@@ -3,15 +3,6 @@ title: 更新日志
 ---
 # 更新日志 <Badge type="tip" text="By Kanochan, AstroNomen, nicocat"/>  
 
-<<<<<<< Updated upstream:docs/Sakurairo/Update-Log/index.md
-## preview  
-
-### 问题修复  
-
-* 修复了归档api传递隐私信息的安全问题
-* 修复了访客无法使用部分富文本标签评论的问题
-* 修复了评论区可能存在的数据库注入安全问题
-=======
 ## 3.0.4  
 
 ### 新增功能  
@@ -35,8 +26,6 @@ title: 更新日志
 * 重构bilibili收藏页模版  
 * 改进一处设置项依赖，当不开启封面前台背景一体化时，自动关闭文章封面背景选项  
 * 预定义封面高度，优化首屏加载速度  
-
->>>>>>> Stashed changes:docs/zh/Sakurairo/Update-Log/index.md
 
 ## 3.0.2  
 
