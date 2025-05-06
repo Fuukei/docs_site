@@ -4,6 +4,30 @@ title: Changelog
 
 # Changelog <Badge type="tip" text="By Kanochan, AstroNomen, nicocat"/>
 
+## 3.0.4  
+
+### New Features  
+
+* Custom priority for friend link items is now supported.
+
+### Bug Fixes  
+
+* Fixed a security issue where the archive page API leaked original content and other private information.  
+* Fixed a caching error that caused excessive database logging.  
+* Fixed an issue where the archive page displayed titles of password-protected posts.  
+* Fixed incorrect statistics for "Shuoshuo" (status updates) post types.  
+* Fixed an issue where visitors could not use Markdown syntax.  
+* Added `no-referrer` to certain Bilibili features to prevent 403 errors on resources.  
+* Fixed an issue where bullet points were incorrectly displayed in post content.  
+* Fixed an issue where article cover images would disappear when using widget background.
+
+### Enhancements  
+
+* Refactored the homepage display section.  
+* Refactored the Bilibili favorites page template.  
+* Improved a setting dependency: when the background integration with post covers is disabled, the article cover background option is automatically turned off.  
+* Predefined cover image height to optimize first screen loading speed.  
+
 ## 3.0.2  
 
 **Release Date**: [April 24, 2025](https://github.com/mirai-mamori/Sakurairo/releases/tag/3.0.2)  
