@@ -12,7 +12,7 @@ title: Changelog
 
 ### Bug Fixes  
 
-* Fixed a security issue where the archive page API leaked original content and other private information.  
+* Fixed a security issue which will leak some private infos.  
 * Fixed a caching error that caused excessive database logging.  
 * Fixed an issue where the archive page displayed titles of password-protected posts.  
 * Fixed incorrect statistics for "Shuoshuo" (status updates) post types.  
@@ -24,8 +24,8 @@ title: Changelog
 ### Enhancements  
 
 * Refactored the homepage display section.  
-* Refactored the Bilibili favorites page template.  
-* Improved a setting dependency: when the background integration with post covers is disabled, the article cover background option is automatically turned off.  
+* Refactored the Bilibili favlist page template.  
+* Improved a setting dependency: when the `Cover and Frontend Background Integration` is disabled, the `Post Cover As Background` option will automatically turned off.  
 * Predefined cover image height to optimize first screen loading speed.  
 
 ## 3.0.2  
