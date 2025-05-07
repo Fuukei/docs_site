@@ -85,13 +85,6 @@ server {
 如果你的网站启用了https（htst、ssl证书），请同样引用https的资源，http的资源会被视为不安全进而被拦截。
 :::
 
-## 我的主页为什么有奇怪的声音？(2.7.2及以下版本)
-
-::: tip  
-查看浏览器网页标签是否有🔊图标可以判断是否是您的网页发出的声音，  
-如果是，可以尝试关闭“全局设置——额外设置——音符触动特效”后刷新检查  
-:::
-
 ## 怎么配置cdn？图片cdn怎么使用？
 
 ::: tip  
@@ -164,4 +157,18 @@ fuukei.org的网站目录/文件夹在`/opt/openresty/www/sites/fuukei.org/index
 ```  
 将该样式代码粘贴至`后台——其他设置——低使用设置——自定义CSS样式`中即可尝试修复。  
 该方案不保证一定生效，仅对类似已经证实的情况有效，请根据你自己的具体情况进行诊断。
+:::
+
+## 代码高亮识别不正确怎么办？  
+
+::: tip  
+建议自行参考官方文档：  
+https://highlightjs.org/#usage  
+https://prismjs.com/#basic-usage  
+基本使用方法：  
+```html
+<pre><code class="language-css">p { color: red }</code></pre>  
+<pre><code class="language-html">...</code></pre>  
+```  
+注意其中的`<pre>`（块级标记，只有code是行内），以及class（语言标记，说明块内的语言类型）  
 :::

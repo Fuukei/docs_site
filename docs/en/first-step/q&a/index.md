@@ -83,13 +83,6 @@ server {
 If your site uses HTTPS, make sure all linked resources also use HTTPS—mixed content will be blocked.
 :::
 
-## Why is there strange audio on my homepage? (Version 2.7.2 and below)
-
-::: tip
-Check if your browser tab has a 🔊 icon—if yes, it's coming from your site.  
-Try turning off "Global Settings → Additional Settings → Music Note Effects" and refresh the page.
-:::
-
 ## How do I configure CDN? How to use image CDN?
 
 ::: tip
@@ -169,4 +162,21 @@ Example:
 Paste that CSS in: Admin Panel → Other Settings → Low Usage Settings → Custom CSS
 
 Note: This may not fix all issues—it only helps in known cases. Diagnose your case accordingly.
+:::
+
+## What to Do If Code Highlighting Is Incorrect?
+
+::: tip  
+It is recommended to refer to the official documentation:  
+https://highlightjs.org/#usage  
+https://prismjs.com/#basic-usage  
+
+Basic usage example:  
+```html
+<pre><code class="language-css">p { color: red }</code></pre>  
+<pre><code class="language-html">...</code></pre>  
+```  
+
+Note the use of `<pre>` (a block-level element; `<code>` alone is inline),  
+and the `class` attribute (language indicator, specifying the language of the block).  
 :::

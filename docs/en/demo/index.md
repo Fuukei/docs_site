@@ -183,6 +183,31 @@ If you're already using this theme, feel free to visit the [Discussion Board](ht
 <div class="linkdes">不许偷看哦~</div>
 </a>
 </li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://nailin.wisky.top/" target="_blank" one-link-mark="yes">
+<img src="https://nailin.wisky.top/wp-content/uploads/2025/03/1741017753-NV_@BUBHUWJ1J4WXZ_ZA.jpg"><br>
+<span class="sitename">菊の学习小屋</span>
+<div class="linkdes">なんで春日影やったの！</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://nicocat.cc/" target="_blank" one-link-mark="yes">
+<img src="https://avatars.githubusercontent.com/u/114812330"><br>
+<span class="sitename">猫猫王</span>
+<div class="linkdes">喵喵喵?</div>
+</a>
+</li>
+
+<li class="link-item">
+<a class="link-item-inner effect-apollo" href="https://blog.hyosakura.com/" target="_blank" one-link-mark="yes">
+<img src="https://blog.hyosakura.com/avatar"><br>
+<span class="sitename">LovesAsunaの小窝</span>
+<div class="linkdes">迷失的人迷失了，相逢的人会再相逢</div>
+</a>
+</li>
+
 </ul>
 </div>
 </div>
