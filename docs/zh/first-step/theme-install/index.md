@@ -17,6 +17,10 @@ title: 安装主题
    MySQL：8.0.X 版本
 :::
 
+> [!CAUTION]
+> 主题相关功能依赖GD、mbstring、curl、openssl，
+> 未安装以上php拓展将导致主题无法运作或相关功能不可用。  
+
 ## 上传并启用主题
 
 ::: warning   
