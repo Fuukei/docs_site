@@ -18,6 +18,10 @@ title: Installing the Theme
    MySQL: Version 8.0.X
 :::
 
+> [!CAUTION]
+> Some theme-related functions rely on GD, mbstring, curl, openssl.
+> Theme will not work or related functions will unavailable without PHP extensions listed above.
+
 ## Upload and Activate the Theme
 
 ::: warning  
