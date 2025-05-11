@@ -70,7 +70,19 @@ title: 其他设置
 
 > 填写ChatGPT访问地址，默认使用 https://api.openai.com/v1/chat/completions
 
-⚠ 注意：其他地址请自行确认连通性
+⚠ 注意：其他地址请自行确认连通性  
+
+::: tip
+示例（来自已知的issues解决方案）：  
+deepseek: `https://api.deepseek.com/chat/completions`  
+tencent cloud: `https://api.lkeap.cloud.tencent.com/v1`  
+google gemini: `https://generativelanguage.googleapis.com/v1beta/openai/chat/completions/`  
+:::
+
+> [!CAUTION]
+> 使用相关功能前你需要确保服务器的网络环境可以访问到相关服务，且php安装了curl和openssl模块  
+> 否则相关功能将无法正常运作  
+> 使用的接口端点应当兼容openai的请求格式  
 
 ### ChatGPT API密钥
 

@@ -56,7 +56,21 @@ Set the text color used in the dashboard.
 
 ### API Endpoint  
 > Enter the ChatGPT API URL. Default: `https://api.openai.com/v1/chat/completions`  
-⚠️ Ensure any custom endpoint is reachable from your server.
+⚠️ Ensure any custom endpoint is reachable from your server.  
+
+::: tip
+Examples (from known issues solutions):  
+deepseek: `https://api.deepseek.com/chat/completions`  
+tencent cloud: `https://api.lkeap.cloud.tencent.com/v1`  
+google gemini: `https://generativelanguage.googleapis.com/v1beta/openai/chat/completions/`  
+:::
+
+> [!CAUTION]
+> Before using related features, you need to ensure that:
+> Your server's network environment can access the relevant services
+> PHP has the curl and openssl modules installed  
+> Otherwise, the related features will not function properly  
+> The API endpoints used should be compatible with OpenAI's request format  
 
 ### API Key  
 > Enter your OpenAI API key. Obtain it from your [OpenAI account](https://platform.openai.com/account/api-keys).
