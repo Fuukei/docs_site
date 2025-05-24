@@ -54,7 +54,7 @@ The directory structure of this link must match the structure provided by Fuukei
 - Xiaozhi (Genshin Special Edition): [https://api.kuroko.cn/Sakurairo_Vision_Genshin/](https://api.kuroko.cn/Sakurairo_Vision_Genshin/)
 - CircleCrop: [https://vision-public.aiccrop.com/@2.7/](https://aiccrop.com/2023/sakurairo-vision-public/)
 
-If you use the **Genshin Special Edition**, go to `Homepage Settings → Cover Social Section Settings` and change the `Social Icon Style` to **Coral Vermilion**.
+If you use the **Genshin Special Edition**, go to `Homepage Options → Cover Social Section Options` and change the `Social Icon Style` to **Coral Vermilion**.
 
 For theme versions **2.7 and above**, set the `Social Icon Style` to **Flat Colorful**.
 :::

@@ -18,7 +18,7 @@ If you are using optimization plugins (such as static caching), try clearing the
 ## Some images in the theme aren't loading?
 
 ::: tip
-First, check your network connection and cache. If those are fine, go to Theme Settings → "About Theme" → "Resource Control" → "Visual Resource Path" to update the URL!  
+First, check your network connection and cache. If those are fine, go to Theme Options → "About Theme" → "Resource Control" → "Visual Resource Path" to update the URL!  
 [- > > > Click here to view the visual resource settings! < < < -](/en/Sakurairo/About-Theme/#visual-resource-path)
 :::
 
@@ -31,7 +31,7 @@ Any settings made through the theme panel or WordPress's built-in custom CSS wil
 ## My server is in mainland China and cannot detect updates. What should I do?
 
 ::: tip
-Before using the update feature, manually go to Theme Settings → About Theme and switch the update source to something other than GitHub.
+Before using the update feature, manually go to Theme Options → About Theme and switch the update source to something other than GitHub.
 :::
 
 ## My browser can't display or interact with elements correctly on a site using this theme—is it a theme issue?
@@ -86,7 +86,7 @@ If your site uses HTTPS, make sure all linked resources also use HTTPS—mixed c
 ## How do I configure CDN? How to use image CDN?
 
 ::: tip
-Go to "Other Settings → Low Usage Settings → Image CDN".  
+Go to "Other Options → Low Usage Options → Image CDN".  
 This setting rewrites media URLs—it's not just for images.
 
 Example:  
@@ -159,7 +159,7 @@ Example:
 }
 ```
 
-Paste that CSS in: Admin Panel → Other Settings → Low Usage Settings → Custom CSS
+Paste that CSS in: Admin Panel → Other Options → Low Usage Options → Custom CSS
 
 Note: This may not fix all issues—it only helps in known cases. Diagnose your case accordingly.
 :::

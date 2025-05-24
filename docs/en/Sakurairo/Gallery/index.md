@@ -4,12 +4,12 @@ title: Built-in Random Image API Usage Guide
 
 # Built-in Random Image API <Badge type="tip" text="v3.0" />
 
-The theme comes with a built-in random image API, seamlessly integrated with the theme settings and supporting WebP image optimization for reduced file size.
+The theme comes with a built-in random image API, seamlessly integrated with the theme options and supporting WebP image optimization for reduced file size.
 
 ## Overview
 
 To use for the first time, go to  
-`iro Theme Settings > Homepage Settings > Cover Settings > Built-in API Controller`  
+`iro Theme Options > Homepage Options > Cover Options > Built-in API Controller`  
 and click **Initialize**.
 
 After initialization, a folder named `iro_gallery` will be created under `wp-contents/uploads` as the working directory.  
@@ -42,7 +42,7 @@ Then, switch the homepage cover image setting to use the **Built-in API** and yo
 > Remember to **rebuild the index** after making changes!
 
 > [!TIP]
-> The built-in API is integrated with the theme's CDN settings.  
+> The built-in API is integrated with the theme's CDN Options.  
 > Refer to the **Image CDN** configuration to have the images loaded via your CDN.
 
 ### WebP Optimization

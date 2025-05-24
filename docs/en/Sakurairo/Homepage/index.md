@@ -1,14 +1,14 @@
 ---
-title: Homepage Settings
+title: Homepage Options
 ---
 
-# Homepage Settings <Badge type="tip" text="v3.0" />
+# Homepage Options <Badge type="tip" text="v3.0" />
 
-## Cover Settings
+## Cover Options
 
 ### Cover Toggle  
 Enable or disable the cover section.  
-> If disabled, all settings in the Cover section will have no effect. (Default: enabled)
+> If disabled, all options in the Cover section will have no effect. (Default: enabled)
 
 - **Disabled**: only the showcase/posts area is shown.  
   ![](/homepage/cover_close.png)
@@ -90,7 +90,7 @@ Enable the built-in typing animation for your signature.
 ### Cover “Shuoshuo” Section  
 When enabled, your latest “shuoshuo” (short status) and your signature will alternate on the cover.
 
-## Random Image Settings
+## Random Image Options
 
 By default the theme uses external random image APIs. To use your local library, switch to **Built-in API**. See [Built-in Random Image API](/en/Sakurairo/Gallery/) for details.
 
@@ -144,7 +144,7 @@ Show a down-arrow button on the cover to scroll to content.
 - **Arrow Color**: pick a light color for light mode.  
 - **Dark Mode Arrow Color**: pick a darker color for dark mode.
 
-## Cover Video Settings
+## Cover Video Options
 
 Toggle a video background on the cover.
 
@@ -215,51 +215,16 @@ Choose left, center, or right alignment.
 ![](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/area_title_text_center.webp) Center  
 ![](https://s.nmxc.ltd/sakurairo_vision/@3.0/options/area_title_text_right.webp) Right
 
-## Announcement Bar
+## Display Area Options
 
-![](/homepage/not_title.png)
+### Capsule Components  
 
-- **Style**:  
-  - **Image Background**: enter an image URL.  
-  - **Solid Color**: choose a border color (light shade matching your theme).
+Add capsule components in the selection box and drag to arrange their display order. They will appear in the display area as arranged.  
 
-### Border Color  
-Pick a color for the announcement bar border.
+### Display Badge Capsules  
 
-### Text  
-Enter your announcement message (HTML allowed).
-
-### Text Alignment  
-Left, center, or right.  
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz46.png) Left  
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz47.png) Right  
-![](https://s.nmxc.ltd/sakurairo_wiki/help/sz48.png) Center
-
-### Text Color  
-Choose a text color that stands out against your background.
-
-## Showcase Section Settings
-
-### Toggle Showcase  
-Enable or disable the showcase area.
-
-### Accent Color  
-Pick a complementary color for the showcase.
-
-### Layout Style  
-- **Alternate Left/Right** (default)  
-  ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz53.png)  
-- **Stacked Bottom-to-Top**  
-  ![](https://s.nmxc.ltd/sakurairo_wiki/help/sz54.png)
-
-### Compatibility Mode  
-Toggle to fix alignment issues (if needed).
-
-### Background Color  
-Choose a light background color.
-
-### Corner Radius  
-Set the showcase card radius. (Recommended: **15**)
+When enabled, bronze/silver/gold badges will be displayed for milestones.   
+When site operation days, post views, friend links count, or word count reach targets, relevant capsules will be replaced with medal displays.
 
 ### Items  
 Define each showcase item with:  
@@ -270,7 +235,7 @@ Define each showcase item with:
 
 Add or remove items using the `+` or `x` buttons.
 
-## Posts Section Settings
+## Posts Section Options
 
 ### Info Elements  
 ![](/homepage/article_info.png)  
