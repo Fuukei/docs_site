@@ -187,7 +187,7 @@ Show the random-cover-image toggle (dice icon).
 Enter URLs for your profiles. To find them, copy your browser’s address bar while viewing your public page. Supported networks:  
 WeChat, QQ, Bilibili, NetEase Cloud Music, Weibo, GitHub, Telegram, Steam, YouTube, Instagram, TikTok, Xiaohongshu, Discord, Zhihu, LinkedIn, Twitter, Facebook, Email (user & domain), or a custom icon+URL.
 
-## Homepage Layout & Section Titles
+## Homepage Layout
 
 ### Layout Order  
 Drag to reorder which sections appear on the homepage. Only sections you add here will display (default: Posts only).
