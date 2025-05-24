@@ -1,10 +1,10 @@
 ---
-title: Global Settings
+title: Global Options
 ---
 
-# Global Settings <Badge type="tip" text="v3.0" />
+# Global Options <Badge type="tip" text="v3.0" />
 
-## Appearance Settings
+## Appearance Options
 
 ### Theme Color  
 Set the site’s primary theme color.
@@ -61,9 +61,9 @@ When enabled, applies a global black-and-white filter—useful for commemorative
 Set a custom SVG to display as the site’s loading indicator.  
 ![](/global/loading.gif)
 
-## Font Settings
+## Font Options
 
-### Global Text Settings
+### Global Text Options
 
 #### Body Text Font Weight  
 Adjust the font weight for non-emphasized text.  
@@ -92,12 +92,17 @@ Enter one or more Google Font names (prefixed with `|`, spaces replaced by `+`).
 > Must match fonts available at [Google Fonts](http://www.googlefonts.cn/).  
 > Example: `|ZCOOL+XiaoWei|Ma+Shan+Zheng`
 
-## Navigation Menu Settings
+## Navigation Menu Options
 
 > [!NOTE]  
 > Edit your menu structure in **WP Dashboard → Appearance → Menus**.  
 > Drag and drop to reorder; sub-items appear under their parent.  
 > The theme supports up to two menu levels.
+
+> [!NOTE]  
+> You need to first create a new menu at `Appearance → Menus → Edit Menus`,  
+> then assign your newly created menu at `Appearance → Menus → Manage Locations` (appears after creation),  
+> otherwise the navigation bar may not display properly!  
 
 ### Menu Style
 
@@ -121,7 +126,7 @@ Choose “Centered” or “Spaced” for the Dynamic Island style (default: Cen
 ### Menu Border Radius  
 Set the corner radius around each menu item (default: 50).
 
-### Sakura-Style Navbar Settings
+### Sakura-Style Navbar Options
 
 #### Navbar Width Style  
 Choose “Spaced” or “Standard” (see examples above).
@@ -189,7 +194,7 @@ Adjust background opacity.
 
 ## Frontend Fonts
 
-Choose which fonts correspond to the two style-switch buttons in the widget panel (import fonts in Font Settings).
+Choose which fonts correspond to the two style-switch buttons in the widget panel (import fonts in Font Options).
 
 #### Default Font / Style A  
 Set the default font or the “A” style font.
@@ -197,10 +202,10 @@ Set the default font or the “A” style font.
 #### Style B Font  
 Set the “B” style font.
 
-## Footer Settings
+## Footer Options
 
 ### Footer Music Player  
-Choose a music service under **Global Settings → Footer Settings → Footer Player**.  
+Choose a music service under **Global Options → Footer Options → Footer Player**.  
 Supports:  
 - NetEase Cloud Music  
 - KuGou Music  
@@ -277,7 +282,7 @@ Display page load time and server load info.
 Show the UpYun Alliance logo at the footer.
 
 ### Additional Footer Code  
-Insert custom HTML/JS (e.g. ICP record, analytics). Note that PJAX may require reloading these scripts per page—see PJAX settings.
+Insert custom HTML/JS (e.g. ICP record, analytics). Note that PJAX may require reloading these scripts per page—see PJAX Options.
 
 ### Yiyan (Quote)
 
@@ -288,7 +293,7 @@ Enable a random quote at the bottom of the page.
 #### Yiyan API URL  
 Specify the endpoint for your random quote service.
 
-## Site Search Settings
+## Site Search Options
 
 #### Navbar Search Toggle  
 Show a search icon in the navbar (mobile shows an inline search bar).
@@ -329,7 +334,7 @@ Enable live search results in the overlay, with hourly cache refresh (default: o
 ### Show Comments in Real-Time Search  
 Include comments in live search (default: off). Not recommended on sites with very high comment volume.
 
-## Extra Settings
+## Extra Options
 
 ### Effects & Animations
 

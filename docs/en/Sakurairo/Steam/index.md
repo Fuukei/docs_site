@@ -9,7 +9,7 @@ title: Steam Library Template Usage
 1. Create a new page and under **Page Attributes → Template**, select **Steam Library Template**.  
    ![](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/iro_docs/e20f33ca9934d3078b516126bf837116.png)
 
-2. In **Dashboard → iRO Theme Settings → Page Settings → Template Page Settings → Steam Library Template**, enter your Steam 64-bit ID (the numeric part of your profile URL, e.g. `76561199029689067`).
+2. In **Dashboard → iRO Theme Options → Page Options → Template Page Options → Steam Library Template**, enter your Steam 64-bit ID (the numeric part of your profile URL, e.g. `76561199029689067`).
 
 3. Obtain your Steam Web API key:  
    - Visit https://steamcommunity.com/dev/apikey/ and log in.  

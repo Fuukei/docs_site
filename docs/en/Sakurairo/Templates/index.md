@@ -23,18 +23,18 @@ This theme offers several page templates. To use one, create a new page in **Das
 
 ### Sorting Friend Links
 
-To change how links are ordered, go to **Theme Settings → Page Settings → Template Page Settings** and choose your sort mode.
+To change how links are ordered, go to **Theme Options → Page Options → Template Page Options** and choose your sort mode.
 
 ## Anime-Tracking Template
 
 1. Create a new page and select **Anime-Tracking Template** under **Page Attributes → Template**.  
-2. In **Dashboard → iRO Theme Settings → Page Settings → Template Page Settings → Anime-Tracking Source**, pick a source (Bilibili, MyAnimeList, or Bangumi).  
+2. In **Dashboard → iRO Theme Options → Page Options → Template Page Options → Anime-Tracking Source**, pick a source (Bilibili, MyAnimeList, or Bangumi).  
 3. Configure the chosen source (see below). The page will then display your anime watchlist:  
    ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-animelist.png)
 
 ### Bilibili Configuration
 
-1. Enter your **Bilibili UID** in the settings.  
+1. Enter your **Bilibili UID** in the option.  
 2. *(Optional)* To show progress, paste your Bilibili **cookies**:  
    - Go to Bilibili’s homepage and open DevTools (F12).  
    - In **Network**, filter by your UID and copy the **cookie** header from one request.  
@@ -51,7 +51,7 @@ To change how links are ordered, go to **Theme Settings → Page Settings → Te
 ## Bilibili “Watching” Template
 
 1. Create a new page and choose **Bilibili “Watching” Template** under **Page Attributes → Template**.  
-2. In **iRO Theme Settings → Page Settings → Template Page Settings → Bilibili UID**, enter your UID.  
+2. In **iRO Theme Options → Page Options → Template Page Options → Bilibili UID**, enter your UID.  
 3. (Optional) For episode progress, paste your Bilibili **cookies** using the same DevTools method as above.  
 4. The page will show your current watching list:  
    ![](https://s.nmxc.ltd/fuukei_docs/sakurairo/setting/tp-movielist.png)
@@ -59,7 +59,7 @@ To change how links are ordered, go to **Theme Settings → Page Settings → Te
 ## Bilibili Favorites Template
 
 1. Create a page and choose **Bilibili Favorites Template** under **Page Attributes → Template**.  
-2. In **iRO Theme Settings → Page Settings → Template Page Settings → Bilibili UID**, enter your UID (cookies optional).  
+2. In **iRO Theme Options → Page Options → Template Page Options → Bilibili UID**, enter your UID (cookies optional).  
 3. The page will display your favorite videos:  
    ![](/templates/fav_demo.png)
 

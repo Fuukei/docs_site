@@ -1,8 +1,8 @@
 ---
-title: Other Settings
+title: Other Options
 ---
 
-# Other Settings <Badge type="tip" text="v3.0" />
+# Other Options <Badge type="tip" text="v3.0" />
 
 ## Login Screen & Dashboard
 
@@ -48,9 +48,9 @@ Set the default button color in the dashboard.
 #### Text Color  
 Set the text color used in the dashboard.
 
-⚠️ **Note:** These color settings only apply when the “Sakurairo🌸” admin scheme is active.
+⚠️ **Note:** These color options only apply when the “Sakurairo🌸” admin scheme is active.
 
-## ChatGPT Settings
+## ChatGPT Options
 
 ⚠️ **Warning:** Do not enable this unless you understand how it works. No support is provided for misconfiguration.
 
@@ -91,7 +91,7 @@ Every update triggers a summary request. If your post exceeds the token limit, o
 ### Annotation System Prompt  
 > Enter the “system” prompt for article annotations. Edit only if you know what you’re doing.
 
-## Low-Usage Settings
+## Low-Usage Options
 
 ### Statistics Source  
 > Choose between the built-in counter or the WP-Statistics plugin.  
@@ -152,7 +152,7 @@ Choose your highlighter:
 - **Custom** (advanced setups)
 
 ::: warning
-Do not change these settings unless instructed by an expert!
+Do not change these options unless instructed by an expert!
 :::
 
 ### Image CDN  
