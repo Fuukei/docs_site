@@ -1,10 +1,10 @@
 ---
-title: Page Settings
+title: Page Options
 ---
 
-# Page Settings <Badge type="tip" text="v3.0" />
+# Page Options <Badge type="tip" text="v3.0" />
 
-## General Settings
+## General Options
 
 
 ### Page Layout Style  
@@ -34,7 +34,7 @@ Enable LazyLoad for images on pages.
 
 - Placeholder SVG for image LazyLoad: enter the SVG URL.
 
-## Post Page Settings
+## Post Page Options
 
 ### Post Title Font Size  
 Drag the slider to adjust title size (recommended: 28–36 px).
@@ -49,14 +49,14 @@ Select which metadata to show under the post title. Drag to reorder.
 Enabled by default: displays a table of contents on wide viewports.
 
 ### Inline Code Background Color  
-Set the background color for inline code in light/dark mode. (Code block backgrounds come from your syntax highlighter settings.)
+Set the background color for inline code in light/dark mode. (Code block backgrounds come from your syntax highlighter options.)
 
 ## Post Extension Area
 
 ### Post Utility Bar  
 Disable to hide the bar of icons over images.  
 ![](/pages/docs_aera_discribtion.png)  
-Icons left-to-right: CC license, author avatar, name, bio, last update, tags. Each has its own toggle in Post Page Settings.
+Icons left-to-right: CC license, author avatar, name, bio, last update, tags. Each has its own toggle in Post Page Options.
 
 ### “Reward” Feature  
 - **Icon Link**: URL users go to when clicking the reward icon.  
@@ -68,7 +68,7 @@ Toggle display of avatar, name, signature, last update, etc.
 ### Prev/Next Post Navigation  
 When enabled, adds next/previous post links below the utility bar.
 
-## Template Page Settings
+## Template Page Options
 
 ### Common  
 #### Template Title Font Size  
@@ -85,7 +85,7 @@ Supported: [Bilibili](https://bilibili.com/), [MyAnimeList](https://myanimelist.
 ### Bilibili  
 - **UID**: your Bilibili user ID.  
 - **Cookies**: copy from DevTools “Network” request headers. [Guide](https://blog.ukenn.top/sakura5/#toc-head-3)  
-Enter the cookie string under `Page Settings → Post Page Settings → Bilibili Template Cookies`.
+Enter the cookie string under `Page Options → Post Page Options → Bilibili Template Cookies`.
 
 ::: warning
 Leaving out cookies for Bilibili may cause errors.
@@ -128,10 +128,10 @@ Add friend links under **Links** in the dashboard.
 ### Steam Library Template  
 See [Steam Library Template Guide](/en/Sakurairo/Steam/).
 
-## Comment Settings
+## Comment Options
 
 ### Pagination & Nesting  
-Configure comment pagination and nesting under **Dashboard → Settings → Discussion**.
+Configure comment pagination and nesting under **Dashboard → Options → Discussion**.
 
 ### Comment Area Toggle  
 Choose default state: expanded or collapsed.
