@@ -45,11 +45,23 @@ If your browser isn’t listed here, please report the issue on GitHub for furth
 ## Why do some pages return 404 errors?
 
 ::: tip
+
 1. Check if the redirected URL looks like `.../xxx.php/xxx/...` with plain text (not styled 404 page).  
 If so, your server may not be correctly configured for URL rewriting (pretty permalinks). Look for a guide matching your server (Apache, Nginx, etc.).  
 After configuring, we recommend backing up important data and reinstalling WordPress to remove faulty links.
 
 2. If that’s not the case, make sure the target page/post/category exists and has been published.
+:::
+
+## How to Edit the Navigation Menu at the Top of the Page?
+
+::: tip  
+Navigate to **Dashboard > Appearance > Menus**. Create a new menu and edit its content. After saving your menu:  
+
+1. Locate the **Manage Locations** tab (typically displayed in the left sidebar or top tabs)  
+2. Assign your newly created menu to the **Navigation Menu** location  
+
+For detailed options and settings, see **iro-Options > Global Options > Navigation Menu Options**.  
 :::
 
 ## My custom images, fonts, etc., are not working. What should I do?
@@ -63,7 +75,8 @@ If using mobile resources, shrink the page width below 860px. Use dev tools or a
 
 If your browser can access the resource:
 Go to the Console tab and look for links with the keyword `Access-Control-Allow-Origin`. If it shows up, you need to configure your server like this (Nginx/OpenResty):
-```
+
+```lua
 server {
     listen 80 ; 
     listen [::]:80 ; 
@@ -80,6 +93,7 @@ server {
     ...
 }
 ```
+
 If your site uses HTTPS, make sure all linked resources also use HTTPS—mixed content will be blocked.
 :::
 
@@ -115,6 +129,7 @@ Set:
 The theme uses automatic dark mode switching. From 22:00 to 07:00 (Beijing time), the theme switches to dark mode.
 
 If that’s not the reason:
+
 - Did you accidentally change style via the widget panel?
 - Did your random image API fail?
 - Is there a CORS issue with your image?
@@ -153,7 +168,8 @@ You can try this:
 Right-click the affected element → Inspect → drag to highlight the element in DevTools → look for its class.
 
 Example:
-```
+
+```css
 .leaflet-map-pane {
     transition: none !important;
 }
@@ -172,6 +188,7 @@ https://highlightjs.org/#usage
 https://prismjs.com/#basic-usage  
 
 Basic usage example:  
+
 ```html
 <pre><code class="language-css">p { color: red }</code></pre>  
 <pre><code class="language-html">...</code></pre>  
