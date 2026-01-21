@@ -243,7 +243,9 @@ google gemini: `https://generativelanguage.googleapis.com/v1beta/openai/chat/com
 
 ### Fontawesome加载源
 
-主题图标使用Fontawesome，默认从`https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css`加载，  
+主题图标需要使用Fontawesome资源，  
+默认为：`https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css`  
+中国大陆加速可选：`https://cdn.staticfile.org/font-awesome/6.7.2/css/all.min.css`  
 如果您有更好更快的来源，可以填写自定义来源，不稳定的来源可能造成相关图标显示异常。
 
 ### 开发者模式

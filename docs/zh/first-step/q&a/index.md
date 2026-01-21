@@ -5,44 +5,46 @@ title: 常见问题
 # 常见问题
 
 对于您遇到的问题，建议优先通过查找历史issues寻找可能的解决方案 [点击前往查找](https://github.com/mirai-mamori/Sakurairo/issues?q=is%3Aissue+is%3Aclosed)  
-如果本文档没能解决您的问题，可以尝试使用搜索引擎搜索 “关键字 + site:docs.fuukei.org”   
+如果本文档没能解决您的问题，可以尝试使用搜索引擎搜索 “关键字 + site:docs.fuukei.org”  
 看看是不是哪里没能引起你的注意  
 
 如果还是没能解决你的问题，可以 [在此处](https://github.com/mirai-mamori/Sakurairo/issues/new/choose) 参考模版提出您遇到的问题  
 
 ## 主题设置保存不生效怎么办？
 
-::: tip 
+::: tip  
 如果您使用了优化类（静态缓存等）插件，请在保存主题设置后清理插件缓存。如果仍然无法生效，请提交 issue
 :::
 
 ## 主题有些图片没加载出来怎么办？
 
-::: tip 
+::: tip  
 首先检查你的网络环境及缓存，确认上述无问题后，请在主题设置中选择“关于主题” --> “资源控制” --> “视觉资源路径” 修改地址！[- > > > 点我去看看视觉资源设置！< < < -](/Sakurairo/About-Theme/#%E8%A7%86%E8%A7%89%E8%B5%84%E6%BA%90%E8%B7%AF%E5%BE%84)
 
 :::
 
-## 主题升级以后我会丢失什么吗？ 
+## 主题升级以后我会丢失什么吗？  
 
-::: tip 
+::: tip  
 在主题设置及WP内置的主题自定义CSS功能内进行的任何设置均不会丢失，而对主题本体文件的修改将会全部丢失  
 :::
 
-## 我的服务器在国内，默认更新源无法检测更新怎么办？ 
+## 我的服务器在国内，默认更新源无法检测更新怎么办？  
 
-::: tip 
+::: tip  
 在使用升级功能前，请手动前往主题设置，关于主题中切换更新源为除Github以外的其他选项即可
 :::
 
-## 我使用的浏览器访问启用本主题的网站 出现了问题（按钮失效/无法正常显示等） 是主题问题吗？ 
+## 我使用的浏览器访问启用本主题的网站 出现了问题（按钮失效/无法正常显示等） 是主题问题吗？
 
-::: tip 
+::: tip  
 在移动端，以下浏览器不支持：UC浏览器、夸克浏览器、QQ浏览器、安卓QQ内置浏览器、安卓微信内置浏览器。
 在桌面端：不支持IE浏览器，对Edge Html引擎支援不佳。 如果你使用的浏览器不在上文范围内，请前往 Github 发送 issue 获取帮助
 :::
+
 ## 我的网站怎么打开XX页面都是404？
-::: tip 
+
+::: tip  
 1.请检查点击后跳转的链接是不是类似于这种：`.../xxx.php/xxx/...`，
 并且是纯文字的那种（主题有风格化的404页），  
 如果是，那么可能是你没有正确配置伪静态，请根据你使用的服务器应用（apache、nginx等）自行寻找配置教程。  
@@ -51,9 +53,18 @@ title: 常见问题
 2.如果不是，请确保你这个链接确指向一个真实存在的文章/页面/分类，并且它已发布。  
 :::
 
+## 页面顶部的导航菜单内容要怎么编辑？
+
+::: tip  
+请至`后台——外观——菜单`选项卡创建一个新菜单，编辑好内容后保存，然后你就可以在旁边看见`管理位置`的选项卡了，  
+在导航菜单的选项上指派你刚刚创建的那个菜单就行了。  
+
+更多关于导航菜单的内容详细请参阅`全局设置——导航菜单设置`的相关内容。
+:::
+
 ## 我设置的图片、自定义字体等资源没有生效怎么办？
 
-::: tip 
+::: tip  
 遇到这类问题，请先在PC端浏览器按F12，切换到网络面板（network）使用ctrl+F5清除缓存强制刷新，  
 在页面停止载入后浏览所有已拉取的资源，检查资源是否被正常载入，  
 如果资源条目底色为红色，建议右键在新标签页打开，看看浏览器能否正常访问，  
@@ -65,7 +76,8 @@ title: 常见问题
 切换到控制台（console），检查蓝色链接条目，找到你设置的资源路径，  
 如果该条目含有关键词`“Access-Control-Allow-Origin”`，请参照以下配置更新你的资源所在网站服务器配置然后重启：  
 Nginx/Openresty
-```
+
+```lua
 server {
     listen 80 ; 
     listen [::]:80 ; 
@@ -73,15 +85,16 @@ server {
     listen [::]:443 ssl http2 ; 
     server_name docs.fuukei.org; 
     index index.php index.html index.htm default.php default.htm default.html; 
-    add_header Access-Control-Allow-Origin '*' always;      |<<<主要就是参考这三项所在位置添加这三项即可
-    add_header Access-Control-Allow-Methods '*' always;     |   套了cdn的域名请自行参考网上教程进行相关配置
-    add_header Access-Control-Allow-Headers '*' always;     |   关键词“CORS报错”
+    add_header Access-Control-Allow-Origin '*' always;      -- <<<主要就是参考这三项所在位置添加这三项即可
+    add_header Access-Control-Allow-Methods '*' always;     --   套了cdn的域名请自行参考网上教程进行相关配置
+    add_header Access-Control-Allow-Headers '*' always;     --   关键词“CORS报错”
     if ($request_method = 'OPTIONS') {
-	    return 200;
+        return 200;
     }
     ......
 }
 ```  
+
 如果你的网站启用了https（htst、ssl证书），请同样引用https的资源，http的资源会被视为不安全进而被拦截。
 :::
 
@@ -150,11 +163,13 @@ fuukei.org的网站目录/文件夹在`/opt/openresty/www/sites/fuukei.org/index
 ![image](/qa/class.png)  
 右键受影响的内容并选择检查，尝试拖拽并观察右侧开发者工具中闪烁提示的变化元素，如果观察不到就展开当前层级  
 找到受影响元素的class，选择其中一个复制粘贴至以下示例样式中：  
-```
+
+```css
 .leaflet-map-pane {
     transition: none !important;
 }
 ```  
+
 将该样式代码粘贴至`后台——其他设置——低使用设置——自定义CSS样式`中即可尝试修复。  
 该方案不保证一定生效，仅对类似已经证实的情况有效，请根据你自己的具体情况进行诊断。
 :::
@@ -166,9 +181,11 @@ fuukei.org的网站目录/文件夹在`/opt/openresty/www/sites/fuukei.org/index
 https://highlightjs.org/#usage  
 https://prismjs.com/#basic-usage  
 基本使用方法：  
+
 ```html
 <pre><code class="language-css">p { color: red }</code></pre>  
 <pre><code class="language-html">...</code></pre>  
 ```  
+
 注意其中的`<pre>`（块级标记，只有code是行内），以及class（语言标记，说明块内的语言类型）  
 :::
