@@ -184,8 +184,8 @@ Note: This may not fix all issues—it only helps in known cases. Diagnose your 
 
 ::: tip  
 It is recommended to refer to the official documentation:  
-https://highlightjs.org/#usage  
-https://prismjs.com/#basic-usage  
+<https://highlightjs.org/#usage>  
+<https://prismjs.com/#basic-usage>  
 
 Basic usage example:  
 
@@ -196,4 +196,11 @@ Basic usage example:
 
 Note the use of `<pre>` (a block-level element; `<code>` alone is inline),  
 and the `class` attribute (language indicator, specifying the language of the block).  
+:::
+
+## Regarding Cover Image Filling for Front Desk Integration  
+
+::: tip  
+After enabling front desk integration, if duplicate covers appear, please go to `Global Options – Widgets Panel and Frontend Related Options` and change the `Frontend Background Scaling Method` option to `Cover`.  
+This will allow the cover to automatically stretch and fill the entire area.  
 :::

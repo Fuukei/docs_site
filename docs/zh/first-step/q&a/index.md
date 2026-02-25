@@ -178,8 +178,8 @@ fuukei.org的网站目录/文件夹在`/opt/openresty/www/sites/fuukei.org/index
 
 ::: tip  
 建议自行参考官方文档：  
-https://highlightjs.org/#usage  
-https://prismjs.com/#basic-usage  
+<https://highlightjs.org/#usage>  
+<https://prismjs.com/#basic-usage>  
 基本使用方法：  
 
 ```html
@@ -188,4 +188,11 @@ https://prismjs.com/#basic-usage
 ```  
 
 注意其中的`<pre>`（块级标记，只有code是行内），以及class（语言标记，说明块内的语言类型）  
+:::
+
+## 关于封面前台一体化的封面图片填充  
+
+::: tip  
+开启封面前台一体化后，如果出现封面重复的情况，请前往`全局设置——小组件和前台相关设置`将`前台背景缩放方式`选项改为`覆盖`即可，
+这样封面即可自动拉伸铺满
 :::
