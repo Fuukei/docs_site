@@ -156,7 +156,7 @@ export default defineConfig({
               { text: 'Use Blog', link: '/en/demo/' }
             ],
             socialLinks: [
-              { icon: 'github', link: 'https://github.com/mirai-mamori/en/Sakurairo' },
+              { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo/blob/main/README_en.md' },
             ],
             footer: {
               copyright: "This Page Use WTFPL Licensed | Copyright © 2020-2025 Fuukei™",
