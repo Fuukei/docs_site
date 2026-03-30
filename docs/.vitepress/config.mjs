@@ -73,7 +73,7 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo' },
         ],
       footer: {
-          copyright: "This Page Use WTFPL Licensed | Copyright © 2020-2025 Fuukei™",
+          copyright: "This Page Use WTFPL Licensed | Copyright © 2020-2026 Fuukei™",
           message: ""
         },
         search: {
@@ -128,7 +128,7 @@ export default defineConfig({
               { text: 'Changelog', link: '/en/Sakurairo/Update-Log/' }
             ],
             nav: [
-              { text: 'Home', link: '/' },
+              { text: 'Home', link: '/en/' },
               { text: 'Getting Started', 
                 items: [
                   { text: 'Install WordPress', link: '/en/first-step/wp-install/' },
@@ -159,7 +159,7 @@ export default defineConfig({
               { icon: 'github', link: 'https://github.com/mirai-mamori/Sakurairo/blob/main/README_en.md' },
             ],
             footer: {
-              copyright: "This Page Use WTFPL Licensed | Copyright © 2020-2025 Fuukei™",
+              copyright: "This Page Use WTFPL Licensed | Copyright © 2020-2026 Fuukei™",
               message: ""
             },
             search: {

@@ -14,7 +14,7 @@ hero:
       link: /en/Sakurairo/Preliminary/
     - theme: alt
       text: View on Github
-      link: https://github.com/mirai-mamori/Sakurairo
+      link: https://github.com/mirai-mamori/Sakurairo/blob/main/README_en.md
 features:
   - icon: 🎉
     title: Revamped Visuals
