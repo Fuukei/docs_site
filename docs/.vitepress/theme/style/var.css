@@ -12,18 +12,36 @@
 }
 #cursor {
     position: fixed;
+    left: 0;
+    top: 0;
     width: 18px;
     height: 18px;
     background: var(--vp-c-text-1);
     border-radius: 8px;
     opacity: 0.25;
-    z-index: 99999999;
+    z-index: 99999998;
     pointer-events: none;
+    transform: translate(-50%, -50%);
     transition: 0.2s ease-in-out;
     transition-property: background, opacity, transform;
 }
 
-#cursor.hidden {
+#cursor-dot {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 10px;
+    height: 10px;
+    background: gray;
+    border-radius: 999px;
+    z-index: 99999999;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: opacity 0.2s ease-in-out;
+}
+
+#cursor.hidden,
+#cursor-dot.hidden {
     opacity: 0;
 }
 
@@ -34,5 +52,5 @@
 
 #cursor.active {
     opacity: 0.5;
-    transform: scale(0.5);
+    transform: translate(-50%, -50%) scale(0.5);
 }
